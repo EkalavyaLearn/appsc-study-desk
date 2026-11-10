@@ -20,11 +20,11 @@ Only this directory is intended for public publication. Never include Android si
 
 Prepare and review content through the existing Android project's documented content workflow. Copy the resulting public `app/src/main/assets/content.json` here, keeping IDs stable. Verify schema/version, quiz explanations and source links, then commit and publish the update. Do not change `data_as_of` unless official facts were checked. Native app source and its existing content endpoint are separate; website publication does not update them.
 
-This export contains one prepared lesson, 15 questions, 25 subjects, 60 resources and five notification tracks. Future study weeks are outlines. The JSON content version and original source-check dates are preserved.
+This export contains two prepared lessons, 30 questions, 25 subjects, 61 resources and five notification tracks. Future study weeks are outlines. The JSON content version and original source-check dates are preserved.
 
 ## Local review
 
-Serve this directory over HTTP (for example, `python -m http.server 8000`) and open the local URL. Opening index.html directly with file:// may prevent the lesson catalogue from loading. Check the Day 1 lesson and quiz, subject/post views, library filters, local progress persistence and backup export/import. `node --check app.js` checks JavaScript syntax.
+Serve this directory over HTTP (for example, `python -m http.server 8000`) and open the local URL. Opening index.html directly with file:// may prevent the lesson catalogue from loading. Check the prepared lessons and quizzes, subject/post views, library filters, local progress persistence and backup export/import. `node --check app.js` checks JavaScript syntax.
 
 ## Browser storage
 

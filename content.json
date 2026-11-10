@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "content_version": "2026.11.09.020449",
-  "generated_at": "2026-11-09T02:04:49.898474+05:30",
+  "content_version": "2026.11.10.094643",
+  "generated_at": "2026-11-10T09:46:43.310326+05:30",
   "data_as_of": "2026-11-08",
   "app_title": "APPSC Study Desk",
   "disclaimer": "Independent study aid. Not affiliated with or endorsed by APPSC or the Government of Andhra Pradesh. Official notifications and current official sources prevail.",
@@ -2321,6 +2321,41 @@
       "source_url": "https://www.ncert.nic.in/textbook/pdf/leec202.pdf",
       "asset_path": null,
       "source_type": "official"
+    },
+    {
+      "id": "lesson_day_02",
+      "title": "Day 2 — Fundamental Rights, percentage changes and EO foundations",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "aptitude",
+        "official_updates",
+        "hindu_philosophy_temple"
+      ],
+      "content_type": "lesson",
+      "stage": "preparation",
+      "notification": null,
+      "exam_year": null,
+      "official_url": null,
+      "pages": null,
+      "key_status": "original_practice_with_explanations",
+      "limitations": [
+        "Locally authored preparation guidance, not an APPSC publication.",
+        "The 15 questions are original practice, not official APPSC past-paper questions."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "guided_lesson",
+      "is_plan": false,
+      "lesson_id": "day-02",
+      "source_url": null,
+      "asset_path": null,
+      "source_type": "local_authored"
     }
   ],
   "lessons": [
@@ -2692,6 +2727,397 @@
           "id": "ncert_demand",
           "title": "NCERT Introductory Microeconomics, Chapter 2",
           "url": "https://www.ncert.nic.in/textbook/pdf/leec202.pdf"
+        }
+      ]
+    },
+    {
+      "id": "day-02",
+      "day_number": 2,
+      "title": "Day 2 — Fundamental Rights, percentage changes and EO foundations",
+      "status": "ready",
+      "prepared_date": "2026-11-10",
+      "duration_minutes": 120,
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "aptitude",
+        "official_updates",
+        "hindu_philosophy_temple"
+      ],
+      "intro": "Continue Day 1 with rights and remedies, percentage applications and the Tuesday Executive Officer specialist slot. The first 60 minutes build common skills for all five notification tracks; the next 30 minutes introduce EO Paper II. Finish with 15 original practice questions and error review. These notes and questions are independently prepared learning material, not an official APPSC paper or a prediction of questions. The EO block is an introduction, not completion of its specialist syllabus. Use the time limits for reading, worked examples and recall together.",
+      "schedule": [
+        {
+          "id": "day-02-block-1",
+          "title": "Common core: Fundamental Rights and constitutional remedies",
+          "minutes": 35,
+          "section_id": "day-02-s1"
+        },
+        {
+          "id": "day-02-block-2",
+          "title": "Aptitude: successive changes, reverse percentages and percentage points",
+          "minutes": 15,
+          "section_id": "day-02-s2"
+        },
+        {
+          "id": "day-02-block-3",
+          "title": "Official-source reading: distinguish the current scheme from an old paper",
+          "minutes": 10,
+          "section_id": "day-02-s3"
+        },
+        {
+          "id": "day-02-block-4",
+          "title": "EO specialist rotation: Vedas, Upanishads and six philosophical schools",
+          "minutes": 30,
+          "section_id": "day-02-s4"
+        },
+        {
+          "id": "day-02-block-5",
+          "title": "Attempt 15 questions without notes; leave uncertain answers blank if needed",
+          "minutes": 15,
+          "section_id": null
+        },
+        {
+          "id": "day-02-block-6",
+          "title": "Read explanations, correct your error log and schedule a reattempt",
+          "minutes": 15,
+          "section_id": null
+        }
+      ],
+      "sections": [
+        {
+          "id": "day-02-s1",
+          "title": "Fundamental Rights: identify the right, its beneficiary and its remedy",
+          "minutes": 35,
+          "paragraphs": [
+            "Time plan: spend 3 minutes recalling Day 1's Parts III, IV and IVA; 17 minutes on the article map below; 8 minutes comparing the two writ jurisdictions; and 7 minutes writing a closed-book recall table. Classification matters more than memorising isolated article numbers.",
+            "Article 14: the State must respect equality before law and equal protection of the laws for any person within India. Its wording is not limited to citizens. Do not turn equality into the claim that every distinction is forbidden: constitutionally permitted special provisions and reservations have to be read with their own clauses.",
+            "Articles 15 and 16: Article 15(1) prohibits State discrimination against citizens only on religion, race, caste, sex or place of birth. Article 16 concerns equality of opportunity for citizens in employment or appointment under the State. Keep the contexts separate: a question about public employment points to Article 16. Article 16(2) also names descent and residence; do not mechanically copy the Article 15 list. These articles contain further clauses allowing specified special provisions; the basic prohibitions are not a complete reservation rulebook.",
+            "Article 19: six freedoms are stated for citizens—speech and expression; peaceful assembly without arms; associations, unions or co-operative societies; movement throughout India; residence and settlement; and profession, occupation, trade or business. They are subject to the restrictions specified in the article. The right to property is not one of these six current freedoms. Exam trap: neither 'available only to citizens' nor 'available to every person' is correct for every Fundamental Right.",
+            "Article 21 protects every person's life and personal liberty against deprivation except according to procedure established by law. Article 21A requires the State to provide free and compulsory education for children aged 6 to 14, in the manner determined by law. Compare Article 45 in Part IV: it concerns early childhood care and education below age 6. Keep the age ranges and constitutional categories distinct.",
+            "Article 32 guarantees the right to approach the Supreme Court through appropriate proceedings to enforce Part III rights. Article 226 empowers High Courts to issue directions, orders and writs for Part III rights and for other purposes. Thus Article 226 has a wider subject-matter reach for writ relief; this does not mean a High Court is above the Supreme Court. Article 226 is in Part VI, not Part III. Territorial and other legal requirements still apply.",
+            "Writ memory cues: habeas corpus examines the legality of detention; mandamus calls for performance of a public legal duty; prohibition restrains proceedings beyond jurisdiction; certiorari can quash an unlawful decision on recognised grounds; quo warranto questions the legal authority to occupy a public office. These are study cues, not exhaustive legal tests. Remember 'detention—habeas corpus' and 'public office—quo warranto' before learning finer distinctions.",
+            "Rights, principles and duties: Part III supplies Fundamental Rights and constitutional remedies. Article 37 says Part IV principles are not enforceable by a court, while treating them as fundamental to governance and making their application in lawmaking a duty of the State. Part IVA, Article 51A, lists citizens' Fundamental Duties. A desirable welfare objective does not become an Article 32 claim merely because it appears in Part IV; check whether a separate enforceable right or law is involved.",
+            "Worked classification: a question asks about a ten-year-old child's constitutional entitlement to free compulsory education. Choose Article 21A, not Article 45 or the general freedom provisions of Article 19. A separate question asks which article specifically protects equality of opportunity in State employment: choose Article 16, even though Article 14 supplies the broader equality principle.",
+            "Closed-book task: draw three columns—article, beneficiary/context, key protection. Fill 14, 15, 16, 19, 21, 21A, 32 and 226. Then write two differences between Articles 32 and 226 and the three-way distinction between Parts III, IV and IVA. Reopen the notes only after finishing. Mark any confused pair for the final review block."
+          ],
+          "source_ids": [
+            "day-02-constitution",
+            "day-02-writ-reference"
+          ]
+        },
+        {
+          "id": "day-02-s2",
+          "title": "Percentage applications: always name the base",
+          "minutes": 15,
+          "paragraphs": [
+            "Time plan: 4 minutes on the rules, 7 minutes reproducing the examples on paper, and 4 minutes checking the short recall task. Percent means per hundred, but the denominator decides what the answer means. Write the original value before calculating a percentage change.",
+            "Core rules: percentage change = (new value − old value) / old value × 100. An increase of r% multiplies a value by (1 + r/100); a decrease multiplies it by (1 − r/100). Successive changes use successive multiplication, because the second percentage acts on the changed value.",
+            "Worked example 1—successive changes: a quantity of 500 rises 20% and then falls 20%. It becomes 500 × 1.20 × 0.80 = 480. The net change is −20/500 × 100 = −4%. Equal percentage increases and decreases do not cancel. With an increase of a% followed by a decrease of a%, the net percentage change is −a²/100.",
+            "Worked example 2—reverse percentage: a price after a 15% increase is ₹690. Original price = 690/1.15 = ₹600. Subtracting 15% of ₹690 would use the wrong base. For a known final value, divide by the multiplier that produced it.",
+            "Worked example 3—percentage points: a rate rises from 40% to 50%. The rise is 10 percentage points; the relative increase is (50 − 40)/40 × 100 = 25%. In economy or statistics questions, check whether the question asks for a difference between rates or a proportional change in a rate.",
+            "Worked example 4—constant spending: if unit price rises 25%, the affordable quantity under an unchanged budget becomes 1/1.25 = 0.80 of its former value. Quantity must fall 20%. Check with a ₹1,000 budget: at ₹40 per unit buy 25 units; at ₹50 buy 20 units. The reduction is 5/25, not 5/20.",
+            "Recall task, then check: (a) 200 increased by 10% and then 10% again is 242, a 21% total rise; (b) a value of 360 after a 10% fall came from 400; (c) a rate changing from 8% to 10% rises by 2 percentage points and by 25% relative to its original rate. If any answer differs, circle the denominator you used. All numerical examples in this section are original teaching examples."
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "day-02-s3",
+          "title": "Official reading: use the current notification to interpret past papers",
+          "minutes": 10,
+          "paragraphs": [
+            "Open the linked Executive Officer 23/2026 detailed notification and locate its examination scheme and Paper II syllabus. Record the notification number, paper name, question count, duration, marks and marking rule. The saved current scheme has two objective papers, each with 150 questions, 150 minutes and 150 marks, and one-third negative marking. This reading exercise does not announce a new circular or a new exam date.",
+            "Notice the syllabus references to Vedas and Upanishads: these explain today's EO specialist topic. The full Paper II also includes other philosophy, cultural, legal and temple-administration topics. Completing today's introductory notes does not cover the complete paper.",
+            "An archived EO paper remains useful for question style and retrieval practice, but its recruitment year, format and syllabus may differ. Start from the current notification and any applicable later official amendment, then label old questions as within the current syllabus, changed, or outside it. When checking an archived paper, prefer that paper's final official key over its initial key. Never transfer an old exam date into the current recruitment.",
+            "Ten-minute output: write a six-line scheme card from the official document, then write one sentence explaining why a historical question paper cannot by itself establish the current exam pattern. If a PDF is temporarily unavailable, bookmark the official link and use the saved scheme only as a provisional reading aid; do not infer a new rule from an unavailable page."
+          ],
+          "source_ids": [
+            "day-02-eo-notification"
+          ]
+        },
+        {
+          "id": "day-02-s4",
+          "title": "EO Paper II foundation: textual families and philosophical schools",
+          "minutes": 30,
+          "paragraphs": [
+            "Time plan: 8 minutes for the four Vedas and textual layers, 7 minutes for selected Upanishad associations, 7 minutes for the six schools, and 8 minutes for closed-book matching. This is the Tuesday EO specialist block in the saved rotation. Other post tracks can use it for cultural awareness, but its specialist relevance is Executive Officer Paper II.",
+            "Four Vedas, four recall cues: Rigveda—hymns; Samaveda—chants and their musical rendering; Yajurveda—sacrificial formulae and ritual performance; Atharvaveda—prayers and material concerning varied aspects of life. These are broad memory cues, not claims that each collection contains only one kind of material. Spellings such as Rig Veda and Rigveda refer to the same collection.",
+            "Textual layers: Samhitas are collections of mantras; Brahmanas explain ritual; Aranyakas develop forest-text reflection; Upanishads emphasise philosophical inquiry. Do not confuse Brahmana, a category of text, with Brahman, a philosophical term, or with Brahma, a deity. Recognise the term in the wording of the question before selecting an answer.",
+            "Upanishad associations for today's first matching set: Aitareya—Rigveda; Isha—Shukla Yajurveda; Kena and Chandogya—Samaveda; Mundaka, Mandukya and Prashna—Atharvaveda. Mundaka and Mandukya are different titles, even though both appear in the Atharvaveda group. These examples are a selected learning set, not a complete catalogue.",
+            "The Upanishads are associated with the concluding philosophical portion of Vedic literature and are traditionally included in Shruti. The term Vedanta connects to this end or culmination of the Veda. Do not choose 'a fifth Veda' simply because an option mentions an Upanishad. Study the association and type of text before attempting difficult doctrinal interpretation.",
+            "The standard six-school list is Nyaya, Vaisheshika, Samkhya, Yoga, Purva Mimamsa and Vedanta (Uttara Mimamsa). In the classification used here, their astika status concerns recognition of Vedic authority; reducing the classification to a simple modern 'believes in God/does not believe in God' test can mislead. Distinct schools have different arguments and doctrines.",
+            "Traditional teacher-school pairs: Nyaya—Gautama; Vaisheshika—Kanada; Samkhya—Kapila; Yoga—Patanjali; Purva Mimamsa—Jaimini; Vedanta/Uttara Mimamsa—Badarayana. Learn these as conventional textual associations. Do not treat them as a precise chronology of when every idea in a tradition first arose.",
+            "Active-recall grid: on blank paper, write four Veda names and one cue for each. Next, match Aitareya, Isha, Kena and Mundaka to their Vedas without looking. Finally, cover the teacher names and retrieve all six school-teacher pairs. Check only after completing each set; put a dot beside uncertain answers even if they turn out correct.",
+            "One-minute explanation exercise: tell an imaginary learner how a Veda, an Upanishad and a philosophical school differ as categories. A good answer identifies a scriptural collection, a type of philosophical text within the Vedic tradition, and a system of philosophical thought. Keep classification separate from evaluating anyone's religious belief. Agamas, detailed Vedanta schools, temple administration and applicable laws remain for later EO lessons."
+          ],
+          "source_ids": [
+            "day-02-ignca-vedic",
+            "day-02-upanishads",
+            "day-02-sanskrit-schools",
+            "day-02-vedic-introduction"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "day-02-q01",
+          "topic": "Constitution — beneficiaries of rights",
+          "subject_id": "constitution",
+          "prompt": "Which statement correctly distinguishes Articles 14 and 19?",
+          "options": [
+            "Both use citizens alone as their beneficiaries",
+            "Article 14 covers any person within India; Article 19 states freedoms for citizens",
+            "Article 14 is only a Directive Principle; Article 19 is a Fundamental Duty",
+            "Article 19 guarantees unlimited exercise of every listed freedom"
+          ],
+          "answer_index": 1,
+          "explanation": "Article 14 uses 'any person', while Article 19 begins with citizens. Article 19 also contains specified restrictions. The trap is extending one article's beneficiary wording to every Fundamental Right. Both articles belong to Part III."
+        },
+        {
+          "id": "day-02-q02",
+          "topic": "Constitution — equality in public employment",
+          "subject_id": "constitution",
+          "prompt": "Which article specifically concerns equality of opportunity in employment or appointment under the State?",
+          "options": [
+            "Article 14",
+            "Article 15",
+            "Article 16",
+            "Article 21A"
+          ],
+          "answer_index": 2,
+          "explanation": "Article 16 specifically addresses public employment and appointment. Article 14 provides a broader equality guarantee; Article 15 addresses prohibited discrimination in its own contexts; Article 21A concerns education for children aged 6–14. The word 'specifically' determines the best answer."
+        },
+        {
+          "id": "day-02-q03",
+          "topic": "Constitution — right to education",
+          "subject_id": "constitution",
+          "prompt": "Article 21A's free and compulsory education provision applies to which age range?",
+          "options": [
+            "Below 6 years only",
+            "6 to 14 years",
+            "14 to 18 years",
+            "All persons below 21 years"
+          ],
+          "answer_index": 1,
+          "explanation": "Article 21A specifies children aged six to fourteen. Article 45, a Directive Principle, concerns early childhood care and education below six. Similar subject matter does not make the age limits or constitutional categories interchangeable."
+        },
+        {
+          "id": "day-02-q04",
+          "topic": "Constitution — writ jurisdiction",
+          "subject_id": "constitution",
+          "prompt": "Which statement about Articles 32 and 226 is correct?",
+          "options": [
+            "Article 32 is in Part IV and is never enforceable",
+            "Only the Supreme Court can issue any writ",
+            "Article 226 is confined exclusively to Fundamental Rights",
+            "Article 32 concerns enforcement of Part III rights; Article 226 also extends to other purposes"
+          ],
+          "answer_index": 3,
+          "explanation": "Article 32 guarantees access to the Supreme Court for enforcing Part III rights. Article 226 gives High Courts writ power for Fundamental Rights and other purposes. Its wider subject-matter scope does not place a High Court above the Supreme Court."
+        },
+        {
+          "id": "day-02-q05",
+          "topic": "Constitution — writ identification",
+          "subject_id": "constitution",
+          "prompt": "Which writ is most directly associated with examining whether a person's detention is lawful?",
+          "options": [
+            "Habeas corpus",
+            "Quo warranto",
+            "Mandamus",
+            "Prohibition"
+          ],
+          "answer_index": 0,
+          "explanation": "Habeas corpus addresses the legality of detention. Quo warranto concerns authority to hold a public office, mandamus concerns a public legal duty, and prohibition restrains proceedings beyond jurisdiction. Identify the problem before matching the writ name."
+        },
+        {
+          "id": "day-02-q06",
+          "topic": "Constitution — Directive Principles",
+          "subject_id": "constitution",
+          "prompt": "Which description best reflects Article 37?",
+          "options": [
+            "Every Directive Principle can be enforced directly through Article 32",
+            "Directive Principles are merely private moral preferences",
+            "Directive Principles are not court-enforceable, but are fundamental to governance and must guide State lawmaking",
+            "Directive Principles and Article 51A duties are the same constitutional list"
+          ],
+          "answer_index": 2,
+          "explanation": "Article 37 combines non-enforceability in court with constitutional importance in governance and the State's duty to apply the principles in making laws. Non-justiciability does not mean irrelevance. Fundamental Duties are separately listed in Part IVA."
+        },
+        {
+          "id": "day-02-q07",
+          "topic": "Aptitude — successive percentage changes",
+          "subject_id": "aptitude",
+          "prompt": "A value rises by 25% and then falls by 20%. Relative to its original value, it is now:",
+          "options": [
+            "5% higher",
+            "5% lower",
+            "10% higher",
+            "Unchanged"
+          ],
+          "answer_index": 3,
+          "explanation": "Multiply the factors: 1.25 × 0.80 = 1.00. For example, 100 becomes 125 and then 100. Subtracting 20 from 25 is invalid because the two percentages use different bases."
+        },
+        {
+          "id": "day-02-q08",
+          "topic": "Aptitude — reverse percentages",
+          "subject_id": "aptitude",
+          "prompt": "After a 20% discount, an item costs ₹960. What was its price before the discount?",
+          "options": [
+            "₹1,200",
+            "₹1,152",
+            "₹1,000",
+            "₹1,248"
+          ],
+          "answer_index": 0,
+          "explanation": "The final price is 80% of the original, so original = 960/0.80 = ₹1,200. Adding 20% of ₹960 produces ₹1,152 and uses the wrong base. A forward check gives 1,200 × 0.80 = 960."
+        },
+        {
+          "id": "day-02-q09",
+          "topic": "Aptitude — percentage points",
+          "subject_id": "aptitude",
+          "prompt": "A participation rate rises from 30% to 36%. Which pair gives its rise in percentage points and its relative percentage increase, respectively?",
+          "options": [
+            "6 percentage points; 6%",
+            "20 percentage points; 6%",
+            "6 percentage points; 20%",
+            "20 percentage points; 20%"
+          ],
+          "answer_index": 2,
+          "explanation": "The rate difference is 36 − 30 = 6 percentage points. Relative increase = 6/30 × 100 = 20%. A percentage-point difference and a percentage change answer different questions."
+        },
+        {
+          "id": "day-02-q10",
+          "topic": "Aptitude — unchanged expenditure",
+          "subject_id": "aptitude",
+          "prompt": "If the unit price of a product rises by 20%, by what percentage must quantity purchased fall to keep expenditure unchanged?",
+          "options": [
+            "20%",
+            "16⅔%",
+            "25%",
+            "12½%"
+          ],
+          "answer_index": 1,
+          "explanation": "New quantity/original quantity = 1/1.20 = 5/6. The reduction is 1/6, or 16⅔%. For example, a ₹120 budget buys 12 units at ₹10 and 10 units at ₹12; the reduction is 2/12, not 2/10."
+        },
+        {
+          "id": "day-02-q11",
+          "topic": "Official-source reading — current rules and historical papers",
+          "subject_id": "official_updates",
+          "prompt": "An old EO paper uses a format that differs from the current notification. What is the soundest preparation approach?",
+          "options": [
+            "Assume the historical format overrides every later notification",
+            "Discard every old question without checking its topic",
+            "Use a coaching prediction as the deciding authority",
+            "Follow the current notification and applicable official amendments, and map old questions to the current syllabus"
+          ],
+          "answer_index": 3,
+          "explanation": "The current recruitment's official rules govern its scheme. Historical questions remain useful after checking topic relevance, paper year and key status. Their existence does not prove that a previous format or examination date carries into the current recruitment."
+        },
+        {
+          "id": "day-02-q12",
+          "topic": "EO — Vedic collections",
+          "subject_id": "hindu_philosophy_temple",
+          "prompt": "Which Veda is especially associated with chants and their musical rendering?",
+          "options": [
+            "Samaveda",
+            "Yajurveda",
+            "Atharvaveda",
+            "Rigveda"
+          ],
+          "answer_index": 0,
+          "explanation": "Samaveda is the appropriate association for chant and musical rendering. The recall cues distinguish it from Rigvedic hymns and Yajurvedic sacrificial formulae. These cues describe a prominent characteristic, not an exclusive inventory of every text."
+        },
+        {
+          "id": "day-02-q13",
+          "topic": "EO — Upanishad associations",
+          "subject_id": "hindu_philosophy_temple",
+          "prompt": "Which Upanishad–Veda association is correct?",
+          "options": [
+            "Kena—Rigveda",
+            "Aitareya—Atharvaveda",
+            "Kena—Samaveda",
+            "Mundaka—Shukla Yajurveda"
+          ],
+          "answer_index": 2,
+          "explanation": "Kena is associated with Samaveda. In today's selected set, Aitareya belongs to Rigveda and Mundaka to Atharvaveda. Build a matching table rather than relying on which title sounds familiar."
+        },
+        {
+          "id": "day-02-q14",
+          "topic": "EO — philosophical schools",
+          "subject_id": "hindu_philosophy_temple",
+          "prompt": "Which is the conventional school–teacher association?",
+          "options": [
+            "Yoga—Kanada",
+            "Nyaya—Gautama",
+            "Vaisheshika—Jaimini",
+            "Purva Mimamsa—Patanjali"
+          ],
+          "answer_index": 1,
+          "explanation": "Nyaya is conventionally associated with Gautama. The other relevant pairs are Yoga—Patanjali, Vaisheshika—Kanada and Purva Mimamsa—Jaimini. The question tests traditional association, not a precise date of origin."
+        },
+        {
+          "id": "day-02-q15",
+          "topic": "EO — philosophical classification",
+          "subject_id": "hindu_philosophy_temple",
+          "prompt": "In the six-school classification used in today's notes, the astika grouping is principally identified by:",
+          "options": [
+            "Recognition of the authority of the Vedas",
+            "Having exactly the same doctrine in all six schools",
+            "Being one of the four Vedic Samhitas",
+            "Rejecting philosophical discussion of knowledge"
+          ],
+          "answer_index": 0,
+          "explanation": "This classification uses recognition of Vedic authority. It does not imply identical doctrines, and a philosophical school is not itself a Vedic Samhita. Avoid replacing this technical classification with a simple modern theist/atheist label."
+        }
+      ],
+      "review": [
+        "Use 15 minutes: 5 to read the explanations, 5 to redo wrong or guessed questions without looking, and 5 to write an error log and one-page recall sheet. Correct guesses still need review.",
+        "Record question ID, your answer, correct answer, reason for error and next revision. Label errors as concept gap, wrong percentage base, confused pair, misreading or unsupported guess.",
+        "Score the original set as correct minus wrong/3; unanswered items score zero. Example: 10 correct, 3 wrong and 2 blank gives 9 net marks out of 15. This is practice feedback, not an official cut-off or selection forecast.",
+        "By the end, retrieve Articles 14/16/19/21A/32/226, explain Article 37, solve one reverse-percentage problem, distinguish percentage points from percent change, and reproduce the selected Veda–Upanishad and school–teacher pairs.",
+        "Reattempt today's errors after 2, 7 and 21 days, replacing part of those days' review slots rather than adding study time. Keep reattempt scores separate from scores on fresh questions.",
+        "If the first attempt exceeded 15 minutes, record the actual time and the question type that slowed you down. Completion of a lesson is not proof of mastery. Bring the two weakest pairs or calculation steps into the next day's opening recall."
+      ],
+      "sources": [
+        {
+          "id": "day-02-constitution",
+          "title": "Legislative Department — Constitution of India, as on 1 May 2026; Articles 14–21A, 32, 37, 45, 51A and 226; checked 10 November 2026",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf"
+        },
+        {
+          "id": "day-02-writ-reference",
+          "title": "SATHEE, IIT Kanpur — NCERT Rights in the Indian Constitution; writ study reference; checked 10 November 2026",
+          "url": "https://sathee.iitk.ac.in/sathee-ssc/student-corner/ncert-books/class-11/political-science/indian-constitution-at-work/chapter-02-rights-in-the-indian-constitution/"
+        },
+        {
+          "id": "day-02-eo-notification",
+          "title": "APPSC — Executive Officer Grade III, Notification 23/2026; current scheme and syllabus",
+          "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/EO_Grade_III_DetailedNotification_232026.pdf"
+        },
+        {
+          "id": "day-02-ignca-vedic",
+          "title": "Indira Gandhi National Centre for the Arts — A Glimpse of Vedic Literature; checked 10 November 2026",
+          "url": "https://ignca.gov.in/a-glimpse-of-vedic-literature/"
+        },
+        {
+          "id": "day-02-upanishads",
+          "title": "IGNCA Vedic Heritage Portal — Upanishads and their Veda associations; checked 10 November 2026",
+          "url": "https://vedicheritage.gov.in/upanishads/"
+        },
+        {
+          "id": "day-02-sanskrit-schools",
+          "title": "Central Sanskrit University — About Sanskrit, schools of philosophy; checked 10 November 2026",
+          "url": "https://www.sanskrit.nic.in/about_sanskrit.php"
+        },
+        {
+          "id": "day-02-vedic-introduction",
+          "title": "IGNCA Vedic Heritage Portal — Introduction, Vedic literature and astika classification; checked 10 November 2026",
+          "url": "https://vedicheritage.gov.in/introduction/"
         }
       ]
     }
