@@ -20,7 +20,7 @@ Only this directory is intended for public publication. Never include Android si
 
 Prepare and review content through the existing Android project's documented content workflow. Copy the resulting public `app/src/main/assets/content.json` here, keeping IDs stable. Verify schema/version, quiz explanations and source links, then commit and publish the update. Do not change `data_as_of` unless official facts were checked. Native app source and its existing content endpoint are separate; website publication does not update them.
 
-This export contains two prepared lessons, 30 questions, 25 subjects, 61 resources and five notification tracks. Future study weeks are outlines. The JSON content version and original source-check dates are preserved.
+This export contains three prepared lessons, 45 questions, 25 subjects, 62 resources and five notification tracks. Future study weeks are outlines. The JSON content version and original source-check dates are preserved.
 
 ## Local review
 

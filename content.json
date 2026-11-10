@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "content_version": "2026.11.10.094643",
-  "generated_at": "2026-11-10T09:46:43.310326+05:30",
+  "content_version": "2026.11.10.103213",
+  "generated_at": "2026-11-10T10:32:13.556623+05:30",
   "data_as_of": "2026-11-08",
   "app_title": "APPSC Study Desk",
   "disclaimer": "Independent study aid. Not affiliated with or endorsed by APPSC or the Government of Andhra Pradesh. Official notifications and current official sources prevail.",
@@ -2356,6 +2356,41 @@
       "source_url": null,
       "asset_path": null,
       "source_type": "local_authored"
+    },
+    {
+      "id": "lesson_day_03",
+      "title": "Day 3 — Parliamentary executive, ratios and welfare safeguards",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "aptitude",
+        "official_updates",
+        "welfare"
+      ],
+      "content_type": "lesson",
+      "stage": "preparation",
+      "notification": null,
+      "exam_year": null,
+      "official_url": null,
+      "pages": null,
+      "key_status": "original_practice_with_explanations",
+      "limitations": [
+        "Locally authored preparation guidance, not an APPSC publication.",
+        "The 15 questions are original practice, not official APPSC past-paper questions."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "guided_lesson",
+      "is_plan": false,
+      "lesson_id": "day-03",
+      "source_url": null,
+      "asset_path": null,
+      "source_type": "local_authored"
     }
   ],
   "lessons": [
@@ -3118,6 +3153,401 @@
           "id": "day-02-vedic-introduction",
           "title": "IGNCA Vedic Heritage Portal — Introduction, Vedic literature and astika classification; checked 10 November 2026",
           "url": "https://vedicheritage.gov.in/introduction/"
+        }
+      ]
+    },
+    {
+      "id": "day-03",
+      "day_number": 3,
+      "title": "Day 3 — Parliamentary executive, ratios and welfare safeguards",
+      "status": "ready",
+      "prepared_date": "2026-11-10",
+      "duration_minutes": 120,
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "aptitude",
+        "official_updates",
+        "welfare"
+      ],
+      "intro": "Build on Days 1 and 2 by linking constitutional offices to responsibility, using ratios and weighted averages, and introducing welfare safeguards. This numbered lesson follows the Wednesday Welfare Officer slot in the saved rotation; it can be studied whenever you reach Day 3. The first 60 minutes develop common skills across the five notification tracks, followed by a 30-minute ASWO/ATWO specialist block and 30 minutes of practice and review. The 15 questions are original learning exercises, not official past-paper questions or a complete mock examination.",
+      "schedule": [
+        {
+          "id": "day-03-block-1",
+          "title": "Common core: Union and State executive, advice and responsibility",
+          "minutes": 35,
+          "section_id": "day-03-s1"
+        },
+        {
+          "id": "day-03-block-2",
+          "title": "Aptitude: linked ratios, weighted averages and changing totals",
+          "minutes": 15,
+          "section_id": "day-03-s2"
+        },
+        {
+          "id": "day-03-block-3",
+          "title": "Official reading: map Welfare Paper III and identify its historical final key",
+          "minutes": 10,
+          "section_id": "day-03-s3"
+        },
+        {
+          "id": "day-03-block-4",
+          "title": "Welfare specialist: constitutional safeguards, commissions and two protection Acts",
+          "minutes": 30,
+          "section_id": "day-03-s4"
+        },
+        {
+          "id": "day-03-block-5",
+          "title": "Attempt 15 original questions without notes",
+          "minutes": 15,
+          "section_id": null
+        },
+        {
+          "id": "day-03-block-6",
+          "title": "Check answers and explanations, correct errors and plan recall",
+          "minutes": 15,
+          "section_id": null
+        }
+      ],
+      "sections": [
+        {
+          "id": "day-03-s1",
+          "title": "Parliamentary executive: who holds office, who advises and who answers to whom?",
+          "minutes": 35,
+          "paragraphs": [
+            "Time plan: 3 minutes recalling the rights/remedies distinction from Day 2, 15 minutes reading the Union–State comparisons, 10 minutes making the comparison table, and 7 minutes answering the recall prompts without notes. Today's aim is to connect an office, an article and a responsibility; it is not to memorise every executive power in one sitting.",
+            "Union starting points: Article 52 provides for the President of India. Article 53 vests the Union's executive power in the President, to be exercised in accordance with the Constitution. Read this together with Article 74: a Council of Ministers headed by the Prime Minister aids and advises the President. Constitutional vesting of executive power does not mean that the President personally decides all day-to-day policy independently of the ministerial system.",
+            "Advice under Article 74: the President acts in accordance with the Council's advice. The President may ask the Council to reconsider advice, but must act in accordance with the advice tendered after reconsideration. Keep 'request reconsideration' distinct from 'reject the reconsidered advice indefinitely'. For an introductory question, state this constitutional rule before discussing exceptional political situations.",
+            "Appointments under Article 75(1): the President appoints the Prime Minister; other Union Ministers are appointed by the President on the Prime Minister's advice. Thus 'appointed by the President' and 'recommended by the Prime Minister' describe different parts of the process for other Ministers. Do not substitute the Speaker or the Chief Justice for the appointing authority.",
+            "Collective responsibility under Article 75(3): the Union Council of Ministers is collectively responsible to the House of the People, or Lok Sabha. The exact House matters. It is not collectively responsible to the Rajya Sabha in the same constitutional sense. Appointment by the President and collective responsibility to the Lok Sabha are different relationships, not contradictory statements.",
+            "Membership under Article 75(5): a Minister who is not a member of either House of Parliament for six consecutive months ceases to be a Minister when that period expires. This does not say that every Minister must belong only to the Lok Sabha. The six-month rule is not a general exemption from other constitutional eligibility or disqualification requirements.",
+            "State starting points: Article 153 provides for a Governor for each State and permits the same person to be Governor of two or more States. Article 154 vests the State's executive power in the Governor, in accordance with the Constitution. Article 155 provides for the Governor's appointment by the President. A Governor is not elected by the State Legislative Assembly.",
+            "State ministerial system: Article 163 provides for a Council headed by the Chief Minister to aid and advise the Governor, except where the Constitution requires the Governor to exercise discretion. Do not turn this exception into a claim of unrestricted personal discretion over all State policy. Under Article 164(1), the Governor appoints the Chief Minister and appoints other Ministers on the Chief Minister's advice. Article 164(2) makes the State Council collectively responsible to the State Legislative Assembly, not to the Legislative Council where one exists.",
+            "Comparison table to write from memory: Union—President, Prime Minister, Articles 74/75, Lok Sabha. State—Governor, Chief Minister, Articles 163/164, Legislative Assembly. Add a second row for formal executive-power provisions: 53 at Union level and 154 at State level. Then add the appointing authority for the Prime Minister, Governor and Chief Minister.",
+            "Worked distinction: if a question asks who formally appoints other State Ministers, answer 'the Governor, on the Chief Minister's advice'. If it asks to which House the entire State Council is collectively responsible, answer 'the Legislative Assembly'. A single familiar word such as 'Governor' should not be used to answer both questions.",
+            "Closed-book checks: explain why 'executive power vested in the President' must be read with Article 74; complete the sequence 'President may seek reconsideration → Council reconsiders → ...'; and name the correct lower House for collective responsibility at each level. Mark any confusion between appointment, advice and accountability for the final review."
+          ],
+          "source_ids": [
+            "day-03-constitution"
+          ]
+        },
+        {
+          "id": "day-03-s2",
+          "title": "Ratios and weighted averages: reconstruct the total before dividing",
+          "minutes": 15,
+          "paragraphs": [
+            "Time plan: 3 minutes on the rules, 8 minutes reproducing the worked examples, and 4 minutes on the short checks. Day 1 introduced ratios and averages; today use them when groups have different sizes or when the total changes. All numerical examples are original teaching examples.",
+            "Ratio rule: if A:B = a:b, write A = ak and B = bk for a common multiplier k. With total T, A = aT/(a+b) and B = bT/(a+b). The ratio numbers are relative parts, not necessarily the actual quantities. If the ratio concerns counts or measurements, keep the units consistent.",
+            "Worked example 1—divide a total: 360 books are divided between two libraries in the ratio 4:5. There are 9 equal parts, so each part is 40 books. The libraries receive 160 and 200. Check both their sum, 360, and the simplified ratio, 4:5.",
+            "Worked example 2—link two ratios: A:B = 2:3 and B:C = 4:5. Make B equal in both: 2:3 becomes 8:12 and 4:5 becomes 12:15. Therefore A:B:C = 8:12:15. Joining the original numbers as 2:3:5 would incorrectly treat two different B values as equal.",
+            "Weighted-average rule: combined mean = total of all observations / total number of observations. If groups have sizes n1 and n2 and means m1 and m2, use (n1m1 + n2m2)/(n1+n2). The mean of the two means works only when their group sizes are equal. A final mean should lie between the group means when all group sizes are positive.",
+            "Worked example 3—unequal groups: 20 learners have a mean score of 60 and 30 learners have a mean score of 70. Total score = 20×60 + 30×70 = 3,300; combined mean = 3,300/50 = 66. The answer is closer to 70 because the group with mean 70 is larger. The unweighted answer 65 ignores group sizes.",
+            "Worked example 4—remove an observation: ten values have mean 18, so their total is 180. Remove the value 27: new total = 153 and new count = 9; new mean = 17. Update both the numerator and the denominator. If instead a new value x is added, write new total = old total + x and new count = old count + 1.",
+            "Quick checks, then verify: (a) 210 divided in the ratio 2:5 gives 60 and 150; (b) two equally sized groups with means 40 and 60 have combined mean 50; (c) five numbers with mean 12 total 60, and adding 18 gives a six-number mean of 13. Before accepting an answer, check the units, the group count and whether the answer is plausible."
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "day-03-s3",
+          "title": "Official reading: build a current-syllabus map and a paper–key identity card",
+          "minutes": 10,
+          "paragraphs": [
+            "Use 4 minutes to open the linked ASWO/ATWO 26/2026 notification, Annexure II. Its written scheme lists three degree-standard objective papers, each with 150 questions, 150 minutes and 150 marks: 450 marks in total. Each wrong answer attracts a deduction of one-third of that question's marks. Record this as the current notification's scheme, not as a newly issued update.",
+            "In Paper III, map item 2 on government structure and the parliamentary executive to today's common-core block. Map items 7–8 on safeguards, welfare mechanisms, commissions, the atrocities law and legislation against social evils to today's specialist block. Write one line connecting each study block to a syllabus item. This is a method for deciding relevance, not a claim about how many questions the examiner will set from it.",
+            "Use 4 minutes to inspect the library entries for the historical Welfare Paper III examination held in 2017 under notification 34/2016. The question-paper file carries an initial key; the official recruitment archive records publication of the separate final key on 22 January 2018. Match the recruitment, paper, Question IDs and option mapping before scoring. A displayed question number or option order may differ in another candidate version. The final key's publication year does not change the paper into a 2018 examination.",
+            "Use the final 2 minutes to make an identity card: current notification 26/2026; target Paper III; two relevant syllabus items; historical recruitment 34/2016; examination year 2017; final-key publication 22 January 2018, confirmed in the official archive. A final key governs that historical paper's marking, but does not prove that all its topics, facts or rules are unchanged today. This exercise announces no new circular or examination date."
+          ],
+          "source_ids": [
+            "day-03-welfare-notification",
+            "day-03-welfare-old-paper",
+            "day-03-welfare-final-key",
+            "day-03-welfare-archive"
+          ]
+        },
+        {
+          "id": "day-03-s4",
+          "title": "Welfare safeguards: separate the right, the directive, the commission and the statute",
+          "minutes": 30,
+          "paragraphs": [
+            "Time plan: 8 minutes for Articles 17 and 46, 7 minutes for Articles 338 and 338A, 7 minutes comparing the two Acts, and 8 minutes making a four-column recall chart. This is the Wednesday ASWO/ATWO specialist rotation. The constitutional ideas also support General Studies, but this introductory block does not cover every welfare scheme, reservation provision or protection law in the specialist syllabus.",
+            "Article 17, in Part III, abolishes untouchability and forbids its practice in any form. Enforcing a disability arising from untouchability is an offence punishable according to law. This is a Fundamental Right provision, not merely a recommendation to a welfare department. Link it to Day 2's distinction between an enforceable right and a Directive Principle.",
+            "Article 46, in Part IV, directs the State to promote the educational and economic interests of weaker sections, especially Scheduled Castes and Scheduled Tribes, and protect them against social injustice and exploitation. Read it with Article 37: Directive Principles guide governance and lawmaking but are not, by themselves, enforceable by a court. Article 46 does not specify one universal scholarship amount or one reservation percentage for every setting.",
+            "Articles 338 and 338A identify two different constitutional commissions: Article 338—National Commission for Scheduled Castes (NCSC); Article 338A—National Commission for Scheduled Tribes (NCST). Both have safeguard-monitoring and complaint-inquiry functions within their constitutional mandates. Their duties include reporting to the President on how safeguards operate and making recommendations. Do not merge them into a single present-day commission or confuse a commission with a ministry administering a scheme.",
+            "Institutional distinction: the commissions have specified civil-court powers when investigating or inquiring into the matters described by their articles. This does not make them criminal trial courts or give every recommendation the status of a court judgment. For an exam classification question, first identify whether the body monitors safeguards, administers a programme, investigates an offence or tries a case; these functions are not interchangeable.",
+            "Protection of Civil Rights Act, 1955: learn its title, year and connection to untouchability. It provides punishment for preaching or practising untouchability and for enforcement of a disability arising from it, along with related matters. It should not be treated as a statute covering every possible civil right merely because its title contains the words 'civil rights'.",
+            "Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989: learn its distinct identity and purpose—preventing specified offences of atrocities against members of Scheduled Castes and Scheduled Tribes. Its framework includes Special Courts and Exclusive Special Courts for trial of offences and relief and rehabilitation for victims. It is a separate enactment from the 1955 Act; the two titles are not alternate names for one law. Detailed offences, elements, procedures and amended rules require their own later study.",
+            "Worked classification: a question asks for the constitutional abolition of untouchability—Article 17. A question asks for the directive on educational and economic advancement of weaker sections—Article 46. A question asks for the national constitutional commission for Scheduled Tribes—Article 338A. A question asks for the 1989 atrocities-prevention law—name that Act, not the Protection of Civil Rights Act, 1955.",
+            "Recall chart: make columns for instrument, category, purpose and common confusion. Fill five rows: Article 17; Article 46; Article 338; Article 338A; and a comparison row for the 1955/1989 Acts. Cover the names and identify each instrument from its purpose. Then explain why the existence of a constitutional commission does not mean that it replaces the courts or every executive welfare agency.",
+            "One-minute retrieval: say aloud '17—Fundamental Right; 46—Directive Principle; 338—NCSC; 338A—NCST; 1955—civil-rights protection connected to untouchability; 1989—prevention of specified atrocities against SC/ST members'. Use this as a memory scaffold, then return to the precise wording when practising more detailed questions."
+          ],
+          "source_ids": [
+            "day-03-constitution",
+            "day-03-pcr-act",
+            "day-03-poa-act"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "day-03-q01",
+          "topic": "Constitution — executive power and advice",
+          "subject_id": "constitution",
+          "prompt": "Which statement best reads Articles 53 and 74 together?",
+          "options": [
+            "The Prime Minister is the constitutional President of India",
+            "Executive power is vested in the President, alongside the constitutional system of ministerial aid and advice",
+            "Article 53 removes the need for a Council of Ministers",
+            "The Speaker advises the President on every executive decision"
+          ],
+          "answer_index": 1,
+          "explanation": "Article 53 vests Union executive power in the President. Article 74 supplies the Council of Ministers headed by the Prime Minister and the advice framework. Reading the provisions together avoids mistaking formal vesting of power for unrestricted independent personal government."
+        },
+        {
+          "id": "day-03-q02",
+          "topic": "Constitution — ministerial membership",
+          "subject_id": "constitution",
+          "prompt": "Under Article 75(5), a Union Minister who is not a member of either House of Parliament for six consecutive months:",
+          "options": [
+            "Automatically becomes a nominated Rajya Sabha member",
+            "May continue indefinitely without parliamentary membership",
+            "Ceases to be a Minister when that period expires",
+            "Must obtain membership only of the Lok Sabha"
+          ],
+          "answer_index": 2,
+          "explanation": "The constitutional rule is cessation as Minister at the end of six consecutive months without membership of either House. It does not create automatic nomination or require Lok Sabha membership alone. Other eligibility and disqualification rules still matter."
+        },
+        {
+          "id": "day-03-q03",
+          "topic": "Constitution — Union collective responsibility",
+          "subject_id": "constitution",
+          "prompt": "The Union Council of Ministers is collectively responsible under Article 75(3) to:",
+          "options": [
+            "The Lok Sabha",
+            "The Rajya Sabha alone",
+            "The Supreme Court",
+            "The Election Commission"
+          ],
+          "answer_index": 0,
+          "explanation": "Article 75(3) specifies the House of the People, which is the Lok Sabha. Do not confuse the President's appointing role with the House to which the Council is collectively responsible."
+        },
+        {
+          "id": "day-03-q04",
+          "topic": "Constitution — reconsidered advice",
+          "subject_id": "constitution",
+          "prompt": "After the President asks the Council of Ministers to reconsider advice under Article 74, what does the Constitution provide about the advice tendered after reconsideration?",
+          "options": [
+            "The Speaker must replace the advice with a separate decision",
+            "The President may reject it indefinitely without qualification",
+            "It automatically becomes a Supreme Court order",
+            "The President shall act in accordance with that reconsidered advice"
+          ],
+          "answer_index": 3,
+          "explanation": "The proviso to Article 74 permits a request for reconsideration and requires the President to act in accordance with the advice tendered after it. The power to seek reconsideration is not an unlimited power to disregard the resulting advice."
+        },
+        {
+          "id": "day-03-q05",
+          "topic": "Constitution — Governor's appointment",
+          "subject_id": "constitution",
+          "prompt": "Which statement about a State Governor is correct?",
+          "options": [
+            "The Governor is elected by the Legislative Assembly",
+            "The President appoints the Governor, and one person may be Governor of two or more States",
+            "The Chief Minister appoints the Governor for a single State only",
+            "The Chief Justice appoints the Governor after each Assembly election"
+          ],
+          "answer_index": 1,
+          "explanation": "Article 155 provides for appointment by the President. Article 153 permits the same person to be Governor of two or more States. Neither popular election nor appointment by the Chief Minister is the rule stated in these provisions."
+        },
+        {
+          "id": "day-03-q06",
+          "topic": "Constitution — State collective responsibility",
+          "subject_id": "constitution",
+          "prompt": "In a State with both a Legislative Assembly and a Legislative Council, the State Council of Ministers is collectively responsible under Article 164(2) to:",
+          "options": [
+            "The Legislative Council alone",
+            "Both Houses jointly, in identical terms",
+            "The Legislative Assembly",
+            "The Governor's secretariat"
+          ],
+          "answer_index": 2,
+          "explanation": "Article 164(2) names the Legislative Assembly. The presence of an upper House does not change the specified House for collective responsibility. Compare this with the Union Council's responsibility to the Lok Sabha."
+        },
+        {
+          "id": "day-03-q07",
+          "topic": "Aptitude — dividing a total in a ratio",
+          "subject_id": "aptitude",
+          "prompt": "A total of 640 books is divided between two libraries in the ratio 3:5. How many books does the larger share contain?",
+          "options": [
+            "240",
+            "400",
+            "384",
+            "500"
+          ],
+          "answer_index": 1,
+          "explanation": "There are 3+5=8 equal parts. Each part is 640/8=80 books, so the larger share is 5×80=400. The remaining 240 gives the required ratio 240:400=3:5."
+        },
+        {
+          "id": "day-03-q08",
+          "topic": "Aptitude — linking ratios",
+          "subject_id": "aptitude",
+          "prompt": "If A:B = 3:4 and B:C = 2:5, what is A:B:C?",
+          "options": [
+            "3:4:5",
+            "6:4:5",
+            "3:4:10",
+            "3:2:5"
+          ],
+          "answer_index": 2,
+          "explanation": "Make B equal in the two ratios. Multiply B:C=2:5 by 2 to obtain 4:10, then combine with A:B=3:4. The resulting ratio is 3:4:10. Check that 4:10 simplifies to 2:5."
+        },
+        {
+          "id": "day-03-q09",
+          "topic": "Aptitude — weighted average",
+          "subject_id": "aptitude",
+          "prompt": "Thirty candidates have a mean score of 52 and twenty other candidates have a mean score of 67 on the same test. What is their combined mean?",
+          "options": [
+            "58",
+            "59.5",
+            "60",
+            "62"
+          ],
+          "answer_index": 0,
+          "explanation": "Combined score = 30×52 + 20×67 = 1,560+1,340 = 2,900. Divide by 50 candidates to get 58. The simple average 59.5 ignores the unequal group sizes. The combined mean is closer to 52, the mean of the larger group."
+        },
+        {
+          "id": "day-03-q10",
+          "topic": "Aptitude — adding a value to an average",
+          "subject_id": "aptitude",
+          "prompt": "Eight values have mean 15. A ninth value is added and the mean becomes 17. What is the ninth value?",
+          "options": [
+            "2",
+            "17",
+            "31",
+            "33"
+          ],
+          "answer_index": 3,
+          "explanation": "The original total is 8×15=120. The new total is 9×17=153. The added value is 153−120=33. Subtracting the means alone would ignore the change in the number of observations."
+        },
+        {
+          "id": "day-03-q11",
+          "topic": "Official reading — paper and key identity",
+          "subject_id": "official_updates",
+          "prompt": "A Welfare Paper III was examined in 2017 under notification 34/2016, and the official archive records its final-key publication on 22 January 2018. Which record is correct?",
+          "options": [
+            "It is a 2018 examination because the final key appeared in 2018",
+            "It belongs to notification 26/2026 because it remains useful today",
+            "It is a 2017 paper with a 2018 final-key publication; match Question IDs and option mapping before scoring",
+            "The initial key should always override the separate final key"
+          ],
+          "answer_index": 2,
+          "explanation": "Recruitment number, examination date and verified key-publication date are separate identifiers. Match the historical paper, Question IDs and relevant option mapping before applying the final key. A paper's usefulness does not move it into the current recruitment or make its old rules automatically current."
+        },
+        {
+          "id": "day-03-q12",
+          "topic": "Welfare — abolition of untouchability",
+          "subject_id": "welfare",
+          "prompt": "Which constitutional provision abolishes untouchability and forbids its practice in any form?",
+          "options": [
+            "Article 17",
+            "Article 46",
+            "Article 338",
+            "Article 164"
+          ],
+          "answer_index": 0,
+          "explanation": "Article 17 is in Part III and provides the constitutional abolition of untouchability. Article 46 is a Directive Principle on educational and economic interests and protection from injustice; Article 338 concerns the NCSC; Article 164 concerns State Ministers."
+        },
+        {
+          "id": "day-03-q13",
+          "topic": "Welfare — Directive Principles",
+          "subject_id": "welfare",
+          "prompt": "Which statement about Article 46 is correct?",
+          "options": [
+            "It fixes a single scholarship amount for every beneficiary",
+            "It is the constitutional article establishing the NCST",
+            "It is a Directive Principle promoting weaker sections' educational and economic interests, especially those of SCs and STs",
+            "It is the article that elects the Governor"
+          ],
+          "answer_index": 2,
+          "explanation": "Article 46 is in Part IV and includes educational and economic advancement and protection against social injustice and exploitation. Its emphasis includes Scheduled Castes and Scheduled Tribes. It does not itself prescribe a universal scholarship amount; the NCST is addressed by Article 338A."
+        },
+        {
+          "id": "day-03-q14",
+          "topic": "Welfare — constitutional commissions",
+          "subject_id": "welfare",
+          "prompt": "Which pair correctly matches the constitutional commissions to their articles?",
+          "options": [
+            "NCSC—Article 338A; NCST—Article 338",
+            "NCSC—Article 17; NCST—Article 46",
+            "NCSC—Article 75; NCST—Article 164",
+            "NCSC—Article 338; NCST—Article 338A"
+          ],
+          "answer_index": 3,
+          "explanation": "Article 338 provides for the National Commission for Scheduled Castes and Article 338A for the National Commission for Scheduled Tribes. They are distinct constitutional commissions, not one combined present-day body."
+        },
+        {
+          "id": "day-03-q15",
+          "topic": "Welfare — protection statutes",
+          "subject_id": "welfare",
+          "prompt": "Which comparison correctly distinguishes the two protection statutes in today's notes?",
+          "options": [
+            "The 1955 and 1989 titles are two names for the same Act",
+            "The Protection of Civil Rights Act, 1955 addresses untouchability-related disabilities; the SC/ST (Prevention of Atrocities) Act, 1989 addresses specified atrocities against SC/ST members",
+            "The 1989 Act created the office of Governor",
+            "The 1955 Act is merely a non-binding study guideline"
+          ],
+          "answer_index": 1,
+          "explanation": "The Acts are separate statutes with distinct titles, years and purposes. The 1955 Act is connected to the abolition of untouchability, while the 1989 Act addresses specified atrocities against SC/ST members and associated trial and relief arrangements. Detailed application requires the relevant provisions, not the titles alone."
+        }
+      ],
+      "review": [
+        "Spend 5 minutes checking explanations, 5 minutes redoing errors without the notes, and 5 minutes writing a short recall sheet. Review correct guesses as well as wrong answers.",
+        "Score this set as correct minus wrong/3, with blanks scoring zero. For example, 11 correct, 3 wrong and 1 blank gives 10 net marks out of 15. This is learning feedback, not an official cut-off prediction.",
+        "Error-log fields: question ID; your answer; corrected answer; cause; one rule that prevents repetition. Useful labels today are appointing authority versus responsibility, wrong House, unmatched ratio base, unequal weights, changed observation count, wrong article and confused Act year.",
+        "Five-minute exit sheet: draw the Union–State executive comparison; solve one linked-ratio problem and one weighted mean; identify Articles 17, 46, 338 and 338A; and distinguish the 1955 and 1989 Acts in one sentence.",
+        "Reattempt wrong and guessed questions after 2, 7 and 21 days. Use part of those days' review slots so the total remains two hours. Keep repeat-attempt results separate from scores on fresh questions.",
+        "Start the next lesson with the two weakest distinctions from today. If you cannot explain why a distractor is wrong, keep the item in your review list even when you selected the correct option."
+      ],
+      "sources": [
+        {
+          "id": "day-03-constitution",
+          "title": "Legislative Department — Constitution of India, as on 1 May 2026; Articles 17, 37, 46, 52–53, 74–75, 153–155, 163–164, 338 and 338A; checked 10 November 2026",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf"
+        },
+        {
+          "id": "day-03-welfare-notification",
+          "title": "APPSC — ASWO/ATWO Notification 26/2026, Annexure II, scheme and Paper III syllabus; checked 10 November 2026",
+          "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/ASWO_ATWO_262026.pdf"
+        },
+        {
+          "id": "day-03-welfare-old-paper",
+          "title": "APPSC — Welfare 34/2016, 2017 Paper III question paper and initial key; historical reference",
+          "url": "https://psc.ap.gov.in/Documents/KEYS/Subject%20Paper-III-27_09_2017.PDF"
+        },
+        {
+          "id": "day-03-welfare-final-key",
+          "title": "APPSC — historical Welfare Paper III final key, published 22 January 2018 as confirmed in the official archive",
+          "url": "https://psc.ap.gov.in/Documents/KEYS/FinalKeyPaper-III_22012018.pdf"
+        },
+        {
+          "id": "day-03-pcr-act",
+          "title": "India Code — Protection of Civil Rights Act, 1955; introductory purpose and title",
+          "url": "https://www.indiacode.nic.in/indiacode/handle/123456789/1544?view_type=browse"
+        },
+        {
+          "id": "day-03-poa-act",
+          "title": "India Code — Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989; introductory purpose and framework",
+          "url": "https://www.indiacode.nic.in/indiacode/handle/123456789/1920?col=123456789%2F1362&view_type=search"
+        },
+        {
+          "id": "day-03-welfare-archive",
+          "title": "APPSC — official notification 34/2016 archive; Final Key published 22/01/2018; checked 10 November 2026",
+          "url": "https://portal-psc.ap.gov.in/HomePages/Notificationwise_Archive_Categories?Flag=hpwI8w9hjpnMevLhUfJxCQ%3D%3D"
         }
       ]
     }
