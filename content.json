@@ -1,0 +1,2842 @@
+{
+  "schema_version": 1,
+  "content_version": "2026.11.09.020449",
+  "generated_at": "2026-11-09T02:04:49.898474+05:30",
+  "data_as_of": "2026-11-08",
+  "app_title": "APPSC Study Desk",
+  "disclaimer": "Independent study aid. Not affiliated with or endorsed by APPSC or the Government of Andhra Pradesh. Official notifications and current official sources prevail.",
+  "posts": [
+    {
+      "id": "group_i",
+      "name": "Group I Services",
+      "short_name": "Group I",
+      "notification": "07/2026",
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "essay",
+        "telugu",
+        "english"
+      ],
+      "scheme": "Screening: two objective papers, each 120 questions, 120 minutes and 120 marks (240 total), with one-third negative marking. Mains: five merit papers of 150 marks/180 minutes each (750); Telugu and English are separate qualifying papers, 150 marks/180 minutes each. Interview: 75 marks; merit total 825.",
+      "date": "Screening scheduled for 24 January 2027. Mains dates will be announced later.",
+      "syllabus": "Screening Paper I: history/culture, polity/social justice/international relations, India/AP economy, geography (30 marks each). Paper II: mental/administrative/psychological abilities (60), science/technology (30), current events (30). Mains adds essay writing and deeper history/geography, polity/governance/law/ethics, economy/development, and science/technology/environment.",
+      "papers": "Official 2024 screening papers and final keys; all seven 2025 mains papers including Telugu and English. Older 2023 screening files are solved-reference compilations lacking distractor options, not full MCQ mocks.",
+      "observation": "The 2025 essay paper offers nine prompts and asks for one from each of three sections. Inspected themes connect policy/current issues with AP examples. Practise arguments, trade-offs and evidence; one paper does not establish future topic weights.",
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Group_I_07_2026.pdf",
+      "exam_date": "2027-01-24"
+    },
+    {
+      "id": "welfare_officers",
+      "name": "Assistant Social Welfare Officer / Assistant Tribal Welfare Officer",
+      "short_name": "ASWO / ATWO",
+      "notification": "26/2026",
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "welfare",
+        "cpt"
+      ],
+      "scheme": "Three objective CBRT papers, each 150 questions, 150 minutes and 150 marks (450 total), plus qualifying Computer Proficiency Test. The current scheme does not announce a separate screening stage. One-third negative marking applies.",
+      "date": "Examination date will be announced later.",
+      "syllabus": "Paper I: General Studies and Mental Ability. Paper II: AP social/cultural history and welfare programmes. Paper III: Indian Constitution, welfare and protection of weaker sections. Focus on AP social reform/state formation, SC/ST welfare, constitutional safeguards, reservations, protection laws, commissions, local government and accountability.",
+      "papers": "Official 2017 mains papers under notification 34/2016: three paper/initial-key files with separate final keys. A historical screening paper and final key are additional topic practice only.",
+      "observation": "A fixed 10-question sample from the 2017 specialist papers included AP chronology/culture and constitutional institutions/protection law. This supports timelines and article/institution comparisons. The small sample does not justify skipping welfare schemes or claiming topic weightages.",
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/ASWO_ATWO_262026.pdf",
+      "exam_date": null
+    },
+    {
+      "id": "executive_officer",
+      "name": "Executive Officer Grade III",
+      "short_name": "EO",
+      "notification": "23/2026",
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "hindu_philosophy_temple",
+        "cpt"
+      ],
+      "scheme": "Two degree-standard objective CBRT papers, each 150 questions, 150 minutes and 150 marks (300 total), with one-third negative marking; qualifying Computer Proficiency Test follows.",
+      "date": "Examination date will be announced later.",
+      "syllabus": "Paper I: General Studies and Mental Ability. Paper II: Hindu Philosophy and Temple System, including epics/Puranas, Vedas/Upanishads/Agamas, traditions/gurus, festivals/arts, Hindu personal-law topics and temple administration, duties, finance and land records.",
+      "papers": "Official full question/final-key files for both papers from the 11 February 2026 exam (notification 10/2025), plus the 2023 mains cycle (24/2021). Historical 2022 screening material is supplementary only.",
+      "observation": "The latest 2026 papers are full scanned MCQ booklets with boxed final answers; the 2023 papers also preserve choices. The older exam used OMR while the current notification specifies CBRT: practise on-screen navigation as well as content.",
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/EO_Grade_III_DetailedNotification_232026.pdf",
+      "exam_date": null
+    },
+    {
+      "id": "industrial_promotion_officer",
+      "name": "Industrial Promotion Officer",
+      "short_name": "IPO",
+      "notification": "24/2026",
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "mathematics",
+        "physics",
+        "chemistry",
+        "industrial_management",
+        "industrial_engineering",
+        "computer_basics",
+        "cpt"
+      ],
+      "scheme": "Two objective papers, each 150 questions, 150 minutes and 150 marks (300 total): General Studies/Mental Ability and Applied Science, Engineering and Management at diploma standard. Qualifying Computer Proficiency Test; one-third negative marking.",
+      "date": "Examination date will be announced later.",
+      "syllabus": "Paper II has six areas: mathematics, physics, chemistry, industrial management, industrial engineering and computer science. Expect calculations and concepts across all six. Computing is one component, not an optional paper.",
+      "papers": "Official complete question/final-key PDFs for both papers from notification 11/2022, 2023 exam cycle. Keys were published in December 2023; the exact test day was not independently verified.",
+      "observation": "Inspected 2023 Paper II examples include molarity (Q4), inventory bin cards (Q50), quality inspection (Q70), vectors (Q120) and projectile motion (Q147). Practise numericals and management across the syllabus; this sample does not predict proportions.",
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/IPODetailedNotification_242026.pdf",
+      "exam_date": null
+    },
+    {
+      "id": "assistant_director",
+      "name": "Assistant Director, Economics and Statistical Service",
+      "short_name": "AD",
+      "notification": "09/2026",
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "economics",
+        "accounting",
+        "computer_basics",
+        "statistics",
+        "cpt"
+      ],
+      "scheme": "Three objective papers, each 150 questions, 150 minutes and 150 marks (450 total): General Studies/Mental Ability, Economics and Statistics. The two specialist papers are postgraduate standard. Qualifying Computer Proficiency Test; one-third negative marking.",
+      "date": "Examination date will be announced later.",
+      "syllabus": "Economics includes economic concepts, international/Indian economy, financial accounting and basic computers/spreadsheets. Statistics covers data/sampling/probability, averages, dispersion/skewness, correlation, time series and index numbers. There is no Computer Science optional paper.",
+      "papers": "Official 2019 question/initial-key and final-key compilations for all three papers under notification 04/2019. Many entries provide question stems and answer text without all multiple-choice distractors.",
+      "observation": "The 2019 files include accounting (Economics Q120), binary range (Q124), spreadsheet formulas (Q133), correlation transformations (Statistics Q100) and index numbers (Q148). Economics Q127 is deleted in the final key. Use current topics and final corrections, not every old answer as current fact.",
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Assistant_Director_092026.pdf",
+      "exam_date": null
+    }
+  ],
+  "subjects": [
+    {
+      "id": "constitution",
+      "name": "Constitution, polity and governance",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "ap_history",
+      "name": "Andhra Pradesh history and culture",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "indian_history",
+      "name": "Indian history and national movement",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "Indian and AP economy and development",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "Indian and AP geography",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "aptitude",
+      "name": "Mental ability, reasoning and quantitative aptitude",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "science_technology",
+      "name": "General science and technology",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "current_affairs",
+      "name": "Current events",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "Environment and disaster management",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "welfare",
+      "name": "Welfare programmes and protection measures",
+      "post_ids": [
+        "welfare_officers"
+      ]
+    },
+    {
+      "id": "hindu_philosophy_temple",
+      "name": "Hindu philosophy and temple system",
+      "post_ids": [
+        "executive_officer"
+      ]
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "post_ids": [
+        "industrial_promotion_officer"
+      ]
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "post_ids": [
+        "industrial_promotion_officer"
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "post_ids": [
+        "industrial_promotion_officer"
+      ]
+    },
+    {
+      "id": "industrial_management",
+      "name": "Industrial management",
+      "post_ids": [
+        "industrial_promotion_officer"
+      ]
+    },
+    {
+      "id": "industrial_engineering",
+      "name": "Industrial engineering",
+      "post_ids": [
+        "industrial_promotion_officer"
+      ]
+    },
+    {
+      "id": "computer_basics",
+      "name": "Computer basics and information technology",
+      "post_ids": [
+        "industrial_promotion_officer",
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "post_ids": [
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "accounting",
+      "name": "Financial accounting",
+      "post_ids": [
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "statistics",
+      "name": "Statistics",
+      "post_ids": [
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "essay",
+      "name": "General essay",
+      "post_ids": [
+        "group_i"
+      ]
+    },
+    {
+      "id": "telugu",
+      "name": "Telugu",
+      "post_ids": [
+        "group_i"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "post_ids": [
+        "group_i"
+      ]
+    },
+    {
+      "id": "cpt",
+      "name": "Computer Proficiency Test",
+      "post_ids": [
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ]
+    },
+    {
+      "id": "official_updates",
+      "name": "Official notices and dates",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "res_group_i_application_extension_27oct2026_screening_date_unchanged",
+      "title": "27 October 2026 application extension — Group I screening unchanged",
+      "post_ids": [
+        "group_i",
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "official_updates"
+      ],
+      "content_type": "circular",
+      "stage": "administration",
+      "notification": "07/2026; 26/2026",
+      "exam_year": null,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Extension_Webnote_27102026.pdf",
+      "pages": 1,
+      "key_status": "not_applicable",
+      "limitations": [
+        "This is an application-deadline notice, not a new examination schedule. It expressly retains the Group I screening date."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Extension_Webnote_27102026.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_group_i_07_2026_official_notification_syllabus",
+      "title": "Group I 07/2026 — current notification, scheme and syllabus",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "essay",
+        "telugu",
+        "english"
+      ],
+      "content_type": "syllabus",
+      "stage": "all_notified_stages",
+      "notification": "07/2026",
+      "exam_year": null,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Group_I_07_2026.pdf",
+      "pages": 66,
+      "key_status": "not_applicable",
+      "limitations": [],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Group_I_07_2026.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_mains_2025_english_questionpaper",
+      "title": "Group I 2025 mains — English",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "english"
+      ],
+      "content_type": "previous_paper",
+      "stage": "mains_qualifying",
+      "notification": "12/2023",
+      "exam_year": 2025,
+      "official_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperinEnglish_122023_04052025.pdf",
+      "pages": 6,
+      "key_status": "no_key_downloaded",
+      "limitations": [
+        "Official descriptive paper. No official model answer or marking key was downloaded or asserted."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "descriptive_paper",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperinEnglish_122023_04052025.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_mains_2025_i_general_essay_questionpaper",
+      "title": "Group I 2025 mains — I — General Essay",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "essay"
+      ],
+      "content_type": "previous_paper",
+      "stage": "mains_merit",
+      "notification": "12/2023",
+      "exam_year": 2025,
+      "official_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperI_General_Essay_122023_05052025.pdf",
+      "pages": 4,
+      "key_status": "no_key_downloaded",
+      "limitations": [
+        "Official descriptive paper. No official model answer or marking key was downloaded or asserted."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "descriptive_paper",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperI_General_Essay_122023_05052025.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_mains_2025_ii_history_culture_geography_questionpaper",
+      "title": "Group I 2025 mains — II — History, Culture and Geography",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "ap_history",
+        "indian_history",
+        "geography"
+      ],
+      "content_type": "previous_paper",
+      "stage": "mains_merit",
+      "notification": "12/2023",
+      "exam_year": 2025,
+      "official_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperII_History_Cultural_Geography_India_Andhra Pradesh_122023_06052025.pdf",
+      "pages": 7,
+      "key_status": "no_key_downloaded",
+      "limitations": [
+        "Official descriptive paper. No official model answer or marking key was downloaded or asserted."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "descriptive_paper",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperII_History_Cultural_Geography_India_Andhra Pradesh_122023_06052025.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_mains_2025_iii_polity_constitution_governance_law_ethics_questionpaper",
+      "title": "Group I 2025 mains — III — Polity, Constitution, Governance, Law and Ethics",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "constitution"
+      ],
+      "content_type": "previous_paper",
+      "stage": "mains_merit",
+      "notification": "12/2023",
+      "exam_year": 2025,
+      "official_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperIIIPolityConstitutionGovernanceLawandEthics_122023_07052025.pdf",
+      "pages": 8,
+      "key_status": "no_key_downloaded",
+      "limitations": [
+        "Official descriptive paper. No official model answer or marking key was downloaded or asserted."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "descriptive_paper",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperIIIPolityConstitutionGovernanceLawandEthics_122023_07052025.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_mains_2025_iv_economy_development_questionpaper",
+      "title": "Group I 2025 mains — IV — Economy and Development",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "economy"
+      ],
+      "content_type": "previous_paper",
+      "stage": "mains_merit",
+      "notification": "12/2023",
+      "exam_year": 2025,
+      "official_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperIVEconomyandDevelopmentofIndiaandAndhraPradesh_122023_08052025.pdf",
+      "pages": 9,
+      "key_status": "no_key_downloaded",
+      "limitations": [
+        "Official descriptive paper. No official model answer or marking key was downloaded or asserted."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "descriptive_paper",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperIVEconomyandDevelopmentofIndiaandAndhraPradesh_122023_08052025.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_mains_2025_official_exam_schedule",
+      "title": "Group I 12/2023 — official May 2025 mains schedule",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "official_updates"
+      ],
+      "content_type": "circular",
+      "stage": "administration",
+      "notification": "12/2023",
+      "exam_year": 2025,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/WebNote_122023_21012025.pdf",
+      "pages": 1,
+      "key_status": "not_applicable",
+      "limitations": [],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/WebNote_122023_21012025.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_mains_2025_telugu_questionpaper",
+      "title": "Group I 2025 mains — Telugu",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "telugu"
+      ],
+      "content_type": "previous_paper",
+      "stage": "mains_qualifying",
+      "notification": "12/2023",
+      "exam_year": 2025,
+      "official_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperinTelugu_122023_03052025.pdf",
+      "pages": 4,
+      "key_status": "no_key_downloaded",
+      "limitations": [
+        "Official descriptive paper. No official model answer or marking key was downloaded or asserted."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "descriptive_paper",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperinTelugu_122023_03052025.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_mains_2025_v_science_technology_environment_questionpaper",
+      "title": "Group I 2025 mains — V — Science, Technology and Environment",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "science_technology",
+        "environment"
+      ],
+      "content_type": "previous_paper",
+      "stage": "mains_merit",
+      "notification": "12/2023",
+      "exam_year": 2025,
+      "official_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperVScienceTechnologyandEnvironmentalIssues_122023_09052025.pdf",
+      "pages": 8,
+      "key_status": "no_key_downloaded",
+      "limitations": [
+        "Official descriptive paper. No official model answer or marking key was downloaded or asserted."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "descriptive_paper",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/GroupI_QuesPapersMains_122023/PaperVScienceTechnologyandEnvironmentalIssues_122023_09052025.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_prelims_2023_official_revised_exam_date",
+      "title": "Group I 28/2022 — revised screening date",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "official_updates"
+      ],
+      "content_type": "circular",
+      "stage": "administration",
+      "notification": "28/2022",
+      "exam_year": 2023,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/WebNote28_2022.pdf",
+      "pages": 1,
+      "key_status": "not_applicable",
+      "limitations": [],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/WebNote28_2022.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_prelims_2023_paper_i_solved_stems_finalkey",
+      "title": "Group I 2023 screening — Paper I — final key",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography"
+      ],
+      "content_type": "solved_reference",
+      "stage": "screening",
+      "notification": "28/2022",
+      "exam_year": 2023,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/28_2022/FinalKeys/GS-1G-100 GROUP-I PAPER-I FINAL KEY.pdf",
+      "pages": 41,
+      "key_status": "final",
+      "limitations": [
+        "Question stems and accepted answers are present, but full distractor options are omitted. Use for recall/review, never as a complete timed MCQ mock.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "solved_reference_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/28_2022/FinalKeys/GS-1G-100 GROUP-I PAPER-I FINAL KEY.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_prelims_2023_paper_ii_solved_stems_finalkey",
+      "title": "Group I 2023 screening — Paper II — final key",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "aptitude",
+        "science_technology",
+        "current_affairs"
+      ],
+      "content_type": "solved_reference",
+      "stage": "screening",
+      "notification": "28/2022",
+      "exam_year": 2023,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/28_2022/FinalKeys/GS-1G-101 GROUP-I PAPER-II FINAL KEY.pdf",
+      "pages": 48,
+      "key_status": "final",
+      "limitations": [
+        "Question stems and accepted answers are present, but full distractor options are omitted. Use for recall/review, never as a complete timed MCQ mock.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "solved_reference_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/28_2022/FinalKeys/GS-1G-101 GROUP-I PAPER-II FINAL KEY.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_prelims_2024_paper_i_finalkey_official",
+      "title": "Group I 2024 screening — Paper I — final key",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "screening",
+      "notification": "12/2023",
+      "exam_year": 2024,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/122023/FinalKeys/Group-I Paper-I Final KEY_122023_13042024.pdf",
+      "pages": 64,
+      "key_status": "final",
+      "limitations": [
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "Final-key archive publication is 12 April 2024; the official filename contains 13042024. Some pages are scanned images, not empty pages."
+      ],
+      "paired_resource_ids": [
+        "res_group_i_prelims_2024_paper_i_questionpaper_initialkey"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/122023/FinalKeys/Group-I Paper-I Final KEY_122023_13042024.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_prelims_2024_paper_i_questionpaper_initialkey",
+      "title": "Group I 2024 screening — Paper I — paper and initial key",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "screening",
+      "notification": "12/2023",
+      "exam_year": 2024,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/122023/InitialKeys/Gr-I- Initial Key- Paper-I- General Studies_com_122023_18032024.pdf",
+      "pages": 64,
+      "key_status": "initial",
+      "limitations": [
+        "Initial answers are superseded. Use the paired official final key for historical scoring.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation."
+      ],
+      "paired_resource_ids": [
+        "res_group_i_prelims_2024_paper_i_finalkey_official"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/122023/InitialKeys/Gr-I- Initial Key- Paper-I- General Studies_com_122023_18032024.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_prelims_2024_paper_ii_finalkey_official",
+      "title": "Group I 2024 screening — Paper II — final key",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "aptitude",
+        "science_technology",
+        "current_affairs"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "screening",
+      "notification": "12/2023",
+      "exam_year": 2024,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/122023/FinalKeys/Group-I Paper-II Final Key_122023_13042024.pdf",
+      "pages": 52,
+      "key_status": "final",
+      "limitations": [
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "Final-key archive publication is 12 April 2024; the official filename contains 13042024. Some pages are scanned images, not empty pages."
+      ],
+      "paired_resource_ids": [
+        "res_group_i_prelims_2024_paper_ii_questionpaper_initialkey"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/122023/FinalKeys/Group-I Paper-II Final Key_122023_13042024.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_group_i_prelims_2024_paper_ii_questionpaper_initialkey",
+      "title": "Group I 2024 screening — Paper II — paper and initial key",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "aptitude",
+        "science_technology",
+        "current_affairs"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "screening",
+      "notification": "12/2023",
+      "exam_year": 2024,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/122023/InitialKeys/Gr-I- Initial Key- Paper-II- General Aptitude_com_122023_18032024.pdf",
+      "pages": 52,
+      "key_status": "initial",
+      "limitations": [
+        "Initial answers are superseded. Use the paired official final key for historical scoring.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation."
+      ],
+      "paired_resource_ids": [
+        "res_group_i_prelims_2024_paper_ii_finalkey_official"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/122023/InitialKeys/Gr-I- Initial Key- Paper-II- General Aptitude_com_122023_18032024.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_welfare_officers_mains_2017_official_attendance_examdate_pressnote",
+      "title": "Welfare 34/2016 — mains attendance and exam-date press note",
+      "post_ids": [
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "official_updates"
+      ],
+      "content_type": "circular",
+      "stage": "administration",
+      "notification": "34/2016",
+      "exam_year": 2017,
+      "official_url": "https://psc.ap.gov.in/UserManuals/Press%20Note-%20dt.23.09.17%20(Attendance).pdf",
+      "pages": 1,
+      "key_status": "not_applicable",
+      "limitations": [],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/UserManuals/Press%20Note-%20dt.23.09.17%20(Attendance).pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_welfare_officers_mains_2017_paper_i_gsma_finalkey_22jan2018",
+      "title": "Welfare 2017 mains — Paper I — final key",
+      "post_ids": [
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment"
+      ],
+      "content_type": "answer_key",
+      "stage": "mains",
+      "notification": "34/2016",
+      "exam_year": 2017,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/FinalKeyGSMA_22012018.pdf",
+      "pages": 4,
+      "key_status": "final",
+      "limitations": [
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "This previous recruitment included ASWO and ATWO together with Assistant BC Welfare Officer.",
+        "Match final answers by QuestionId, not a shuffled candidate option order. Final-key files are marked 22012018; do not mistake that filename date for the exam date.",
+        "Separate key table; open the paired question paper to see question stems and choices."
+      ],
+      "paired_resource_ids": [
+        "res_welfare_officers_mains_2017_paper_i_gsma_questionpaper_initialkey"
+      ],
+      "practice_mode": "answer_key_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/FinalKeyGSMA_22012018.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_welfare_officers_mains_2017_paper_i_gsma_questionpaper_initialkey",
+      "title": "Welfare 2017 mains — Paper I — paper and initial key",
+      "post_ids": [
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "mains",
+      "notification": "34/2016",
+      "exam_year": 2017,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/GS_MA_27_09_2017.PDF",
+      "pages": 92,
+      "key_status": "initial",
+      "limitations": [
+        "Initial answers are superseded. Use the paired official final key for historical scoring.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "This previous recruitment included ASWO and ATWO together with Assistant BC Welfare Officer.",
+        "Match final answers by QuestionId, not a shuffled candidate option order. Final-key files are marked 22012018; do not mistake that filename date for the exam date."
+      ],
+      "paired_resource_ids": [
+        "res_welfare_officers_mains_2017_paper_i_gsma_finalkey_22jan2018"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/GS_MA_27_09_2017.PDF",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_welfare_officers_mains_2017_paper_ii_ap_history_welfare_finalkey_22jan2018",
+      "title": "Welfare 2017 mains — Paper II — final key",
+      "post_ids": [
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "ap_history",
+        "welfare"
+      ],
+      "content_type": "answer_key",
+      "stage": "mains",
+      "notification": "34/2016",
+      "exam_year": 2017,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/FinalkeyPaper-II_22012018.pdf",
+      "pages": 4,
+      "key_status": "final",
+      "limitations": [
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "This previous recruitment included ASWO and ATWO together with Assistant BC Welfare Officer.",
+        "Match final answers by QuestionId, not a shuffled candidate option order. Final-key files are marked 22012018; do not mistake that filename date for the exam date.",
+        "Separate key table; open the paired question paper to see question stems and choices."
+      ],
+      "paired_resource_ids": [
+        "res_welfare_officers_mains_2017_paper_ii_ap_history_welfare_questionpaper_initialkey"
+      ],
+      "practice_mode": "answer_key_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/FinalkeyPaper-II_22012018.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_welfare_officers_mains_2017_paper_ii_ap_history_welfare_questionpaper_initialkey",
+      "title": "Welfare 2017 mains — Paper II — paper and initial key",
+      "post_ids": [
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "ap_history",
+        "welfare"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "mains",
+      "notification": "34/2016",
+      "exam_year": 2017,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/SubjectPaper-II_27_09_2017.pdf",
+      "pages": 89,
+      "key_status": "initial",
+      "limitations": [
+        "Initial answers are superseded. Use the paired official final key for historical scoring.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "This previous recruitment included ASWO and ATWO together with Assistant BC Welfare Officer.",
+        "Match final answers by QuestionId, not a shuffled candidate option order. Final-key files are marked 22012018; do not mistake that filename date for the exam date."
+      ],
+      "paired_resource_ids": [
+        "res_welfare_officers_mains_2017_paper_ii_ap_history_welfare_finalkey_22jan2018"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/SubjectPaper-II_27_09_2017.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_welfare_officers_mains_2017_paper_iii_constitution_protection_finalkey_22jan2018",
+      "title": "Welfare 2017 mains — Paper III — final key",
+      "post_ids": [
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "constitution",
+        "welfare"
+      ],
+      "content_type": "answer_key",
+      "stage": "mains",
+      "notification": "34/2016",
+      "exam_year": 2017,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/FinalKeyPaper-III_22012018.pdf",
+      "pages": 4,
+      "key_status": "final",
+      "limitations": [
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "This previous recruitment included ASWO and ATWO together with Assistant BC Welfare Officer.",
+        "Match final answers by QuestionId, not a shuffled candidate option order. Final-key files are marked 22012018; do not mistake that filename date for the exam date.",
+        "Separate key table; open the paired question paper to see question stems and choices."
+      ],
+      "paired_resource_ids": [
+        "res_welfare_officers_mains_2017_paper_iii_constitution_protection_questionpaper_initialkey"
+      ],
+      "practice_mode": "answer_key_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/FinalKeyPaper-III_22012018.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_welfare_officers_mains_2017_paper_iii_constitution_protection_questionpaper_initialkey",
+      "title": "Welfare 2017 mains — Paper III — paper and initial key",
+      "post_ids": [
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "constitution",
+        "welfare"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "mains",
+      "notification": "34/2016",
+      "exam_year": 2017,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/Subject Paper-III-27_09_2017.PDF",
+      "pages": 95,
+      "key_status": "initial",
+      "limitations": [
+        "Initial answers are superseded. Use the paired official final key for historical scoring.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "This previous recruitment included ASWO and ATWO together with Assistant BC Welfare Officer.",
+        "Match final answers by QuestionId, not a shuffled candidate option order. Final-key files are marked 22012018; do not mistake that filename date for the exam date."
+      ],
+      "paired_resource_ids": [
+        "res_welfare_officers_mains_2017_paper_iii_constitution_protection_finalkey_22jan2018"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/Subject Paper-III-27_09_2017.PDF",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_welfare_officers_screening_2017_finalkey",
+      "title": "Welfare 2017 screening — Set A — final key",
+      "post_ids": [
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "welfare"
+      ],
+      "content_type": "answer_key",
+      "stage": "historical_screening",
+      "notification": "34/2016",
+      "exam_year": 2017,
+      "official_url": "https://psc.ap.gov.in/UserManuals/Final%20Key_34.pdf",
+      "pages": 4,
+      "key_status": "final",
+      "limitations": [
+        "Historical screening practice only. Notification 26/2026 does not announce a separate screening stage.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "This previous recruitment included ASWO and ATWO together with Assistant BC Welfare Officer.",
+        "Separate key table; open the paired question paper to see question stems and choices."
+      ],
+      "paired_resource_ids": [
+        "res_welfare_officers_screening_2017_seta_questionpaper"
+      ],
+      "practice_mode": "answer_key_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/UserManuals/Final%20Key_34.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_welfare_officers_screening_2017_seta_questionpaper",
+      "title": "Welfare 2017 screening — Set A — question paper",
+      "post_ids": [
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "welfare"
+      ],
+      "content_type": "previous_paper",
+      "stage": "historical_screening",
+      "notification": "34/2016",
+      "exam_year": 2017,
+      "official_url": "https://psc.ap.gov.in/UserManuals/OWSA-555 set A.PDF",
+      "pages": 44,
+      "key_status": "separate_final_key_available",
+      "limitations": [
+        "Historical screening practice only. Notification 26/2026 does not announce a separate screening stage.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "This previous recruitment included ASWO and ATWO together with Assistant BC Welfare Officer."
+      ],
+      "paired_resource_ids": [
+        "res_welfare_officers_screening_2017_finalkey"
+      ],
+      "practice_mode": "unkeyed_mcq_paper",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/UserManuals/OWSA-555 set A.PDF",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_welfare_officers_welfare_26_2026_official_notification_syllabus",
+      "title": "ASWO / ATWO 26/2026 — current notification, scheme and syllabus",
+      "post_ids": [
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "welfare",
+        "cpt"
+      ],
+      "content_type": "syllabus",
+      "stage": "all_notified_stages",
+      "notification": "26/2026",
+      "exam_year": null,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/ASWO_ATWO_262026.pdf",
+      "pages": 32,
+      "key_status": "not_applicable",
+      "limitations": [],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/ASWO_ATWO_262026.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_executive_officer_eo_10_2025_exam_2026_paper_i_final_key",
+      "title": "EO 2026 Paper I — final key with questions",
+      "post_ids": [
+        "executive_officer"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "written",
+      "notification": "10/2025",
+      "exam_year": 2026,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/102025/FinalKeys/GSMA.pdf",
+      "pages": 46,
+      "key_status": "final",
+      "limitations": [
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "This prior cycle used OMR; the current 23/2026 notification specifies CBRT. Readable scans may contain scan blemishes."
+      ],
+      "paired_resource_ids": [
+        "res_executive_officer_eo_10_2025_exam_2026_paper_i_initial_key"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/102025/FinalKeys/GSMA.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_executive_officer_eo_10_2025_exam_2026_paper_i_initial_key",
+      "title": "EO 2026 Paper I — initial key with questions",
+      "post_ids": [
+        "executive_officer"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "written",
+      "notification": "10/2025",
+      "exam_year": 2026,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/102025/Initialkeys/GSMA.pdf",
+      "pages": 48,
+      "key_status": "initial",
+      "limitations": [
+        "Initial answers are superseded. Use the paired official final key for historical scoring.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "This prior cycle used OMR; the current 23/2026 notification specifies CBRT. Readable scans may contain scan blemishes."
+      ],
+      "paired_resource_ids": [
+        "res_executive_officer_eo_10_2025_exam_2026_paper_i_final_key"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/102025/Initialkeys/GSMA.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_executive_officer_eo_10_2025_exam_2026_paper_ii_final_key",
+      "title": "EO 2026 Paper II — final key with questions",
+      "post_ids": [
+        "executive_officer"
+      ],
+      "subject_ids": [
+        "hindu_philosophy_temple"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "written",
+      "notification": "10/2025",
+      "exam_year": 2026,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/102025/FinalKeys/PaperII.pdf",
+      "pages": 40,
+      "key_status": "final",
+      "limitations": [
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "This prior cycle used OMR; the current 23/2026 notification specifies CBRT. Readable scans may contain scan blemishes."
+      ],
+      "paired_resource_ids": [
+        "res_executive_officer_eo_10_2025_exam_2026_paper_ii_initial_key"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/102025/FinalKeys/PaperII.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_executive_officer_eo_10_2025_exam_2026_paper_ii_initial_key",
+      "title": "EO 2026 Paper II — initial key with questions",
+      "post_ids": [
+        "executive_officer"
+      ],
+      "subject_ids": [
+        "hindu_philosophy_temple"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "written",
+      "notification": "10/2025",
+      "exam_year": 2026,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/102025/Initialkeys/PaperII.pdf",
+      "pages": 40,
+      "key_status": "initial",
+      "limitations": [
+        "Initial answers are superseded. Use the paired official final key for historical scoring.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "This prior cycle used OMR; the current 23/2026 notification specifies CBRT. Readable scans may contain scan blemishes."
+      ],
+      "paired_resource_ids": [
+        "res_executive_officer_eo_10_2025_exam_2026_paper_ii_final_key"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/102025/Initialkeys/PaperII.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_executive_officer_eo_10_2025_final_key_webnote",
+      "title": "EO 10/2025 — final-key webnote (15 May 2026)",
+      "post_ids": [
+        "executive_officer"
+      ],
+      "subject_ids": [
+        "official_updates"
+      ],
+      "content_type": "circular",
+      "stage": "administration",
+      "notification": "10/2025",
+      "exam_year": 2026,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/WebNotefinalkey102025_15052025.pdf",
+      "pages": 1,
+      "key_status": "not_applicable",
+      "limitations": [
+        "The URL filename and some homepage labels say 2025 in error. The inspected webnote PDF and keys index identify 2026."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/WebNotefinalkey102025_15052025.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_executive_officer_eo_23_2026_official_notification_and_syllabus",
+      "title": "Executive Officer 23/2026 — current notification, scheme and syllabus",
+      "post_ids": [
+        "executive_officer"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "hindu_philosophy_temple",
+        "cpt"
+      ],
+      "content_type": "syllabus",
+      "stage": "all_notified_stages",
+      "notification": "23/2026",
+      "exam_year": null,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/EO_Grade_III_DetailedNotification_232026.pdf",
+      "pages": 30,
+      "key_status": "not_applicable",
+      "limitations": [],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/EO_Grade_III_DetailedNotification_232026.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_executive_officer_eo_24_2021_mains_2023_paper_i_final_key",
+      "title": "EO 2023 Paper I — final key with questions",
+      "post_ids": [
+        "executive_officer"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "mains",
+      "notification": "24/2021",
+      "exam_year": 2023,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/24_2021/FinalKeys/6306801053_TNR_NEW_GSMA.pdf",
+      "pages": 71,
+      "key_status": "final",
+      "limitations": [
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "Exact sitting date was not independently verified. Printing and key-publication dates are not exam dates."
+      ],
+      "paired_resource_ids": [
+        "res_executive_officer_eo_24_2021_mains_2023_paper_i_initial_key"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/24_2021/FinalKeys/6306801053_TNR_NEW_GSMA.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_executive_officer_eo_24_2021_mains_2023_paper_i_initial_key",
+      "title": "EO 2023 Paper I — initial key with questions",
+      "post_ids": [
+        "executive_officer"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "mains",
+      "notification": "24/2021",
+      "exam_year": 2023,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/24_2021/InitialKeys/General%20Studies_220223.pdf",
+      "pages": 70,
+      "key_status": "initial",
+      "limitations": [
+        "Initial answers are superseded. Use the paired official final key for historical scoring.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "Exact sitting date was not independently verified. Printing and key-publication dates are not exam dates."
+      ],
+      "paired_resource_ids": [
+        "res_executive_officer_eo_24_2021_mains_2023_paper_i_final_key"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/24_2021/InitialKeys/General%20Studies_220223.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_executive_officer_eo_24_2021_mains_2023_paper_ii_final_key",
+      "title": "EO 2023 Paper II — final key with questions",
+      "post_ids": [
+        "executive_officer"
+      ],
+      "subject_ids": [
+        "hindu_philosophy_temple"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "mains",
+      "notification": "24/2021",
+      "exam_year": 2023,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/24_2021/FinalKeys/6306801088_TNR_NEW_HinduPhilosophy.pdf",
+      "pages": 71,
+      "key_status": "final",
+      "limitations": [
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "Exact sitting date was not independently verified. Printing and key-publication dates are not exam dates."
+      ],
+      "paired_resource_ids": [
+        "res_executive_officer_eo_24_2021_mains_2023_paper_ii_initial_key"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/24_2021/FinalKeys/6306801088_TNR_NEW_HinduPhilosophy.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_executive_officer_eo_24_2021_mains_2023_paper_ii_initial_key",
+      "title": "EO 2023 Paper II — initial key with questions",
+      "post_ids": [
+        "executive_officer"
+      ],
+      "subject_ids": [
+        "hindu_philosophy_temple"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "mains",
+      "notification": "24/2021",
+      "exam_year": 2023,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/24_2021/InitialKeys/Hindu%20Philosophy_220223.pdf",
+      "pages": 68,
+      "key_status": "initial",
+      "limitations": [
+        "Initial answers are superseded. Use the paired official final key for historical scoring.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "Exact sitting date was not independently verified. Printing and key-publication dates are not exam dates."
+      ],
+      "paired_resource_ids": [
+        "res_executive_officer_eo_24_2021_mains_2023_paper_ii_final_key"
+      ],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/24_2021/InitialKeys/Hindu%20Philosophy_220223.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_executive_officer_eo_24_2021_screening_2022_final_key",
+      "title": "EO 2022 historical screening — final key with questions",
+      "post_ids": [
+        "executive_officer"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "hindu_philosophy_temple"
+      ],
+      "content_type": "solved_reference",
+      "stage": "historical_screening",
+      "notification": "24/2021",
+      "exam_year": 2022,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/EO%20FINAL%20KEY_242021_27102022.pdf",
+      "pages": 36,
+      "key_status": "final",
+      "limitations": [
+        "Question-and-answer compilation omits full choices; use for solved reference, not a full MCQ mock. Historical screening does not define the current two-paper scheme.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation."
+      ],
+      "paired_resource_ids": [
+        "res_executive_officer_eo_24_2021_screening_2022_initial_key"
+      ],
+      "practice_mode": "solved_reference_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/EO%20FINAL%20KEY_242021_27102022.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_executive_officer_eo_24_2021_screening_2022_initial_key",
+      "title": "EO 2022 historical screening — initial key with questions",
+      "post_ids": [
+        "executive_officer"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "hindu_philosophy_temple"
+      ],
+      "content_type": "solved_reference",
+      "stage": "historical_screening",
+      "notification": "24/2021",
+      "exam_year": 2022,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/INITIAL%20KEY%20OE%20GS%20600.pdf",
+      "pages": 36,
+      "key_status": "initial",
+      "limitations": [
+        "Question-and-answer compilation omits full choices; use for solved reference, not a full MCQ mock. Historical screening does not define the current two-paper scheme.",
+        "Initial answers are superseded. Use the paired official final key for historical scoring.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation."
+      ],
+      "paired_resource_ids": [
+        "res_executive_officer_eo_24_2021_screening_2022_final_key"
+      ],
+      "practice_mode": "solved_reference_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/INITIAL%20KEY%20OE%20GS%20600.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_executive_officer_historical_exam_schedule_02dec2025",
+      "title": "Historical schedule — confirms EO examination on 11 February 2026",
+      "post_ids": [
+        "executive_officer"
+      ],
+      "subject_ids": [
+        "official_updates"
+      ],
+      "content_type": "circular",
+      "stage": "administration",
+      "notification": "10/2025",
+      "exam_year": 2026,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/WEBNOTE_DT_02122025.pdf",
+      "pages": 3,
+      "key_status": "not_applicable",
+      "limitations": [],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/WEBNOTE_DT_02122025.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_industrial_promotion_officer_notification_24_2026",
+      "title": "IPO 24/2026 — current notification, scheme and syllabus",
+      "post_ids": [
+        "industrial_promotion_officer"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "mathematics",
+        "physics",
+        "chemistry",
+        "industrial_management",
+        "industrial_engineering",
+        "computer_basics",
+        "cpt"
+      ],
+      "content_type": "syllabus",
+      "stage": "all_notified_stages",
+      "notification": "24/2026",
+      "exam_year": null,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/IPODetailedNotification_242026.pdf",
+      "pages": 58,
+      "key_status": "not_applicable",
+      "limitations": [],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/IPODetailedNotification_242026.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_industrial_promotion_officer_official_standalone_syllabus_published_20jan2022",
+      "title": "IPO — historical standalone syllabus (20 January 2022)",
+      "post_ids": [
+        "industrial_promotion_officer"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "mathematics",
+        "physics",
+        "chemistry",
+        "industrial_management",
+        "industrial_engineering",
+        "computer_basics"
+      ],
+      "content_type": "syllabus",
+      "stage": "written",
+      "notification": null,
+      "exam_year": null,
+      "official_url": "https://psc.ap.gov.in/UserManuals/LatestNotifications/Syllabus/SchemeSyllabus%20for%20Industrial%20promotion%20officer.pdf",
+      "pages": 9,
+      "key_status": "not_applicable",
+      "limitations": [
+        "Historical standalone syllabus. The 24/2026 notification controls present scope, wording and CPT provisions."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/UserManuals/LatestNotifications/Syllabus/SchemeSyllabus%20for%20Industrial%20promotion%20officer.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_industrial_promotion_officer_previous_ipo_11_2022_appliedscience_finalkey",
+      "title": "IPO 2023 written — Paper II — final key with questions",
+      "post_ids": [
+        "industrial_promotion_officer"
+      ],
+      "subject_ids": [
+        "mathematics",
+        "physics",
+        "chemistry",
+        "industrial_management",
+        "industrial_engineering",
+        "computer_basics"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "written",
+      "notification": "11/2022, post code 7",
+      "exam_year": 2023,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/NonGazetted_11_2022/PC_07_112022/FinalKeys/Paper%20II%20Applied%20Science%20and%20Engineering.pdf",
+      "pages": 70,
+      "key_status": "final",
+      "limitations": [
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "Exact previous IPO subject paper; some formulas and stems are images."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/NonGazetted_11_2022/PC_07_112022/FinalKeys/Paper%20II%20Applied%20Science%20and%20Engineering.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_industrial_promotion_officer_previous_ipo_11_2022_gsma_finalkey_12dec2023",
+      "title": "IPO 2023 written — Paper I — final key with questions",
+      "post_ids": [
+        "industrial_promotion_officer"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment"
+      ],
+      "content_type": "paper_with_key",
+      "stage": "written",
+      "notification": "11/2022, post code 7",
+      "exam_year": 2023,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/06_2022/FinalKeys/Paper%20I%20GSMA%20common%20for%20various%20posts_12122023.pdf",
+      "pages": 144,
+      "key_status": "final",
+      "limitations": [
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "Common GSMA paper is explicitly linked under IPO and shared with other posts.",
+        "The IPO final-key index is dated 8 December 2023; the shared GSMA filename is dated 12 December 2023."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "mcq_with_visible_answers",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/06_2022/FinalKeys/Paper%20I%20GSMA%20common%20for%20various%20posts_12122023.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_assistant_director_notification_09_2026",
+      "title": "Assistant Director 09/2026 — current notification, scheme and syllabus",
+      "post_ids": [
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "economics",
+        "accounting",
+        "computer_basics",
+        "statistics",
+        "cpt"
+      ],
+      "content_type": "syllabus",
+      "stage": "all_notified_stages",
+      "notification": "09/2026",
+      "exam_year": null,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Assistant_Director_092026.pdf",
+      "pages": 32,
+      "key_status": "not_applicable",
+      "limitations": [],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Assistant_Director_092026.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_assistant_director_previous_ad_04_2019_economics_finalkey",
+      "title": "AD 2019 — Paper II — final solved reference",
+      "post_ids": [
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "economics",
+        "accounting",
+        "computer_basics"
+      ],
+      "content_type": "solved_reference",
+      "stage": "written",
+      "notification": "04/2019",
+      "exam_year": 2019,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/AEE_ACE_AD/Economics%20Final%20key.pdf",
+      "pages": 14,
+      "key_status": "final",
+      "limitations": [
+        "Official question/answer compilations generally omit distractor options. Use for retrieval and numerical exercises, not faithful full MCQ mocks.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "Economics Q127 is deleted in the official final key; exclude it from raw self-scoring."
+      ],
+      "paired_resource_ids": [
+        "res_assistant_director_previous_ad_04_2019_economics_questionpaper_initialkey"
+      ],
+      "practice_mode": "solved_reference_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/AEE_ACE_AD/Economics%20Final%20key.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_assistant_director_previous_ad_04_2019_economics_questionpaper_initialkey",
+      "title": "AD 2019 — Paper II — initial solved reference",
+      "post_ids": [
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "economics",
+        "accounting",
+        "computer_basics"
+      ],
+      "content_type": "solved_reference",
+      "stage": "written",
+      "notification": "04/2019",
+      "exam_year": 2019,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/Asst.Director%20Eco_Stat%20-Eco-Pap%202.PDF",
+      "pages": 13,
+      "key_status": "initial",
+      "limitations": [
+        "Official question/answer compilations generally omit distractor options. Use for retrieval and numerical exercises, not faithful full MCQ mocks.",
+        "Initial answers are superseded. Use the paired official final key for historical scoring.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "Economics Q127 is deleted in the official final key; exclude it from raw self-scoring."
+      ],
+      "paired_resource_ids": [
+        "res_assistant_director_previous_ad_04_2019_economics_finalkey"
+      ],
+      "practice_mode": "solved_reference_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/Asst.Director%20Eco_Stat%20-Eco-Pap%202.PDF",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_assistant_director_previous_ad_04_2019_gsma_finalkey_03dec2019",
+      "title": "AD 2019 — Paper I — final solved reference",
+      "post_ids": [
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment"
+      ],
+      "content_type": "solved_reference",
+      "stage": "written",
+      "notification": "04/2019",
+      "exam_year": 2019,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/AEE_ACE_AD/GS_AEE_ACE_AD_FinalKey.pdf",
+      "pages": 11,
+      "key_status": "final",
+      "limitations": [
+        "Official question/answer compilations generally omit distractor options. Use for retrieval and numerical exercises, not faithful full MCQ mocks.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "Common GSMA paper explicitly includes AD, AEE and Assistant Commissioner; it is not an AD-only paper."
+      ],
+      "paired_resource_ids": [
+        "res_assistant_director_previous_ad_04_2019_gsma_questionpaper_initialkey"
+      ],
+      "practice_mode": "solved_reference_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/AEE_ACE_AD/GS_AEE_ACE_AD_FinalKey.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_assistant_director_previous_ad_04_2019_gsma_questionpaper_initialkey",
+      "title": "AD 2019 — Paper I — initial solved reference",
+      "post_ids": [
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment"
+      ],
+      "content_type": "solved_reference",
+      "stage": "written",
+      "notification": "04/2019",
+      "exam_year": 2019,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/GS-QA-14.05.19.pdf",
+      "pages": 11,
+      "key_status": "initial",
+      "limitations": [
+        "Official question/answer compilations generally omit distractor options. Use for retrieval and numerical exercises, not faithful full MCQ mocks.",
+        "Initial answers are superseded. Use the paired official final key for historical scoring.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation.",
+        "Common GSMA paper explicitly includes AD, AEE and Assistant Commissioner; it is not an AD-only paper."
+      ],
+      "paired_resource_ids": [
+        "res_assistant_director_previous_ad_04_2019_gsma_finalkey_03dec2019"
+      ],
+      "practice_mode": "solved_reference_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/GS-QA-14.05.19.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_assistant_director_previous_ad_04_2019_statistics_finalkey",
+      "title": "AD 2019 — Paper III — final solved reference",
+      "post_ids": [
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "statistics"
+      ],
+      "content_type": "solved_reference",
+      "stage": "written",
+      "notification": "04/2019",
+      "exam_year": 2019,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/AEE_ACE_AD/Statistics-%20FINAL%20KEY.pdf",
+      "pages": 35,
+      "key_status": "final",
+      "limitations": [
+        "Official question/answer compilations generally omit distractor options. Use for retrieval and numerical exercises, not faithful full MCQ mocks.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation."
+      ],
+      "paired_resource_ids": [
+        "res_assistant_director_previous_ad_04_2019_statistics_questionpaper_initialkey"
+      ],
+      "practice_mode": "solved_reference_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/AEE_ACE_AD/Statistics-%20FINAL%20KEY.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_assistant_director_previous_ad_04_2019_statistics_questionpaper_initialkey",
+      "title": "AD 2019 — Paper III — initial solved reference",
+      "post_ids": [
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "statistics"
+      ],
+      "content_type": "solved_reference",
+      "stage": "written",
+      "notification": "04/2019",
+      "exam_year": 2019,
+      "official_url": "https://psc.ap.gov.in/Documents/KEYS/Statistics-QP.PDF",
+      "pages": 37,
+      "key_status": "initial",
+      "limitations": [
+        "Official question/answer compilations generally omit distractor options. Use for retrieval and numerical exercises, not faithful full MCQ mocks.",
+        "Initial answers are superseded. Use the paired official final key for historical scoring.",
+        "Answers are visible in this file; conceal them before an attempt. It is not an untouched blind mock as supplied.",
+        "Historical factual and statutory answers may have changed; the current notification and current official sources govern present preparation."
+      ],
+      "paired_resource_ids": [
+        "res_assistant_director_previous_ad_04_2019_statistics_finalkey"
+      ],
+      "practice_mode": "solved_reference_only",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/KEYS/Statistics-QP.PDF",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_official_updates_webnote_extension_02112026",
+      "title": "2 November 2026 application-deadline extension",
+      "post_ids": [
+        "assistant_director",
+        "executive_officer",
+        "industrial_promotion_officer"
+      ],
+      "subject_ids": [
+        "official_updates"
+      ],
+      "content_type": "circular",
+      "stage": "administration",
+      "notification": "09/2026; 23/2026; 24/2026 (among other notifications)",
+      "exam_year": null,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Webnote_Extension_02112026.pdf",
+      "pages": null,
+      "key_status": "not_applicable",
+      "limitations": [
+        "09,23,24 among13notifications extended to12November2026 23:59.",
+        "This administrative notice does not announce a new examination date or syllabus."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Webnote_Extension_02112026.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "res_official_updates_addendum_13102026",
+      "title": "13 October 2026 addendum — open-competition consideration",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "official_updates"
+      ],
+      "content_type": "circular",
+      "stage": "administration",
+      "notification": "07/2026 (also 08/2026 and 19/2026 outside this catalog)",
+      "exam_year": null,
+      "official_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Addendum_13102026.pdf",
+      "pages": null,
+      "key_status": "not_applicable",
+      "limitations": [
+        "07,08,19 reserved-category upper-age-relaxation candidates also considered for open competition. No syllabus/exam change.",
+        "This administrative notice does not announce a new examination date or syllabus."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Addendum_13102026.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "study_plan",
+      "title": "APPSC preparation plan and official paper library",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "ap_history",
+        "indian_history",
+        "economy",
+        "geography",
+        "aptitude",
+        "science_technology",
+        "current_affairs",
+        "environment",
+        "welfare",
+        "hindu_philosophy_temple",
+        "mathematics",
+        "physics",
+        "chemistry",
+        "industrial_management",
+        "industrial_engineering",
+        "computer_basics",
+        "economics",
+        "accounting",
+        "statistics",
+        "essay",
+        "telugu",
+        "english",
+        "cpt",
+        "official_updates"
+      ],
+      "content_type": "study_plan",
+      "stage": "preparation",
+      "notification": null,
+      "exam_year": null,
+      "official_url": null,
+      "pages": null,
+      "key_status": "not_applicable",
+      "limitations": [
+        "Locally authored preparation guidance, not an APPSC publication.",
+        "Two-hour daily budget; specialist sessions are maintenance/foundation work. Planned weeks are not prepared lesson content."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "study_plan",
+      "is_plan": true,
+      "source_url": null,
+      "asset_path": null,
+      "source_type": "local_authored"
+    },
+    {
+      "id": "lesson_day_01",
+      "title": "Day 1 — Constitutional basics, aptitude and economics",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "aptitude",
+        "economics",
+        "official_updates"
+      ],
+      "content_type": "lesson",
+      "stage": "preparation",
+      "notification": null,
+      "exam_year": null,
+      "official_url": null,
+      "pages": null,
+      "key_status": "original_practice_with_explanations",
+      "limitations": [
+        "Locally authored preparation guidance, not an APPSC publication.",
+        "The 15 questions are original practice, not official APPSC past-paper questions."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "guided_lesson",
+      "is_plan": false,
+      "lesson_id": "day-01",
+      "source_url": null,
+      "asset_path": null,
+      "source_type": "local_authored"
+    },
+    {
+      "id": "day01_source_constitution",
+      "title": "Legislative Department — English Constitution, as on 1 May 2026",
+      "post_ids": [
+        "group_i",
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "constitution"
+      ],
+      "content_type": "reference",
+      "stage": "foundation",
+      "notification": null,
+      "exam_year": null,
+      "official_url": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+      "pages": null,
+      "key_status": "not_applicable",
+      "limitations": [
+        "Referenced by the prepared Day 1 lesson; no local download is asserted in this catalog."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "day01_source_pib",
+      "title": "PIB — Republic Day and constitutional history, 25 January 2026",
+      "post_ids": [
+        "group_i",
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "constitution"
+      ],
+      "content_type": "reference",
+      "stage": "foundation",
+      "notification": null,
+      "exam_year": null,
+      "official_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2218369&lang=1&reg=6",
+      "pages": null,
+      "key_status": "not_applicable",
+      "limitations": [
+        "Referenced by the prepared Day 1 lesson; no local download is asserted in this catalog."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2218369&lang=1&reg=6",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "day01_source_duties",
+      "title": "NCERT — Fundamental Duties reference",
+      "post_ids": [
+        "group_i",
+        "welfare_officers"
+      ],
+      "subject_ids": [
+        "constitution"
+      ],
+      "content_type": "reference",
+      "stage": "foundation",
+      "notification": null,
+      "exam_year": null,
+      "official_url": "https://www.ncert.nic.in/textbook/pdf/jemh1ps.pdf",
+      "pages": null,
+      "key_status": "not_applicable",
+      "limitations": [
+        "Referenced by the prepared Day 1 lesson; no local download is asserted in this catalog."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://www.ncert.nic.in/textbook/pdf/jemh1ps.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "day01_source_ncert_intro",
+      "title": "NCERT Introductory Microeconomics, Chapter 1",
+      "post_ids": [
+        "assistant_director",
+        "group_i"
+      ],
+      "subject_ids": [
+        "economics"
+      ],
+      "content_type": "reference",
+      "stage": "foundation",
+      "notification": null,
+      "exam_year": null,
+      "official_url": "https://ncert.nic.in/textbook/pdf/leec201.pdf",
+      "pages": null,
+      "key_status": "not_applicable",
+      "limitations": [
+        "Referenced by the prepared Day 1 lesson; no local download is asserted in this catalog.",
+        "Foundation reading; does not replace postgraduate-standard AD preparation."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://ncert.nic.in/textbook/pdf/leec201.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    },
+    {
+      "id": "day01_source_ncert_demand",
+      "title": "NCERT Introductory Microeconomics, Chapter 2",
+      "post_ids": [
+        "assistant_director",
+        "group_i"
+      ],
+      "subject_ids": [
+        "economics"
+      ],
+      "content_type": "reference",
+      "stage": "foundation",
+      "notification": null,
+      "exam_year": null,
+      "official_url": "https://www.ncert.nic.in/textbook/pdf/leec202.pdf",
+      "pages": null,
+      "key_status": "not_applicable",
+      "limitations": [
+        "Referenced by the prepared Day 1 lesson; no local download is asserted in this catalog.",
+        "Foundation reading; does not replace postgraduate-standard AD preparation."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "reference",
+      "is_plan": false,
+      "source_url": "https://www.ncert.nic.in/textbook/pdf/leec202.pdf",
+      "asset_path": null,
+      "source_type": "official"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "day-01",
+      "day_number": 1,
+      "title": "Day 1 — Constitutional basics, aptitude and economics",
+      "status": "ready",
+      "prepared_date": "2026-11-08",
+      "duration_minutes": 120,
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "aptitude",
+        "economics",
+        "official_updates"
+      ],
+      "intro": "A two-hour foundation session in Constitution, aptitude and economics. The 15 questions are original practice, not reproduced APPSC past-paper questions. Keep the full-paper diagnostic for a separate two-hour session.",
+      "schedule": [
+        {
+          "id": "day-01-block-1",
+          "title": "Constitution: read, make a memory table, recall without looking",
+          "minutes": 35,
+          "section_id": "day-01-s1"
+        },
+        {
+          "id": "day-01-block-2",
+          "title": "Aptitude: percentages, ratios and averages",
+          "minutes": 15,
+          "section_id": "day-01-s2"
+        },
+        {
+          "id": "day-01-block-3",
+          "title": "Official-notice reading: APPSC 13 October addendum",
+          "minutes": 10,
+          "section_id": "day-01-s3"
+        },
+        {
+          "id": "day-01-block-4",
+          "title": "Economics: scarcity, opportunity cost and demand",
+          "minutes": 30,
+          "section_id": "day-01-s4"
+        },
+        {
+          "id": "day-01-block-5",
+          "title": "Attempt the 15 questions without notes",
+          "minutes": 15,
+          "section_id": null
+        },
+        {
+          "id": "day-01-block-6",
+          "title": "Check explanations and record errors",
+          "minutes": 15,
+          "section_id": null
+        }
+      ],
+      "sections": [
+        {
+          "id": "day-01-s1",
+          "title": "Constitution",
+          "minutes": 35,
+          "paragraphs": [
+            "Adoption: 26 November 1949. General commencement: 26 January 1950; some provisions began earlier. Do not interchange these dates.",
+            "The 42nd Amendment Act, 1976 introduced Socialist, Secular and integrity into the Preamble. These changes took effect on 3 January 1977. The Preamble identifies constitutional ideals; it is not a list of individually enforceable claims.",
+            "Part III contains Fundamental Rights; Part IV contains Directive Principles; Part IVA contains Fundamental Duties. Article 37 makes Directive Principles non-enforceable by courts, while treating them as fundamental to governance.",
+            "Article 14: equality protection for persons. Article 19: specified freedoms for citizens. Article 21: life/personal-liberty protection for persons. Article 32: Supreme Court remedy for enforcing Fundamental Rights. Article 51A: Fundamental Duties of citizens.",
+            "Activity: spend 10 minutes reading, 10 making an article→meaning→beneficiary table, 10 reconstructing it with the notes covered, and 5 correcting errors. Trap: a non-citizen is not excluded from every Fundamental Right."
+          ],
+          "source_ids": [
+            "constitution",
+            "pib",
+            "duties"
+          ]
+        },
+        {
+          "id": "day-01-s2",
+          "title": "Aptitude",
+          "minutes": 15,
+          "paragraphs": [
+            "Percentage change = (new − old) ÷ old × 100. Always identify the base. A 10% rise followed by a 10% fall takes 100 → 110 → 99: a 1% net fall, not zero.",
+            "For a ratio a:b, the first share of total T is aT/(a+b). Example: divide 50 in the ratio 2:3: the shares are 20 and 30.",
+            "Mean = total ÷ count, so total = mean × count. If five values average 12, their total is 60. If four of them average 11, the remaining value is 60 − 44 = 16.",
+            "Activity: spend 5 minutes understanding the three methods, 5 redoing the examples without looking, and 5 explaining why adding successive percentage rates can fail."
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "day-01-s3",
+          "title": "Official-notice reading",
+          "minutes": 10,
+          "paragraphs": [
+            "Read APPSC's addendum dated 13 October 2026. It applies to notifications 07/2026, 08/2026 and 19/2026; Group I 07/2026 is one of the notifications covered here.",
+            "Its note allows candidates in the listed SC/ST/BC/EWS/PBD categories who use upper-age relaxation to be considered for open-competition vacancies. Consideration is not guaranteed selection. The notice does not tell you to change your community category to OC.",
+            "Activity: record the issuing body, date, affected notification numbers and one precise effect. Then state one conclusion the notice does not support. This is official-source reading practice; it is not a full current-affairs digest."
+          ],
+          "source_ids": [
+            "addendum"
+          ]
+        },
+        {
+          "id": "day-01-s4",
+          "title": "Economics foundation",
+          "minutes": 30,
+          "paragraphs": [
+            "Scarcity means limited resources have competing uses, so choices are necessary. Opportunity cost is the value of the next-best alternative forgone, not the sum of every rejected alternative. If your best alternative to studying pays ₹300, choosing study forgoes ₹300.",
+            "A change in a good's own price, holding other relevant factors constant, causes movement along its demand curve. A fall in price normally increases quantity demanded. Changes in income, tastes or related-goods prices can shift the curve.",
+            "For a normal good, higher income shifts demand rightward: more is demanded at each unchanged price. Keep increase in quantity demanded (movement) separate from increase in demand (shift).",
+            "Absolute price elasticity = |percentage change in quantity demanded ÷ percentage change in price|. Above 1: elastic; below 1: inelastic; equal to 1: unit elastic. When told to use initial values, divide quantity change by initial quantity and price change by initial price; do not silently switch to midpoint percentages.",
+            "Worked example: price ₹20 → ₹22 is +10%; quantity 100 → 80 is −20%. Using initial-value percentages, absolute elasticity = 20/10 = 2.",
+            "Activity: read for 10 minutes, draw one movement and one shift for 5, redo the numerical example for 5, then spend 10 explaining scarcity, opportunity cost and the movement/shift distinction without notes. This begins the foundation; the eventual AD papers demand postgraduate-standard preparation."
+          ],
+          "source_ids": [
+            "ncert_intro",
+            "ncert_demand"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "day-01-q01",
+          "topic": "Constitution",
+          "subject_id": "constitution",
+          "prompt": "On which date was the Constitution adopted?",
+          "options": [
+            "26 January 1950",
+            "15 August 1947",
+            "26 November 1949",
+            "26 January 1949"
+          ],
+          "answer_index": 2,
+          "explanation": "Adoption was on 26 November 1949; general commencement was on 26 January 1950."
+        },
+        {
+          "id": "day-01-q02",
+          "topic": "Constitution",
+          "subject_id": "constitution",
+          "prompt": "Which set of words was introduced into the Preamble by the 42nd Amendment Act, 1976?",
+          "options": [
+            "Sovereign, Democratic, Republic",
+            "Socialist, Secular, integrity",
+            "Justice, Liberty, Equality",
+            "Federal, Socialist, Democratic"
+          ],
+          "answer_index": 1,
+          "explanation": "The amendment introduced Socialist and Secular, and added integrity to the existing unity wording."
+        },
+        {
+          "id": "day-01-q03",
+          "topic": "Constitution",
+          "subject_id": "constitution",
+          "prompt": "Which provision expressly grants its listed freedoms to citizens?",
+          "options": [
+            "Article 14",
+            "Article 19",
+            "Article 21",
+            "All three equally restrict protection to citizens"
+          ],
+          "answer_index": 1,
+          "explanation": "Article 19 addresses citizens. Articles 14 and 21 use person, a broader category."
+        },
+        {
+          "id": "day-01-q04",
+          "topic": "Constitution",
+          "subject_id": "constitution",
+          "prompt": "Which statement about Directive Principles is correct?",
+          "options": [
+            "Each is directly enforceable under Article 32",
+            "They are in Part III",
+            "They have no constitutional relevance",
+            "They are non-enforceable by courts but fundamental to governance"
+          ],
+          "answer_index": 3,
+          "explanation": "Article 37 distinguishes lack of direct court enforcement from their importance in governance."
+        },
+        {
+          "id": "day-01-q05",
+          "topic": "Constitution",
+          "subject_id": "constitution",
+          "prompt": "Where are Fundamental Duties located?",
+          "options": [
+            "Part IVA, Article 51A",
+            "Part IV, Article 37",
+            "Part III, Article 19",
+            "Part II, Article 5"
+          ],
+          "answer_index": 0,
+          "explanation": "Fundamental Duties are in Part IVA under Article 51A."
+        },
+        {
+          "id": "day-01-q06",
+          "topic": "Constitution",
+          "subject_id": "constitution",
+          "prompt": "Article 32 principally guarantees a remedy in the Supreme Court for what purpose?",
+          "options": [
+            "Settling every private contractual dispute",
+            "Enforcing only Directive Principles",
+            "Enforcing Fundamental Rights",
+            "Approving all parliamentary Bills"
+          ],
+          "answer_index": 2,
+          "explanation": "Article 32 concerns enforcement of Fundamental Rights, not every legal dispute."
+        },
+        {
+          "id": "day-01-q07",
+          "topic": "Aptitude",
+          "subject_id": "aptitude",
+          "prompt": "A price rises by 20% and then falls by 20%. Relative to the original price, it is now:",
+          "options": [
+            "Unchanged",
+            "4% higher",
+            "4% lower",
+            "8% lower"
+          ],
+          "answer_index": 2,
+          "explanation": "Take 100: 100 × 1.20 × 0.80 = 96. The second percentage uses the increased base."
+        },
+        {
+          "id": "day-01-q08",
+          "topic": "Aptitude",
+          "subject_id": "aptitude",
+          "prompt": "64 is divided in the ratio 3:5. What is the smaller share?",
+          "options": [
+            "16",
+            "24",
+            "32",
+            "40"
+          ],
+          "answer_index": 1,
+          "explanation": "There are 8 ratio parts. Each is 64/8 = 8; the smaller share is 3 × 8 = 24."
+        },
+        {
+          "id": "day-01-q09",
+          "topic": "Aptitude",
+          "subject_id": "aptitude",
+          "prompt": "Four numbers average 18. The first three average 16. What is the fourth number?",
+          "options": [
+            "20",
+            "22",
+            "24",
+            "26"
+          ],
+          "answer_index": 2,
+          "explanation": "All four total 4 × 18 = 72. The first three total 3 × 16 = 48. Difference: 24."
+        },
+        {
+          "id": "day-01-q10",
+          "topic": "Economics",
+          "subject_id": "economics",
+          "prompt": "A town can fund repairs to its library or its bus shelter this month, but not both. This illustrates:",
+          "options": [
+            "Scarcity exists only without money",
+            "Limited resources require choices",
+            "Public services have no cost",
+            "Making a choice removes all future needs"
+          ],
+          "answer_index": 1,
+          "explanation": "Scarcity means resources are insufficient for all competing uses, so choices must be made."
+        },
+        {
+          "id": "day-01-q11",
+          "topic": "Economics",
+          "subject_id": "economics",
+          "prompt": "Meena studies for two hours. Her next-best alternative was a typing assignment paying ₹400. Studying has no additional expense. What is the opportunity cost?",
+          "options": [
+            "₹0",
+            "₹200",
+            "₹400",
+            "₹800"
+          ],
+          "answer_index": 2,
+          "explanation": "The value of the next-best alternative forgone is the ₹400 payment, despite no cash expenditure on studying."
+        },
+        {
+          "id": "day-01-q12",
+          "topic": "Economics",
+          "subject_id": "economics",
+          "prompt": "Rice becomes cheaper and purchases increase, with income, tastes and all other relevant factors unchanged. This is:",
+          "options": [
+            "A downward movement along the existing demand curve",
+            "A rightward demand-curve shift",
+            "A leftward demand-curve shift",
+            "An upward movement along the existing curve"
+          ],
+          "answer_index": 0,
+          "explanation": "A change in the good's own price produces movement along the demand curve; no other demand determinant changed."
+        },
+        {
+          "id": "day-01-q13",
+          "topic": "Economics",
+          "subject_id": "economics",
+          "prompt": "Milk is a normal good for a household. Income rises while its price and other relevant factors remain unchanged. Demand:",
+          "options": [
+            "Moves upward along the same curve",
+            "Moves downward along the same curve",
+            "Shifts leftward",
+            "Shifts rightward"
+          ],
+          "answer_index": 3,
+          "explanation": "Higher income raises demand for a normal good at each price, shifting the curve rightward."
+        },
+        {
+          "id": "day-01-q14",
+          "topic": "Economics",
+          "subject_id": "economics",
+          "prompt": "Price rises from ₹40 to ₹44 and quantity demanded falls from 100 to 85. Using INITIAL values as the percentage bases, what is absolute price elasticity?",
+          "options": [
+            "0.67",
+            "1.50",
+            "1.00",
+            "15.00"
+          ],
+          "answer_index": 1,
+          "explanation": "Price rises 4/40 = 10%; quantity falls 15/100 = 15%. Absolute elasticity = 15/10 = 1.5, elastic. This is the specified initial-value method, not midpoint elasticity."
+        },
+        {
+          "id": "day-01-q15",
+          "topic": "Official-notice reading",
+          "subject_id": "official_updates",
+          "prompt": "Under the 13 October 2026 APPSC addendum, a candidate from a listed category who uses upper-age relaxation:",
+          "options": [
+            "Must change community category to OC",
+            "Is automatically appointed to an OC vacancy",
+            "Can also be considered for OC vacancies",
+            "Is excluded from every OC vacancy"
+          ],
+          "answer_index": 2,
+          "explanation": "The note permits consideration for open-competition vacancies. It neither guarantees appointment nor directs a change of community category."
+        }
+      ],
+      "review": [
+        "Use +1 for correct, −1/3 for wrong and 0 for unanswered: score = C − W/3, maximum 15. This is a short foundation check, not an official mock or a cut-off predictor.",
+        "Record your scores by topic: Constitution /6, aptitude /3, Economics /5, notice reading /1. Revisit errors even if the total score is high.",
+        "For each error write the question number, why you missed it, the corrected rule and one new example. Mark a guess separately from a confident answer.",
+        "Reattempt missed items after 2 days and again after 7 days. Finish by explaining the movement-versus-shift distinction and the citizen-versus-person distinction without notes."
+      ],
+      "sources": [
+        {
+          "id": "constitution",
+          "title": "Legislative Department — English Constitution, as on 1 May 2026",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf"
+        },
+        {
+          "id": "pib",
+          "title": "PIB — Republic Day and constitutional history, 25 January 2026",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2218369&lang=1&reg=6"
+        },
+        {
+          "id": "duties",
+          "title": "NCERT — Fundamental Duties reference",
+          "url": "https://www.ncert.nic.in/textbook/pdf/jemh1ps.pdf"
+        },
+        {
+          "id": "addendum",
+          "title": "APPSC — 13 October 2026 addendum",
+          "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Addendum_13102026.pdf"
+        },
+        {
+          "id": "ncert_intro",
+          "title": "NCERT Introductory Microeconomics, Chapter 1",
+          "url": "https://ncert.nic.in/textbook/pdf/leec201.pdf"
+        },
+        {
+          "id": "ncert_demand",
+          "title": "NCERT Introductory Microeconomics, Chapter 2",
+          "url": "https://www.ncert.nic.in/textbook/pdf/leec202.pdf"
+        }
+      ]
+    }
+  ],
+  "plan": {
+    "daily_minutes": 120,
+    "daily": [
+      [
+        "60 minutes",
+        "Common core",
+        "35 min General Studies/AP topics, 15 min aptitude or science, 10 min syllabus-linked current affairs."
+      ],
+      [
+        "30 minutes",
+        "Specialist rotation",
+        "Mon: AD Economics; Tue: EO; Wed: Welfare; Thu: AD Statistics; Fri: IPO; Sat: AD accounting/computer basics or the weakest AD topic."
+      ],
+      [
+        "30 minutes",
+        "Questions and review",
+        "About 15 min on 10-15 relevant unseen questions, then 15 min checking the final key and recording errors. Question complexity controls the actual count."
+      ],
+      [
+        "Sunday: 120 minutes",
+        "Full Group I paper or revision",
+        "On mock Sundays, use the full two hours for one 120-minute Group I paper. On other Sundays, use 60 min mixed practice + 45 min review + 15 min language/CPT."
+      ],
+      [
+        "Monday after a mock",
+        "Review replaces normal blocks",
+        "60 min mock review + 30 min common core + 30 min specialist work. Do not add hours beyond the daily limit."
+      ]
+    ],
+    "weeks": [
+      {
+        "number": 1,
+        "dates": "9-15 Nov",
+        "title": "Baseline and constitutional framework",
+        "description": "Baseline from one official 120-minute Group I paper; review it the next day. Map syllabus gaps; begin Constitution, arithmetic and AD fundamentals in the short specialist slots.",
+        "status": "planned"
+      },
+      {
+        "number": 2,
+        "dates": "16-22 Nov",
+        "title": "History and AP chronology",
+        "description": "Build an AP history/state-formation timeline. Start EO specialist notes, welfare programmes, and IPO physics foundations.",
+        "status": "planned"
+      },
+      {
+        "number": 3,
+        "dates": "23-29 Nov",
+        "title": "India/AP economy and public finance",
+        "description": "National income, inflation, budgeting and development; AD banking/trade/accounting; solve statistics averages and dispersion.",
+        "status": "planned"
+      },
+      {
+        "number": 4,
+        "dates": "30 Nov-6 Dec",
+        "title": "Geography and environment",
+        "description": "Use maps and diagrams; practise data interpretation. Review the first month with one timed paper and a syllabus-gap audit.",
+        "status": "planned"
+      },
+      {
+        "number": 5,
+        "dates": "7-13 Dec",
+        "title": "Science, technology and current events",
+        "description": "Work through syllabus-linked science questions; deepen IPO engineering and management; revise AD computer basics efficiently.",
+        "status": "planned"
+      },
+      {
+        "number": 6,
+        "dates": "14-20 Dec",
+        "title": "Social justice and welfare",
+        "description": "Connect constitutional provisions to AP schemes and protection measures; compare similar Acts and institutions; continue specialist rotation.",
+        "status": "planned"
+      },
+      {
+        "number": 7,
+        "dates": "21-27 Dec",
+        "title": "Finish the first core pass",
+        "description": "Audit all common-core units and close high-value gaps first. Use one Sunday slot for a short answer outline, a language exercise and basic CPT operations. Unfinished specialist units remain on a separate backlog.",
+        "status": "planned"
+      },
+      {
+        "number": 8,
+        "dates": "28 Dec-3 Jan",
+        "title": "Revision cycle one",
+        "description": "Mixed timed sets, high-error chapters and current-affairs consolidation. Use previously attempted questions only for spaced revision, not as fresh mock scores.",
+        "status": "planned"
+      },
+      {
+        "number": 9,
+        "dates": "4-10 Jan",
+        "title": "Group I emphasis begins",
+        "description": "Raise Group I work to most of the two-hour budget. Take one untouched full 120-minute paper on Sunday and review it the next day; retain two short specialist maintenance slots.",
+        "status": "planned"
+      },
+      {
+        "number": 10,
+        "dates": "11-17 Jan",
+        "title": "Full-paper rehearsal",
+        "description": "Rehearse the two 120-minute Group I papers on separate days within the daily limit. Repair repeat errors and revise AP-specific facts. Do not describe these as a same-day full-exam simulation.",
+        "status": "planned"
+      },
+      {
+        "number": 11,
+        "dates": "18-24 Jan",
+        "title": "Final revision and screening",
+        "description": "Short notes, formulae, maps and error log; taper heavy testing in the last two days. Screening is scheduled for 24 January 2027; follow the hall-ticket instructions.",
+        "status": "planned"
+      }
+    ],
+    "practice_method": [
+      "First read the current syllabus and label every old question: current topic, changed topic, or outside the present syllabus. The current notification governs scope.",
+      "Hide answers before attempting. Some official archive files combine questions and keys; keep a working copy with the key concealed. AD archive files may omit distractor options, so use those as recall/problem exercises rather than valid timed MCQ mocks.",
+      "For papers with one mark per question and one-third negative marking, record raw practice score as correct minus wrong/3. Leave unanswered questions at zero. Apply deleted/revised-question treatment from the official final key when checking a historical paper.",
+      "Record paper/year/set, question number, syllabus topic, your answer, final-key answer, time, confidence, error type and next revision date. Separate concept gaps, calculation mistakes, misreading and unsupported guesses.",
+      "Reattempt wrong questions after 2 days, 7 days and 21 days without looking at the answer. Keep fresh-paper mock scores separate from reattempt scores.",
+      "For a 120-minute Group I paper, try roughly 70 minutes first pass, 40 revisits and 10 checking. For other posts, practise 75-minute half-papers plus 45-minute review within a two-hour day; these are sectional tests. A true 150-minute paper requires a separately available longer session. The official exam instructions take priority.",
+      "Use attempted-question accuracy, net score, time overruns and repeat-error rate to choose the next week's topics. A useful personal target is at least 75% accuracy on attempted questions with declining avoidable errors; it is not an official cut-off or selection prediction.",
+      "For descriptive mains practice, plan the answer, state the central argument, support it with relevant AP/Indian examples and finish within the prescribed time/word limit. Build writing practice gradually rather than waiting for the screening result."
+    ],
+    "weekly_review": [
+      "Which current-syllabus units are complete, partial or untouched?",
+      "What were my net score, attempted-question accuracy and time overruns?",
+      "Which three repeated errors deserve the next week's first study blocks?",
+      "Did I practise the specialist subject and qualifying language/CPT tasks?",
+      "Has APPSC published an exam date, syllabus change, correction window or action deadline that changes this plan?"
+    ]
+  },
+  "updates": [
+    {
+      "published": "2026-10-27",
+      "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Extension_Webnote_27102026.pdf",
+      "effect": "07 and26 last application date9November2026 23:59; GroupI screening date unchanged."
+    },
+    {
+      "published": "2026-11-02",
+      "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Webnote_Extension_02112026.pdf",
+      "effect": "09,23,24 among13notifications extended to12November2026 23:59."
+    },
+    {
+      "published": "2026-10-13",
+      "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Addendum_13102026.pdf",
+      "effect": "07,08,19 reserved-category upper-age-relaxation candidates also considered for open competition. No syllabus/exam change."
+    }
+  ]
+}
