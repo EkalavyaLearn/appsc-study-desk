@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "content_version": "2026.11.10.103213",
-  "generated_at": "2026-11-10T10:32:13.556623+05:30",
+  "content_version": "2026.11.10.113944",
+  "generated_at": "2026-11-10T11:39:44.763781+05:30",
   "data_as_of": "2026-11-08",
   "app_title": "APPSC Study Desk",
   "disclaimer": "Independent study aid. Not affiliated with or endorsed by APPSC or the Government of Andhra Pradesh. Official notifications and current official sources prevail.",
@@ -2391,6 +2391,41 @@
       "source_url": null,
       "asset_path": null,
       "source_type": "local_authored"
+    },
+    {
+      "id": "lesson_day_04",
+      "title": "Day 4 — Legislatures, data interpretation and statistics foundations",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "aptitude",
+        "official_updates",
+        "statistics"
+      ],
+      "content_type": "lesson",
+      "stage": "preparation",
+      "notification": null,
+      "exam_year": null,
+      "official_url": null,
+      "pages": null,
+      "key_status": "original_practice_with_explanations",
+      "limitations": [
+        "Locally authored preparation guidance, not an APPSC publication.",
+        "The 15 questions are original practice, not official APPSC past-paper questions."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "guided_lesson",
+      "is_plan": false,
+      "lesson_id": "day-04",
+      "source_url": null,
+      "asset_path": null,
+      "source_type": "local_authored"
     }
   ],
   "lessons": [
@@ -3548,6 +3583,401 @@
           "id": "day-03-welfare-archive",
           "title": "APPSC — official notification 34/2016 archive; Final Key published 22/01/2018; checked 10 November 2026",
           "url": "https://portal-psc.ap.gov.in/HomePages/Notificationwise_Archive_Categories?Flag=hpwI8w9hjpnMevLhUfJxCQ%3D%3D"
+        }
+      ]
+    },
+    {
+      "id": "day-04",
+      "day_number": 4,
+      "title": "Day 4 — Legislatures, data interpretation and statistics foundations",
+      "status": "ready",
+      "prepared_date": "2026-11-10",
+      "duration_minutes": 120,
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "aptitude",
+        "official_updates",
+        "statistics"
+      ],
+      "intro": "Continue Day 3's executive-government topic by studying legislatures, then practise reading tables and summarising data. Day 4 follows the Thursday Assistant Director statistics slot in the saved rotation; you can study it whenever you reach this numbered lesson. The first 60 minutes develop common skills, followed by 30 minutes of introductory statistics and 30 minutes of practice and review. These foundations support the AD syllabus but do not complete its postgraduate-standard Statistics paper. All 15 questions are original practice, with explanations.",
+      "schedule": [
+        {
+          "id": "day-04-block-1",
+          "title": "Common core: Parliament, State legislatures and Bill procedures",
+          "minutes": 35,
+          "section_id": "day-04-s1"
+        },
+        {
+          "id": "day-04-block-2",
+          "title": "Aptitude: interpret a table, totals, rates and percentage points",
+          "minutes": 15,
+          "section_id": "day-04-s2"
+        },
+        {
+          "id": "day-04-block-3",
+          "title": "Official-data reading: a historical PLFS release and its denominators",
+          "minutes": 10,
+          "section_id": "day-04-s3"
+        },
+        {
+          "id": "day-04-block-4",
+          "title": "AD statistics: population, sample, data types, centre and spread",
+          "minutes": 30,
+          "section_id": "day-04-s4"
+        },
+        {
+          "id": "day-04-block-5",
+          "title": "Attempt 15 original questions without notes",
+          "minutes": 15,
+          "section_id": null
+        },
+        {
+          "id": "day-04-block-6",
+          "title": "Check explanations, correct errors and plan recall",
+          "minutes": 15,
+          "section_id": null
+        }
+      ],
+      "sections": [
+        {
+          "id": "day-04-s1",
+          "title": "Legislatures: distinguish the institution, the House and the type of Bill",
+          "minutes": 35,
+          "paragraphs": [
+            "Time plan: 3 minutes recalling Day 3's collective-responsibility rules, 16 minutes reading the constitutional comparisons, 9 minutes drawing the Bill-route table, and 7 minutes recalling it without notes. Keep three questions separate: who forms the legislature, which House does what, and which procedure applies to this kind of Bill?",
+            "Article 79: Parliament consists of the President and two Houses—the Council of States (Rajya Sabha) and the House of the People (Lok Sabha). The President is a constituent part of Parliament, but is not a member of either House. Thus 'Parliament' and 'the two Houses' are related expressions, not perfectly interchangeable lists.",
+            "Articles 80 and 81 describe the composition of the two Houses. Rajya Sabha includes nominated members and representatives of States and Union territories; State representatives are elected by the elected members of their Legislative Assemblies through the prescribed proportional-representation system. Lok Sabha's constitutional design includes members chosen by direct election from territorial constituencies. Do not assume that every member of both Houses is elected in exactly the same way.",
+            "Article 83 distinguishes their duration. Rajya Sabha is not subject to dissolution; as nearly as possible, one-third of its members retire every second year under the law. Lok Sabha ordinarily continues for five years from its first meeting unless sooner dissolved, subject to the Constitution's emergency-related provision. 'A continuing House' does not mean that all its individual members hold office permanently.",
+            "For an ordinary, non-financial Bill, Article 107 permits introduction in either House. In the normal bicameral route, both Houses must agree on the Bill, including the form of any amendments, before it proceeds for the President's assent under Article 111. Introduction, passage by one House, agreement of both Houses and assent are different stages. Do not describe introduction alone as enactment.",
+            "Money Bills use the special Article 109 route: introduction is in Lok Sabha, not Rajya Sabha. After Lok Sabha passes the Bill, Rajya Sabha has fourteen days from receipt to return it with recommendations. Lok Sabha may accept or reject any or all recommendations. If it is not returned within that period, the Constitution deems it passed by both Houses in the form passed by Lok Sabha. Recommendations are not a power to insist on amendments in the ordinary bicameral manner.",
+            "Article 110 defines a Money Bill by its containing only provisions dealing with the listed matters, including specified taxation, borrowing and public-fund matters, and matters incidental to them. Merely mentioning money, fees or a financial consequence does not automatically make a Bill a Money Bill. The Constitution assigns the decision on whether a Bill is a Money Bill to the Lok Sabha Speaker. Do not turn this introductory classification rule into a claim that every constitutional dispute is beyond judicial scrutiny.",
+            "Article 108 provides for a joint sitting in specified circumstances of disagreement between the Houses, but its procedure expressly excludes Money Bills. This is not a shortcut that applies automatically whenever two Houses disagree. Constitutional-amendment Bills and the separate financial-Bill rules need their own later study; do not transfer today's ordinary-Bill summary to every category.",
+            "State comparison: Article 168 provides for a State legislature consisting of the Governor and either one House or, where provided, two Houses. One House is the Legislative Assembly; in a bicameral State, the other is the Legislative Council. Do not assume every State has a Council, or that the existence of a Governor makes the legislature bicameral.",
+            "Article 169 gives a route for creating or abolishing a State Legislative Council. The State Assembly must first pass the specified resolution, supported by a majority of its total membership and at least two-thirds of members present and voting. Parliament may then provide for creation or abolition by law. The Assembly resolution is not itself the Parliamentary law that creates or abolishes the Council.",
+            "Closed-book comparison: draw columns for an ordinary non-financial Bill and a Money Bill. Fill introduction House, Rajya Sabha's role, the fourteen-day rule, and applicability of the Article 108 joint-sitting route. Then write Parliament's three components, the distinction between a continuing House and a permanent member, and the difference between unicameral and bicameral State legislatures."
+          ],
+          "source_ids": [
+            "day-04-constitution"
+          ]
+        },
+        {
+          "id": "day-04-s2",
+          "title": "Data interpretation: read the label before calculating the percentage",
+          "minutes": 15,
+          "paragraphs": [
+            "Time plan: 3 minutes copying the small table, 8 minutes solving the worked questions, and 4 minutes checking the denominators. The following training-centre data are invented teaching data, not government statistics. Each completed learner is included in that centre's attended count; each attended learner is included in its enrolled count.",
+            "Draw a table with four columns: Centre | Enrolled | Attended | Completed. Row A: 80 | 60 | 48. Row B: 120 | 90 | 63. Row C: 100 | 70 | 49. All entries are numbers of learners in the same training round. A dash, a zero and a missing entry would have different meanings, but this table has no missing entries.",
+            "Worked total: enrolled = 80+120+100 = 300; attended = 60+90+70 = 220; completed = 48+63+49 = 160. Add like columns and retain the unit. Do not add the three stage totals together to claim there are 680 different learners: the stages overlap.",
+            "Worked rate: Centre A's attendance rate among enrolled learners is 60/80×100 = 75%. Its completion rate among attendees is 48/60×100 = 80%. Its completion rate among all enrolled learners is 48/80×100 = 60%. All three calculations can be correct because they answer different questions.",
+            "Worked comparison: Centre B has more completers than A (63 versus 48), but B's completion rate among attendees is 63/90×100 = 70%, below A's 80%. A larger count need not imply a higher rate. A question asking for the highest percentage cannot always be solved by selecting the largest numerator.",
+            "Worked combined rate: across all centres, attendance among enrolled learners is 220/300×100 = 73⅓%. Do not simply average 75%, 75% and 70%; the centres have different enrolled totals. This applies Day 3's weighting rule to a table.",
+            "Percentage-point check: A's attendance rate is 75%; C's is 70/100×100 = 70%. The difference is 5 percentage points. A's rate is about 7.14% higher relative to C's rate because 5/70×100 ≈ 7.14%. Name the comparison base before choosing one expression.",
+            "Four-minute recall: hide the worked answers. Recreate the three column totals, calculate C's completion rate among attendees (49/70 = 70%), and explain why 160/220 and 160/300 answer different questions. For every percentage in your rough work, write 'of whom?' beside the denominator."
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "day-04-s3",
+          "title": "Official-data reading: distinguish the report period, population and denominator",
+          "minutes": 10,
+          "paragraphs": [
+            "Historical example, not latest 2026 data: MoSPI's PIB release of 23 September 2024 covers PLFS July 2023–June 2024. All-India, rural and urban combined, persons aged 15+, usual status (principal plus subsidiary status, ps+ss): LFPR 60.1%, WPR 58.2%, UR 3.2%.",
+            "LFPR uses labour force/population; WPR uses employed/population; UR uses unemployed/labour force. Labour force includes employed and unemployed persons under the survey definition. Each ratio is expressed as a percentage.",
+            "Rounded indicators cannot establish exact headcounts or exactly reproduce UR from displayed LFPR and WPR. The July–June reference period differs from an April–March financial year.",
+            "Ten-minute task: spend 3 minutes locating the release title and date, 3 minutes annotating the age group, geography, status measure and reference period, and 4 minutes writing the denominator beside each of the three indicators. Put a box around 'historical example' on your note. When later comparing a different release, first check whether these labels and definitions still match; a newer publication date alone does not make two differently defined estimates comparable."
+          ],
+          "source_ids": [
+            "day-04-plfs"
+          ]
+        },
+        {
+          "id": "day-04-s4",
+          "title": "Statistics foundation: define the data, then describe its centre and spread",
+          "minutes": 30,
+          "paragraphs": [
+            "Time plan: 7 minutes for population, sample and data type; 10 minutes calculating mean, median and mode; 6 minutes on range and extreme values; and 7 minutes on recall. AD 09/2026 Paper III explicitly includes collection and sampling, tabulation, central tendency and dispersion. This is a first foundation for those topics, not a substitute for the paper's full specialist coverage.",
+            "A population is the complete defined collection of units about which an inquiry seeks information; a sample is a subset studied from it. For an invented survey of all 500 households in a specified village, the 500 households form the population and 50 selected households form the sample. The definition must identify the units and scope; 'population' need not mean all people in India.",
+            "A census seeks information on every unit of the defined population; a sample inquiry studies selected units. Sampling is not automatically unbiased just because the sample is large. Selection design, coverage and non-response matter. Detailed random and non-random designs will be studied later; today, avoid mistaking a convenient group for guaranteed representation.",
+            "Qualitative variables record categories, such as a learner's travel mode; quantitative variables record numerical quantities, such as distance travelled or the number of books borrowed. Coding bus=1 and bicycle=2 does not make the travel category a measured amount. A count is typically discrete; a measured distance is treated as continuous even when recorded to a chosen precision.",
+            "Measures of centre answer different questions: the arithmetic mean uses the sum divided by the observation count; the median uses the middle position after ordering; the mode identifies the most frequent value. For an even number of numerical observations, use the mean of the two middle values as the median. A data set can have more than one mode; do not invent a unique mode when frequencies tie.",
+            "Worked original set: 2, 4, 4, 6, 9. The total is 25 and there are five observations, so mean = 5. The sorted middle observation is 4, so median = 4. The value 4 occurs twice, more often than the others, so mode = 4. An answer called simply 'the average' can be ambiguous unless the question specifies the measure.",
+            "Second original set: 3, 5, 8, 12. The median is (5+8)/2 = 6.5, even though 6.5 is not an observed value. The mean is 28/4 = 7. Each value occurs once, so under the usual elementary convention there is no unique modal value. Sort before locating a median; do not select the middle pair from an unsorted list.",
+            "Range describes spread: maximum minus minimum. For 2, 4, 4, 6, 9, range = 9−2 = 7. It uses only the extremes, so equal ranges do not guarantee identical distributions. A mean describes a centre; a range describes a span. Neither alone supplies a complete picture.",
+            "Extreme-value experiment: replace 9 with 29 in the first set. The new mean is 45/5 = 9, median stays 4, mode stays 4, and range becomes 29−2 = 27. This original calculation shows why the mean and range can change markedly while the middle and most frequent values remain unchanged. Do not turn one example into a claim that the median can never change.",
+            "Transformation check: adding 10 to every observation in the original set raises its mean, median and mode by 10, while its range remains 7 because both maximum and minimum rise by the same amount. Multiplying every observation by 2 doubles those three centre measures and the range. Work through the values once rather than memorising a rule without a check.",
+            "Recall task: identify the population, sample and variable type in a simple survey you invent. Then calculate mean, median, mode and range for 1, 3, 3, 5, 8: the check values are 4, 3, 3 and 7. Explain in one sentence what an outlier changed in the earlier experiment. Leave grouped-data formulae, variance, standard deviation, probability and formal sampling designs for later AD sessions."
+          ],
+          "source_ids": [
+            "day-04-ad-notification",
+            "day-04-data-basics",
+            "day-04-data-types",
+            "day-04-centre",
+            "day-04-range"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "day-04-q01",
+          "topic": "Constitution — composition of Parliament",
+          "subject_id": "constitution",
+          "prompt": "Under Article 79, Parliament consists of:",
+          "options": [
+            "The Prime Minister and the Union Council of Ministers only",
+            "The Lok Sabha and State Legislative Assemblies",
+            "The President, Rajya Sabha and Lok Sabha",
+            "The President and Supreme Court"
+          ],
+          "answer_index": 2,
+          "explanation": "Article 79 includes the President and the two Houses. The President is a constituent part of Parliament without being a member of either House. Do not replace the legislature with the executive or the judiciary."
+        },
+        {
+          "id": "day-04-q02",
+          "topic": "Constitution — continuing House",
+          "subject_id": "constitution",
+          "prompt": "Which statement about Rajya Sabha is correct?",
+          "options": [
+            "It is dissolved whenever Lok Sabha is dissolved",
+            "It is not subject to dissolution; approximately one-third of its members retire every second year",
+            "All members hold their seats permanently",
+            "It has no elected members"
+          ],
+          "answer_index": 1,
+          "explanation": "Article 83 makes Rajya Sabha a continuing House, with retirement of as nearly as possible one-third of its members every second year. Continuity of the institution is different from permanent tenure for every member."
+        },
+        {
+          "id": "day-04-q03",
+          "topic": "Constitution — introduction of ordinary Bills",
+          "subject_id": "constitution",
+          "prompt": "An ordinary, non-financial Bill may generally be introduced in:",
+          "options": [
+            "Either House of Parliament",
+            "Lok Sabha only, under the Money Bill procedure",
+            "Rajya Sabha only",
+            "The Supreme Court before either House"
+          ],
+          "answer_index": 0,
+          "explanation": "Article 107 permits introduction in either House, subject to the special provisions governing Money Bills and other financial Bills. The question deliberately specifies a non-financial ordinary Bill; do not apply the Lok Sabha-only Money Bill route to it."
+        },
+        {
+          "id": "day-04-q04",
+          "topic": "Constitution — Money Bill procedure",
+          "subject_id": "constitution",
+          "prompt": "After receiving a Money Bill passed by Lok Sabha, Rajya Sabha's constitutional role includes:",
+          "options": [
+            "Holding it indefinitely until Lok Sabha accepts every amendment",
+            "Calling an Article 108 joint sitting automatically",
+            "Replacing Lok Sabha's approval with its own veto",
+            "Returning recommendations within fourteen days, which Lok Sabha may accept or reject"
+          ],
+          "answer_index": 3,
+          "explanation": "Article 109 gives Rajya Sabha fourteen days from receipt to return recommendations. Lok Sabha may accept or reject them. Money Bills are excluded from the Article 108 joint-sitting procedure."
+        },
+        {
+          "id": "day-04-q05",
+          "topic": "Constitution — Money Bill classification",
+          "subject_id": "constitution",
+          "prompt": "Which statement best reflects Article 110?",
+          "options": [
+            "Every Bill mentioning a fee is automatically a Money Bill",
+            "Only the Rajya Sabha Chairman decides which Bills are Money Bills",
+            "A Money Bill must contain only the specified kinds of provisions and incidental matters; the Constitution assigns the classification decision to the Lok Sabha Speaker",
+            "A Bill becomes a Money Bill whenever one Minister calls it expensive"
+          ],
+          "answer_index": 2,
+          "explanation": "Article 110 supplies a defined subject-matter test and assigns the decision to the Lok Sabha Speaker. Mentioning money or fees is insufficient by itself. This introductory rule does not assert blanket immunity from constitutional judicial scrutiny."
+        },
+        {
+          "id": "day-04-q06",
+          "topic": "Constitution — State legislature",
+          "subject_id": "constitution",
+          "prompt": "Under Article 168, which is the correct general description of a State legislature?",
+          "options": [
+            "The Chief Minister alone",
+            "The Governor and one House, or the Governor and two Houses where provided",
+            "Two Houses in every State, without the Governor",
+            "The Governor and the Supreme Court"
+          ],
+          "answer_index": 1,
+          "explanation": "The Governor is a constituent part of the State legislature. A State has a Legislative Assembly, with a Legislative Council where the Constitution provides for a bicameral legislature. Not every State has a Council."
+        },
+        {
+          "id": "day-04-q07",
+          "topic": "Aptitude — table totals",
+          "subject_id": "aptitude",
+          "prompt": "Three fictional training centres report attended learners D=80, E=90 and F=120. What is total attendance across the three centres?",
+          "options": [
+            "204",
+            "400",
+            "290",
+            "894"
+          ],
+          "answer_index": 2,
+          "explanation": "Add the attended counts: 80+90+120=290 learners. Keep the same measure throughout the addition; enrolled and completed counts would answer different questions."
+        },
+        {
+          "id": "day-04-q08",
+          "topic": "Aptitude — choosing the denominator",
+          "subject_id": "aptitude",
+          "prompt": "Fictional Centre D has 100 enrolled learners, 80 attendees and 60 completers. What percentage of its attendees completed?",
+          "options": [
+            "75%",
+            "60%",
+            "80%",
+            "48%"
+          ],
+          "answer_index": 0,
+          "explanation": "The question says 'of its attendees', so use 80 as the denominator: 60/80×100=75%. The 60% result uses all 100 enrolled learners instead and answers a different question."
+        },
+        {
+          "id": "day-04-q09",
+          "topic": "Aptitude — percentage-point difference",
+          "subject_id": "aptitude",
+          "prompt": "Fictional Centre D's attendance is 80 out of 100 enrolled; Centre E's is 90 out of 150. How much higher is D's attendance rate in percentage points?",
+          "options": [
+            "30",
+            "33⅓",
+            "10",
+            "20"
+          ],
+          "answer_index": 3,
+          "explanation": "D's rate is 80% and E's is 60%, so the gap is 20 percentage points. The relative increase using E as the base would be 20/60×100=33⅓%, which is a different measure."
+        },
+        {
+          "id": "day-04-q10",
+          "topic": "Aptitude — combined rate",
+          "subject_id": "aptitude",
+          "prompt": "Three fictional centres have enrolled/attended counts D=100/80, E=150/90 and F=150/120. What is their combined attendance percentage?",
+          "options": [
+            "73⅓%",
+            "72.5%",
+            "75%",
+            "80%"
+          ],
+          "answer_index": 1,
+          "explanation": "Total attended is 80+90+120=290; total enrolled is 100+150+150=400. Thus 290/400×100=72.5%. The unweighted mean of 80%, 60% and 80% is 73⅓%; it ignores unequal centre sizes."
+        },
+        {
+          "id": "day-04-q11",
+          "topic": "Official data — unemployment-rate denominator",
+          "subject_id": "official_updates",
+          "prompt": "In the historical PLFS example, the unemployment rate uses which denominator?",
+          "options": [
+            "All persons in the relevant population",
+            "Only employed persons",
+            "Persons in the labour force",
+            "Only persons outside the labour force"
+          ],
+          "answer_index": 2,
+          "explanation": "UR is unemployed persons divided by the labour force, expressed as a percentage. LFPR and WPR instead use the relevant population as their denominator. Keep the age group and status definition attached to the estimate."
+        },
+        {
+          "id": "day-04-q12",
+          "topic": "Statistics — population and sample",
+          "subject_id": "statistics",
+          "prompt": "An inquiry targets all 500 households in a village but collects observations from 50 selected households. Which statement is correct?",
+          "options": [
+            "The 500 households are the population; the selected 50 form the sample",
+            "The selected 50 are necessarily an unbiased census",
+            "The sample must contain all 500 households",
+            "Population can refer only to a whole country's people"
+          ],
+          "answer_index": 0,
+          "explanation": "Population means the complete defined set of units of interest, while a sample is a subset. Selecting 50 households does not, by itself, prove unbiased representation. A census would seek information on every unit of the defined population."
+        },
+        {
+          "id": "day-04-q13",
+          "topic": "Statistics — variable types",
+          "subject_id": "statistics",
+          "prompt": "Travel mode is recorded as bus=1, bicycle=2 and walking=3. What is the best interpretation?",
+          "options": [
+            "The codes make travel mode a continuous distance measurement",
+            "Walking is mathematically three times bus travel",
+            "The average of the codes must measure average journey length",
+            "Travel mode remains a categorical variable; the numbers are labels"
+          ],
+          "answer_index": 3,
+          "explanation": "Numerical labels do not create measured magnitudes or meaningful ratios between categories. Travel mode is qualitative/categorical; distance travelled would be a quantitative variable."
+        },
+        {
+          "id": "day-04-q14",
+          "topic": "Statistics — mean, median and mode",
+          "subject_id": "statistics",
+          "prompt": "For the data 4, 5, 5, 6, 10, what are the arithmetic mean, median and mode, respectively?",
+          "options": [
+            "5, 6, 5",
+            "6, 5, 5",
+            "6, 6, 10",
+            "5, 5, 6"
+          ],
+          "answer_index": 1,
+          "explanation": "The sum is 30, so mean=30/5=6. The sorted middle value is 5, and 5 occurs most often, so both median and mode are 5. These are three different definitions, even when two answers coincide."
+        },
+        {
+          "id": "day-04-q15",
+          "topic": "Statistics — range under a shift",
+          "subject_id": "statistics",
+          "prompt": "Every value in 3, 6, 6, 8, 13 is decreased by 2. What is the range of the new data?",
+          "options": [
+            "15",
+            "20",
+            "10",
+            "5"
+          ],
+          "answer_index": 2,
+          "explanation": "The new minimum is 1 and maximum is 11, so range=11−1=10. Subtracting the same constant moves every value equally and leaves maximum minus minimum unchanged."
+        }
+      ],
+      "review": [
+        "Use 5 minutes to read every explanation, 5 minutes to redo wrong or guessed questions without the notes, and 5 minutes to make a recall sheet. Correct guesses deserve review too.",
+        "Score the set as correct minus wrong/3; blanks score zero. For example, 12 correct, 3 wrong and no blanks gives 11 net marks out of 15. Treat the score as learning feedback, not a predicted examination result.",
+        "Write each error as question ID, incorrect reasoning, correct rule and next recall date. Useful labels today are wrong institution, wrong Bill category, wrong denominator, percentage points confused with percent, unlabelled official data, unsorted median and centre confused with spread.",
+        "Exit sheet: list Parliament's components; contrast an ordinary non-financial Bill and a Money Bill; calculate one table rate with its denominator; label the historical PLFS reference period; and compute mean, median, mode and range for a fresh five-value data set.",
+        "Reattempt errors and guessed items after 2, 7 and 21 days within those days' review slots. Keep total daily study at two hours and record repeat attempts separately from fresh practice.",
+        "For the next lesson, retain two weak distinctions from today. Do not treat the introductory statistics section as completion of AD Paper III: the later sequence must develop sampling, probability, grouped data, dispersion, correlation, time series and index numbers."
+      ],
+      "sources": [
+        {
+          "id": "day-04-constitution",
+          "title": "Legislative Department — Constitution of India, as on 1 May 2026; Articles 79–83, 107–111, 168–169; checked 10 November 2026",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf"
+        },
+        {
+          "id": "day-04-ad-notification",
+          "title": "APPSC — Assistant Director 09/2026, Statistics Paper III syllabus, items 1–3; checked 10 November 2026",
+          "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Assistant_Director_092026.pdf"
+        },
+        {
+          "id": "day-04-plfs",
+          "title": "MoSPI via PIB — PLFS annual report, July 2023–June 2024; release dated 23 September 2024; historical data-reading example",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2057970&lang=2&reg=48"
+        },
+        {
+          "id": "day-04-data-basics",
+          "title": "SATHEE, IIT Kanpur — NCERT Statistics for Economics, Collection of Data; population, sample and census foundations",
+          "url": "https://sathee.iitk.ac.in/sathee-bank-exam/student-corner/ncert-books/class-11/economics/statistics-for-economics/chapter-02-collection-of-data/"
+        },
+        {
+          "id": "day-04-data-types",
+          "title": "SATHEE, IIT Kanpur — NCERT Statistics for Economics, Organisation of Data; qualitative and quantitative classification",
+          "url": "https://sathee.iitk.ac.in/sathee-bank-exam/student-corner/ncert-books/class-11/economics/statistics-for-economics/chapter-03-organisation-of-data/"
+        },
+        {
+          "id": "day-04-centre",
+          "title": "NIST statistical handbook — Measures of Location; mean, median and mode definitions",
+          "url": "https://www.itl.nist.gov/div898/handbook/eda/section3/eda351.htm"
+        },
+        {
+          "id": "day-04-range",
+          "title": "SATHEE, IIT Kanpur — NCERT Class 11 Mathematics, Statistics; range and dispersion",
+          "url": "https://sathee.iitk.ac.in/bn/sathee-jee/ncert-books/jee-ncert-books/jee-nb-math-11/chapter-13-statistics/"
         }
       ]
     }
