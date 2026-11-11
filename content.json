@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "content_version": "2026.11.10.113944",
-  "generated_at": "2026-11-10T11:39:44.763781+05:30",
+  "content_version": "2026.11.11.084353",
+  "generated_at": "2026-11-11T08:43:53.167026+05:30",
   "data_as_of": "2026-11-08",
   "app_title": "APPSC Study Desk",
   "disclaimer": "Independent study aid. Not affiliated with or endorsed by APPSC or the Government of Andhra Pradesh. Official notifications and current official sources prevail.",
@@ -2426,6 +2426,42 @@
       "source_url": null,
       "asset_path": null,
       "source_type": "local_authored"
+    },
+    {
+      "id": "lesson_day_05",
+      "title": "Day 5 — Courts, work rates and industrial work study",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "aptitude",
+        "official_updates",
+        "industrial_management",
+        "industrial_engineering"
+      ],
+      "content_type": "lesson",
+      "stage": "preparation",
+      "notification": null,
+      "exam_year": null,
+      "official_url": null,
+      "pages": null,
+      "key_status": "original_practice_with_explanations",
+      "limitations": [
+        "Locally authored preparation guidance, not an APPSC publication.",
+        "The 15 questions are original practice, not official APPSC past-paper questions."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "guided_lesson",
+      "is_plan": false,
+      "lesson_id": "day-05",
+      "source_url": null,
+      "asset_path": null,
+      "source_type": "local_authored"
     }
   ],
   "lessons": [
@@ -3978,6 +4014,387 @@
           "id": "day-04-range",
           "title": "SATHEE, IIT Kanpur — NCERT Class 11 Mathematics, Statistics; range and dispersion",
           "url": "https://sathee.iitk.ac.in/bn/sathee-jee/ncert-books/jee-ncert-books/jee-nb-math-11/chapter-13-statistics/"
+        }
+      ]
+    },
+    {
+      "id": "day-05",
+      "day_number": 5,
+      "title": "Day 5 — Courts, work rates and industrial work study",
+      "status": "ready",
+      "prepared_date": "2026-11-11",
+      "duration_minutes": 120,
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "aptitude",
+        "official_updates",
+        "industrial_management",
+        "industrial_engineering"
+      ],
+      "intro": "Choose a court from the right being enforced and the facts connecting the case to its territory. Then combine work rates, read a dated MSME classification table and use a stopwatch study to set a standard time. The 30-minute specialist block follows the Industrial Promotion Officer rotation.",
+      "schedule": [
+        {
+          "id": "day-05-block-1",
+          "title": "Constitutional remedies and judicial review",
+          "minutes": 35,
+          "section_id": "day-05-s1"
+        },
+        {
+          "id": "day-05-block-2",
+          "title": "Aptitude practice with work rates",
+          "minutes": 15,
+          "section_id": "day-05-s2"
+        },
+        {
+          "id": "day-05-block-3",
+          "title": "Read the MSME classification notification",
+          "minutes": 10,
+          "section_id": "day-05-s3"
+        },
+        {
+          "id": "day-05-block-4",
+          "title": "Industrial Promotion Officer • Productivity and work study",
+          "minutes": 30,
+          "section_id": "day-05-s4"
+        },
+        {
+          "id": "day-05-block-5",
+          "title": "Timed practice • 15 original questions",
+          "minutes": 15,
+          "section_id": null
+        },
+        {
+          "id": "day-05-block-6",
+          "title": "Score, diagnose and retry",
+          "minutes": 15,
+          "section_id": null
+        }
+      ],
+      "sections": [
+        {
+          "id": "day-05-s1",
+          "title": "Choosing a constitutional remedy",
+          "minutes": 35,
+          "paragraphs": [
+            "Minutes 0–7. Draw a two-row table, one row per court. Under Article 32, a person can move the Supreme Court to enforce a right guaranteed by Part III. Under Article 226, a High Court can issue writs for enforcement of Part III rights and for other legal purposes, including enforcement of a public authority’s statutory duty. Write the right or duty in the second column and the facts that connect it to the court in the third.",
+            "Minutes 7–15. A licensing board has a statutory duty to decide an application. It has declined to take any decision. The applicant alleges breach of that duty alone. Article 226 gives the appropriate High Court power to consider a petition for mandamus. An order to decide would still leave the merits to the board. Now change one fact. The board denies a licence under a rule alleged to violate Article 14. That allegation raises a Part III issue, so the scope of both Articles 32 and 226 becomes relevant. Relief depends on the facts.",
+            "Minutes 15–21. Suppose the board sits in State B. A material part of the events on which the applicant’s claim rests took place in State A. Article 226(2) permits the High Court in State A to exercise territorial jurisdiction on that basis even though the board sits elsewhere. Underline the material event in your example. The applicant’s choice of a convenient city alone does not establish this connection.",
+            "Minutes 21–28. Judicial review can test an ordinary law against Part III. Article 13(2) makes a law void to the extent that it contravenes those rights. Imagine two independent clauses of a new State law. Only the second infringes a fundamental right and it can be separated from the first. Mark the offending clause and explain why the first can survive. Article 141 answers a different question. The law declared by the Supreme Court binds all courts in India. Article 143 deals with references by the President for the Court’s opinion.",
+            "Minutes 28–35. Shut the notes and label four slips: a statutory public duty alone, a Part III claim, a material event in another State, and the binding effect of law declared by the Supreme Court. Write 226, 32 and 226, 226(2), and 141 respectively, then give one sentence of reasoning for each. Add a fifth slip for the Article 13(2) severable-clause example and read your explanation aloud."
+          ],
+          "source_ids": [
+            "day-05-constitution",
+            "day-05-courts"
+          ]
+        },
+        {
+          "id": "day-05-s2",
+          "title": "Work rates, elapsed time and units",
+          "minutes": 15,
+          "paragraphs": [
+            "Minutes 0–5. Two people can independently finish the same job in 12 hours and 18 hours. Assume constant rates that add when they work together. In one hour they complete 1/12 + 1/18 = 5/36 of the job. The whole job takes 36/5 hours, or 7 hours 12 minutes. Check that this is quicker than either person working alone. Multiply the fractional part of an hour by 60 to convert it to minutes.",
+            "Minutes 5–10. A packing station has 240 cartons. One worker completes 30 per hour for the first two hours, finishing 60. A second joins and contributes 15 per hour. The remaining 180 cartons take 180 ÷ (30 + 15) = 4 hours. Total elapsed time is 2 + 4 = 6 hours. Sketch a timeline with the output at the point the second worker joins.",
+            "Minutes 10–15. Try two checks without looking back. A machine runs 90 minutes at 75 seconds per cycle with no stoppage. How many complete cycles fit? Another pair takes 8 and 24 hours alone. How long together? Check your units against 90 × 60 ÷ 75 = 72 cycles and 1 ÷ (1/8 + 1/24) = 6 hours. For a partly finished job, divide the remaining work by the combined rate."
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "day-05-s3",
+          "title": "Read the MSME investment and turnover limits",
+          "minutes": 10,
+          "paragraphs": [
+            "Minutes 0–3. Read Ministry of MSME notification S.O. 1364(E). The issue date is 21 March 2025. The revised thresholds took effect on 1 April 2025. Write the dates next to their functions. This exercise uses the figures in that dated notification.",
+            "Minutes 3–6. Make two columns in ₹ crore. The first measures investment in plant and machinery or equipment. The second measures annual turnover. Copy the inclusive upper limits in that order. Micro = 2.5 and 10. Small = 25 and 100. Medium = 125 and 500. For a fresh classification exercise, start with micro and move up until both figures fit in the same row.",
+            "Minutes 6–10. Cover the table and classify two fictional enterprises, using the investment and turnover measures just defined. At ₹2.5 crore and ₹10 crore, both limits fit micro exactly. At ₹2 crore and ₹12 crore, turnover exceeds the micro limit, and both measures fit small. Explain aloud why checking only investment would give the wrong answer in the second case."
+          ],
+          "source_ids": [
+            "day-05-gazette",
+            "day-05-msme-table"
+          ]
+        },
+        {
+          "id": "day-05-s4",
+          "title": "Industrial Promotion Officer • Measuring productivity and setting a time standard",
+          "minutes": 30,
+          "paragraphs": [
+            "Minutes 0–6. In Annexure II of Notification 24/2026, turn to Paper II, Industrial Engineering, item 1 on work study. Begin with labour productivity. Shift A makes 240 accepted parts in 40 worker-hours. Shift B makes 270 in 45 worker-hours. Both deliver 6 accepted parts per worker-hour. Shift C makes 280 in 40 worker-hours, or 7 per worker-hour. The improvement from A to C is (7 − 6) ÷ 6 × 100 = 16⅔%. Write what goes into the numerator and denominator. Use a consistent part specification and quality standard.",
+            "Minutes 6–12. Method study examines how the job is done. In a packing bay, the operator walks 8 metres to collect labels and 8 metres back on each of 25 trips. Draw the old path and label its length, 400 metres. Sketch a label rack 2 metres away. With the same 25 round trips, travel becomes 100 metres. Check that locating the rack there keeps access clear and the correct labels within reach. Work measurement asks how long a qualified operator needs for the defined method under specified conditions. Record which layout is being timed.",
+            "Minutes 12–19. In a stopwatch study of one repeatable operation, three observed cycles take 40, 44 and 48 seconds. Their mean is 44 seconds. Use a performance scale on which 100 is the reference pace. A rating of 125 gives normal time = 44 × 125/100 = 55 seconds. An operator working above reference pace completed the cycle more quickly, so its reference-pace time is longer. For a first check, estimate whether the result should exceed 44 seconds before calculating.",
+            "Minutes 19–25. An allowance of 10% of normal time gives standard time = 55 × 1.10 = 60.5 seconds. If the allowance is instead specified as 10% of the total standard time, the normal 55 seconds occupy 90% of the total, so standard time = 55 ÷ 0.90 ≈ 61.11 seconds. Circle what the percentage is measured against. Now try 12 minutes normal time at 20%. Your two results should be 14.4 minutes for an allowance based on normal time and 15 minutes for one based on standard time.",
+            "Minutes 25–30. Open Q66 on PDF page 32 of APPSC’s earlier IPO Paper II final key for Notification 11/2022, post code 07, published 8 December 2023. Work sampling estimates working time from the proportion of observations spent working. The paper’s 30 days × 6 hours × 60 minutes × 800/1,000 gives 8,640 working minutes. Divide by 350 jobs, multiply by 1.10 for pace and 1.30 for an allowance on normal time. The result is 35.30 minutes per job, option 3 in the key. Contrast the estimated working fraction with the directly timed cycles you used above. Cover the notes and write both calculation sequences from memory."
+          ],
+          "source_ids": [
+            "day-05-ipo",
+            "day-05-method",
+            "day-05-time",
+            "day-05-previous"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "day-05-q01",
+          "topic": "Scope of Article 32",
+          "subject_id": "constitution",
+          "prompt": "A petition asks the Supreme Court directly for a writ under Article 32. Which claim falls within the purpose stated in that Article?",
+          "options": [
+            "A supplier seeks payment on an ordinary private contract",
+            "A citizen seeks enforcement of a Part III fundamental right",
+            "A resident wants advice on a proposed law",
+            "A department seeks revision of a routine budget estimate"
+          ],
+          "answer_index": 1,
+          "explanation": "Article 32 guarantees the right to move the Supreme Court for enforcement of the rights in Part III. Identify the right being enforced before choosing the forum."
+        },
+        {
+          "id": "day-05-q02",
+          "topic": "Mandamus and a public duty",
+          "subject_id": "constitution",
+          "prompt": "A local authority has a statutory duty to decide a permit application and has refused to consider it. The sole ground alleged is failure to perform that duty. Which route directly fits?",
+          "options": [
+            "An Article 226 petition in the appropriate High Court seeking a direction to decide",
+            "A direct Article 32 claim based on the statutory duty alone",
+            "The President’s advisory reference under Article 143",
+            "An application to the Supreme Court to declare the permit automatically granted under Article 141"
+          ],
+          "answer_index": 0,
+          "explanation": "Article 226 extends to enforcement of appropriate public duties. A direction requiring consideration of the application leaves the substantive permit decision with the authority."
+        },
+        {
+          "id": "day-05-q03",
+          "topic": "Territorial jurisdiction",
+          "subject_id": "constitution",
+          "prompt": "A national authority sits outside State X, but an essential event giving rise to a writ claim happened within State X. Which fact supports the territorial jurisdiction of the High Court of State X under Article 226(2)?",
+          "options": [
+            "A friend of the petitioner resides in State X",
+            "The draft petition was printed in State X",
+            "Counsel finds State X more convenient",
+            "Part of the cause of action arose in State X"
+          ],
+          "answer_index": 3,
+          "explanation": "Article 226(2) connects territorial jurisdiction to where the cause of action arises wholly or in part. The essential event gives the required connection even with the authority seated elsewhere."
+        },
+        {
+          "id": "day-05-q04",
+          "topic": "Extent of invalidity",
+          "subject_id": "constitution",
+          "prompt": "Two independent provisions of a new State law can operate separately. Only the second contravenes a Part III right. What does Article 13(2) say about the extent of invalidity?",
+          "options": [
+            "Both provisions lapse for a fixed five-year period",
+            "The legislature must revoke both before the court may act",
+            "The law is void to the extent of the contravention",
+            "The entire law becomes void even if the provisions are severable"
+          ],
+          "answer_index": 2,
+          "explanation": "The constitutional test is the extent of contravention. On these facts the offending second provision is severable, so the independent first provision can continue."
+        },
+        {
+          "id": "day-05-q05",
+          "topic": "Binding effect of a Supreme Court ruling",
+          "subject_id": "constitution",
+          "prompt": "A lower court must apply a rule of law declared by the Supreme Court. Which provision directly explains its binding effect?",
+          "options": [
+            "Article 32",
+            "Article 141",
+            "Article 143",
+            "Article 226(2)"
+          ],
+          "answer_index": 1,
+          "explanation": "Article 141 makes the law declared by the Supreme Court binding on all courts in India. Article 143 concerns a reference by the President for an advisory opinion."
+        },
+        {
+          "id": "day-05-q06",
+          "topic": "Combined work rates",
+          "subject_id": "aptitude",
+          "prompt": "Two independent pumps can fill a tank in 10 hours and 15 hours individually. Both start together with constant delivery and no leakage. How long to fill the tank?",
+          "options": [
+            "5 hours",
+            "7 hours 30 minutes",
+            "12 hours 30 minutes",
+            "6 hours"
+          ],
+          "answer_index": 3,
+          "explanation": "In one hour they fill 1/10 + 1/15 = 3/30 + 2/30 = 1/6 of the tank. The reciprocal is 6 hours."
+        },
+        {
+          "id": "day-05-q07",
+          "topic": "Staggered rates",
+          "subject_id": "aptitude",
+          "prompt": "A tank needs 210 litres. A pump delivers 18 litres per hour for the first 3 hours. A second pump then adds 12 litres per hour while the first keeps running. What is the total elapsed time?",
+          "options": [
+            "8 hours 12 minutes",
+            "5 hours 12 minutes",
+            "8 hours 20 minutes",
+            "7 hours"
+          ],
+          "answer_index": 0,
+          "explanation": "After 3 hours the tank holds 54 litres. The remaining 156 litres take 156/30 = 5.2 hours. Add the initial 3 hours and convert 0.2 hours to 12 minutes."
+        },
+        {
+          "id": "day-05-q08",
+          "topic": "Seconds per cycle",
+          "subject_id": "aptitude",
+          "prompt": "A press finishes one part every 50 seconds and runs continuously for 25 minutes, starting its first cycle at time zero. How many finished parts come out?",
+          "options": [
+            "30",
+            "25",
+            "50",
+            "20"
+          ],
+          "answer_index": 0,
+          "explanation": "There are 25 × 60 = 1,500 available seconds. Dividing by 50 seconds per part gives 30 completed parts."
+        },
+        {
+          "id": "day-05-q09",
+          "topic": "Reading an effective date",
+          "subject_id": "official_updates",
+          "prompt": "A table must show when the MSME thresholds announced in S.O. 1364(E) began to apply. Which date belongs in its effective-date column?",
+          "options": [
+            "21 March 2025",
+            "31 March 2025",
+            "1 April 2025",
+            "1 April 2026"
+          ],
+          "answer_index": 2,
+          "explanation": "The Ministry issued the notification on 21 March 2025 and specified 1 April 2025 for commencement. The question asks for the commencement date."
+        },
+        {
+          "id": "day-05-q10",
+          "topic": "Two MSME criteria",
+          "subject_id": "industrial_management",
+          "prompt": "Apply the limits effective 1 April 2025 to a fresh classification example. An enterprise has ₹24 crore of relevant investment and ₹104 crore annual turnover. What is the smallest class that fits both measures?",
+          "options": [
+            "Micro",
+            "Medium",
+            "Small",
+            "Above all three ceilings"
+          ],
+          "answer_index": 1,
+          "explanation": "Small permits investment up to ₹25 crore and turnover up to ₹100 crore. Turnover exceeds its limit. Both ₹24 crore and ₹104 crore fall within the medium ceilings of ₹125 crore and ₹500 crore respectively."
+        },
+        {
+          "id": "day-05-q11",
+          "topic": "Labour productivity",
+          "subject_id": "industrial_engineering",
+          "prompt": "A workshop makes 150 accepted items in 30 worker-hours, then 180 in 40 worker-hours under the same quality specification. How did accepted items per worker-hour change?",
+          "options": [
+            "It stayed constant",
+            "It increased by 20%",
+            "It increased by 10%",
+            "It decreased by 10%"
+          ],
+          "answer_index": 3,
+          "explanation": "Productivity moved from 150/30 = 5 to 180/40 = 4.5 items per worker-hour. Relative to the initial 5, the change is (4.5 − 5)/5 × 100 = −10%."
+        },
+        {
+          "id": "day-05-q12",
+          "topic": "Method study",
+          "subject_id": "industrial_engineering",
+          "prompt": "Which action most directly illustrates method study in a packing room?",
+          "options": [
+            "Rate an operator’s pace at 110",
+            "Average the cycle times of an unchanged method",
+            "Trace the operator’s movements and rearrange benches to reduce repeated walking",
+            "Add a rest allowance to normal time"
+          ],
+          "answer_index": 2,
+          "explanation": "Tracing the work and testing a new arrangement changes how the task is carried out. Timing, rating and applying allowances are work-measurement steps."
+        },
+        {
+          "id": "day-05-q13",
+          "topic": "Performance rating",
+          "subject_id": "industrial_engineering",
+          "prompt": "Three observed cycle times are 54, 60 and 66 seconds. On a scale with reference pace 100, the operator is rated 90. What is the normal time?",
+          "options": [
+            "66.67 seconds",
+            "60 seconds",
+            "54 seconds",
+            "48.6 seconds"
+          ],
+          "answer_index": 2,
+          "explanation": "The mean is (54 + 60 + 66)/3 = 60 seconds. Multiply by 90/100 to obtain 54 seconds at reference pace."
+        },
+        {
+          "id": "day-05-q14",
+          "topic": "Allowance based on standard time",
+          "subject_id": "industrial_engineering",
+          "prompt": "Normal time is 8 minutes. Allowances occupy 20% of total standard time. What is the standard time?",
+          "options": [
+            "6.4 minutes",
+            "10 minutes",
+            "9.6 minutes",
+            "8.2 minutes"
+          ],
+          "answer_index": 1,
+          "explanation": "The normal portion is 80% of standard time. Solve 0.80 × standard time = 8 to get 10 minutes. The allowance is 2 minutes, exactly 20% of 10."
+        },
+        {
+          "id": "day-05-q15",
+          "topic": "Recovering normal time",
+          "subject_id": "industrial_engineering",
+          "prompt": "A standard time of 5 minutes includes an allowance equal to 25% of normal time. What normal time was used?",
+          "options": [
+            "4 minutes",
+            "3.75 minutes",
+            "6.25 minutes",
+            "4.75 minutes"
+          ],
+          "answer_index": 0,
+          "explanation": "If N is normal time, N + 0.25N = 5. Dividing by 1.25 gives 4 minutes. The allowance is 1 minute, or 25% of 4."
+        }
+      ],
+      "review": [
+        "Minutes 0–5. Mark all 15 responses and count your correct answers separately for the five court questions, three work-rate questions, two MSME questions and five industrial engineering questions. Tag each miss with its cause, such as wrong right, missing territorial fact, mixed time units or wrong percentage base.",
+        "Minutes 5–10. Rework two missed or guessed questions with the options covered. For a court question, write the Article and the controlling factual phrase. For a numerical question, label each quantity and its unit or percentage base. Compare each new solution with the displayed explanation.",
+        "Minutes 10–15. Write two recall cards. On one, explain how Article 226 can apply to a statutory duty. On the other, derive standard time when the allowance is a fraction of total standard time. Enter your score and the two question numbers to retry at the start of your next session."
+      ],
+      "sources": [
+        {
+          "id": "day-05-constitution",
+          "title": "Legislative Department, Government of India • Constitution of India, Articles 13, 32, 141, 143 and 226",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf"
+        },
+        {
+          "id": "day-05-courts",
+          "title": "Supreme Court of India • Jurisdiction of the Court",
+          "url": "https://www.sci.gov.in/jurisdiction/"
+        },
+        {
+          "id": "day-05-gazette",
+          "title": "Ministry of MSME • S.O. 1364(E), issued 21 March 2025",
+          "url": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/GazetteNotification210325.pdf"
+        },
+        {
+          "id": "day-05-msme-table",
+          "title": "Reserve Bank of India • MSME classification table, FAQ 1",
+          "url": "https://rbi.org.in/Scripts/FAQDisplay.aspx?Id=84"
+        },
+        {
+          "id": "day-05-ipo",
+          "title": "APPSC • Industrial Promotion Officer 24/2026, Annexure II, Paper II",
+          "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/IPODetailedNotification_242026.pdf"
+        },
+        {
+          "id": "day-05-method",
+          "title": "NPTEL, IIT Roorkee • Method study",
+          "url": "https://archive.nptel.ac.in/content/storage2/courses/112107142/part1/lecture2.htm"
+        },
+        {
+          "id": "day-05-time",
+          "title": "NPTEL, IIT Roorkee • Time study, performance rating and allowances",
+          "url": "https://archive.nptel.ac.in/content/storage2/courses/112107142/part1/lecture9.htm"
+        },
+        {
+          "id": "day-05-previous",
+          "title": "APPSC • Earlier IPO Paper II final key, Notification 11/2022, Q66 on PDF page 32",
+          "url": "https://psc.ap.gov.in/Documents/KEYS/NonGazetted_11_2022/PC_07_112022/FinalKeys/Paper%20II%20Applied%20Science%20and%20Engineering.pdf#page=32"
         }
       ]
     }
