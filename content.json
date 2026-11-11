@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "content_version": "2026.11.11.095009",
-  "generated_at": "2026-11-11T09:50:09.496624+05:30",
+  "content_version": "2026.11.11.140711",
+  "generated_at": "2026-11-11T14:07:11.707422+05:30",
   "data_as_of": "2026-11-08",
   "app_title": "APPSC Study Desk",
   "disclaimer": "Independent study aid. Not affiliated with or endorsed by APPSC or the Government of Andhra Pradesh. Official notifications and current official sources prevail.",
@@ -2498,6 +2498,38 @@
       "source_url": null,
       "asset_path": null,
       "source_type": "local_authored"
+    },
+    {
+      "id": "lesson_day_07",
+      "title": "Day 7 — Group I screening baseline and mixed revision",
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "ap_history",
+        "constitution",
+        "economy",
+        "geography",
+        "english"
+      ],
+      "content_type": "lesson",
+      "stage": "preparation",
+      "notification": null,
+      "exam_year": null,
+      "official_url": null,
+      "pages": null,
+      "key_status": "original_practice_with_explanations",
+      "limitations": [
+        "Locally authored preparation guidance, not an APPSC publication.",
+        "The 15 questions are original practice, not official APPSC past-paper questions."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "guided_lesson",
+      "is_plan": false,
+      "lesson_id": "day-07",
+      "source_url": null,
+      "asset_path": null,
+      "source_type": "local_authored"
     }
   ],
   "lessons": [
@@ -4806,6 +4838,381 @@
           "id": "day-06-previous",
           "title": "APPSC • Assistant Director 04/2019, Economics final key, Q101, PDF page 8",
           "url": "https://psc.ap.gov.in/Documents/KEYS/AEE_ACE_AD/Economics%20Final%20key.pdf#page=8"
+        }
+      ]
+    },
+    {
+      "id": "day-07",
+      "day_number": 7,
+      "title": "Day 7 — Group I screening baseline and mixed revision",
+      "status": "ready",
+      "prepared_date": "2026-11-11",
+      "duration_minutes": 120,
+      "post_ids": [
+        "group_i"
+      ],
+      "subject_ids": [
+        "ap_history",
+        "constitution",
+        "economy",
+        "geography",
+        "english"
+      ],
+      "intro": "For your first Sunday, use the full two hours for the 120-question Group I General Studies paper. Open the first block for the booklet and pacing. If you already know this paper, use the separate revision route instead. Allow 60 minutes of mixed notes and 15 original questions, 45 minutes checking your reasoning, and 15 minutes of English. Record the timed paper on your own sheet. The app scores the original quiz.",
+      "schedule": [
+        {
+          "id": "day-07-block-1",
+          "title": "Minutes 0–70 • First pass through the official paper",
+          "minutes": 70,
+          "section_id": "day-07-s1"
+        },
+        {
+          "id": "day-07-block-2",
+          "title": "Minutes 70–110 • Revisit flagged and skipped items",
+          "minutes": 40,
+          "section_id": null
+        },
+        {
+          "id": "day-07-block-3",
+          "title": "Minutes 110–120 • Check numbering and finish",
+          "minutes": 10,
+          "section_id": null
+        }
+      ],
+      "sections": [
+        {
+          "id": "day-07-s1",
+          "title": "Timed paper • Group I General Studies, Series A",
+          "minutes": 120,
+          "source_ids": [
+            "day-07-booklet"
+          ],
+          "paragraphs": [
+            "Use this route for the first Sunday of the plan. Open the booklet linked below. It is a StudyIQ-hosted scan of the APPSC Group I General Studies paper held on 17 March 2024, Series A, code GS/1G/100, for Notification 12/2023. The linked booklet starts with Question 1. Number an answer sheet from 1 to 120 and write the series letter at the top. Start the two-hour timer when you begin Question 1.",
+            "Minutes 0–70. Work through the booklet in order on your first pass. Record the option number against the printed question number. Put a small question mark next to an uncertain response and move on when a calculation stalls. A bilingual question counts once. Some pages have pen marks. If a mark or prior familiarity gives you an answer, tag that item E for exposed so that you can exclude it from your fresh-item baseline.",
+            "Minutes 70–110. Return first to questions where you have narrowed the options or can finish a calculation. Use the remaining time to reach questions you skipped. Before changing an answer, write a word or number that justifies the change. Keep one final response per question and leave a blank where you choose to pass.",
+            "Minutes 110–120. Match answer-sheet numbers against the booklet, especially after a blank. Check units, dates and words such as ‘except’ in the items you flagged. Stop at 120 minutes, put the time on the sheet and keep your original responses for tomorrow’s review. This mock uses the whole session. The Practice tab contains a separate 15-question exercise for the revision route. You can record ‘mock completed’ in your Review notes. The app’s completion badge tracks the reading blocks and the in-app quiz."
+          ]
+        },
+        {
+          "id": "day-07-s2",
+          "title": "Revision route • Mixed notes and 15 practice questions",
+          "minutes": 60,
+          "source_ids": [
+            "day-07-andhra",
+            "day-07-states",
+            "day-07-constitution",
+            "day-07-budget",
+            "day-07-scale"
+          ],
+          "paragraphs": [
+            "Use this alternative if you have already studied the historical paper or prefer to revise today. Its three blocks total two hours. Spend the first 40 minutes on the four exercises below, ten minutes per topic. Then close the notes and use the last 20 minutes to attempt the 15 original questions in Practice. Leave checking until the next block.",
+            "AP history. Draw a two-row timeline. On 1 October 1953, specified territories of Madras State formed Andhra State. On 1 November 1956, specified territories of Hyderabad State joined Andhra, and the enlarged State took the name Andhra Pradesh. Label each row with its statute, source territory and resulting name. Cover the dates. For a letter issued by Andhra State in 1955, explain which event had happened and which was still to come.",
+            "Polity. Imagine a proposed boundary change between two existing States. Trace the steps in Articles 3 and 4. The President recommends introduction of the bill. Before introduction, the affected State legislatures must have had the opportunity to give their views within the period set or extended by the President. Parliament can decide after that period expires. Trace a second path in which one legislature objects. Article 3 asks for its views and leaves the decision with Parliament. Under Article 4 the law includes any amendments to the First and Fourth Schedules needed to give it effect. A law covered by Article 4 is outside the Article 368 amendment procedure.",
+            "Economy. Use this invented budget in ₹ crore. Revenue expenditure is 460, capital expenditure 90, revenue receipts 410, non-debt capital receipts 35, and interest payments 25. Draw one line for each deficit. Revenue deficit = 460 − 410 = 50. Fiscal deficit = (460 + 90) − (410 + 35) = 105. Primary deficit = 105 − 25 = 80. Cover the results and calculate again after capital expenditure rises by 10. You should get 50, 115 and 90. Explain which calculation excludes capital spending.",
+            "Geography. At a representative fraction of 1:200,000, one centimetre on the map represents 200,000 centimetres on the ground, or 2 km. A 4.5 cm segment therefore represents 9 km. Draw the same ground segment at 1:100,000. It measures 9 cm on that map. For a second check, halve the original print’s linear size and recalculate its numeric scale. The new scale is 1:400,000 because one printed centimetre now represents 4 km."
+          ]
+        },
+        {
+          "id": "day-07-s3",
+          "title": "Revision route • Check answers and repair errors",
+          "minutes": 45,
+          "source_ids": [],
+          "paragraphs": [
+            "Minutes 0–15. After answering the 15 original questions, select Check answers. Work in four groups, Q1–3 on AP history, Q4–7 on the Constitution, Q8–11 on public finance and Q12–15 on maps. For each group write the numbers correct, wrong and blank. Add a star to a correct answer reached by guessing so that it also gets reviewed.",
+            "Minutes 15–30. Work through the explanations for the two groups with the most misses or guesses. For each historical error, reconstruct both dates. For a legal error, underline the actor and the verb in the source. For a numerical error, write out the equation with units before using the numbers. If all 15 were correct, redo one question per group with the options hidden.",
+            "Minutes 30–45. Make two short retry cards. On one, pose a new example that tests your weakest distinction. On the other, write the calculation or legal reasoning that resolves it. Check against the source or worked example. Record the original quiz score and set a fresh retry for two days later. The score displayed in the app belongs to this 15-question set."
+          ]
+        },
+        {
+          "id": "day-07-s4",
+          "title": "Revision route • Precision in English",
+          "minutes": 15,
+          "source_ids": [],
+          "paragraphs": [
+            "Minutes 0–5. Read these practice sentences. ‘The affected State legislatures objected to the proposal. Parliament was therefore required to abandon it.’ Underline the verb phrase that incorrectly turns an expression of views into a veto. Rewrite the second sentence so that it accurately describes Parliament’s role.",
+            "Minutes 5–10. Compare your version with this model. ‘The affected State legislatures objected to the proposal. Once the specified period had expired and the other Article 3 steps were met, Parliament could decide whether to pass the bill.’ Replace ‘objected’ with ‘supported’ and check whether your second sentence still works.",
+            "Minutes 10–15. Write a second pair of sentences explaining the 1953 and 1956 changes. Include the correct date, the source of territory and the resulting State name in each. Remove any pronoun that could refer to either Andhra or Hyderabad. Read the two sentences aloud and check them against your timeline."
+          ]
+        },
+        {
+          "id": "day-07-s5",
+          "title": "After the mock • Next-day scoring and error review",
+          "minutes": 60,
+          "source_ids": [
+            "day-07-final",
+            "day-07-historical-scheme",
+            "day-07-notif"
+          ],
+          "paragraphs": [
+            "Open this block in the first 60 minutes of your next study day. Keep the 120 numbered responses you recorded under time. Open the official APPSC final key below for the same Series A General Studies paper under Notification 12/2023. Match question numbers and option numbers one by one. For historical and date-sensitive items, score the historical answer against the final key and date your present-day study note separately.",
+            "Minutes 0–20. Follow every deletion and accepted alternative marked in the final key. For example, Q58 and Q101 are deleted, and Q103 accepts either option 3 or option 4. Exclude deleted questions when counting correct, wrong and blank responses. For an item with more than one accepted option, a single response matching any accepted option earns credit. Preserve the original answers while marking.",
+            "Minutes 20–35. Calculate a raw practice score on valid items by subtracting one third of the wrong-answer count from the correct-answer count. Blanks score zero. For example, 72 correct and 21 wrong gives 72 − 7 = 65 raw marks. Separately tag any answer exposed by a pen mark or a previous attempt. Recount only the unseen valid items to judge fresh performance, and record their number beside that score. For this 2024 paper, paragraph 10.2 of Notification 12/2023 specifies the one-third penalty. Paragraph 12.6 provides proportionate scaling for the affected part after deletions and rounding to two decimals for merit. The raw figure is a study measure.",
+            "Minutes 35–60. Pick three wrong, blank or low-confidence items that map to the current syllabus. Record the question number, topic, original reasoning and the evidence that changes it. Check one source and retry without looking at the options. Schedule another attempt after two days. The next session still has 30 minutes of common-core study and 30 minutes of specialist work after this review."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "day-07-q01",
+          "topic": "The appointed day in 1953",
+          "subject_id": "ap_history",
+          "prompt": "A museum caption says that on 1 October 1953 certain districts and taluks of Madras State became part of a newly formed State. Which name belongs on that 1953 caption?",
+          "options": [
+            "Hyderabad State",
+            "Andhra State",
+            "Andhra Pradesh",
+            "Telangana"
+          ],
+          "answer_index": 1,
+          "explanation": "Section 3 of the Andhra State Act, 1953 formed the State of Andhra. The name Andhra Pradesh belongs to the reorganisation that took effect in 1956."
+        },
+        {
+          "id": "day-07-q02",
+          "topic": "Reading the 1956 change",
+          "subject_id": "ap_history",
+          "prompt": "An archivist finds an entry for 1 November 1956 describing specified territories transferred from Hyderabad State to the existing State of Andhra. Which accompanying change follows from section 3 of the States Reorganisation Act, 1956?",
+          "options": [
+            "The name of the enlarged State became Andhra Pradesh",
+            "The whole of Hyderabad State became Andhra State",
+            "The State of Andhra was formed for the first time",
+            "The capital of Madras State became part of Andhra Pradesh"
+          ],
+          "answer_index": 0,
+          "explanation": "Section 3 added specified Hyderabad territories to Andhra and changed the enlarged State’s name to Andhra Pradesh. The original formation of Andhra State occurred in 1953."
+        },
+        {
+          "id": "day-07-q03",
+          "topic": "Evidence from a dated source",
+          "subject_id": "ap_history",
+          "prompt": "A record was created in December 1954 and identifies its issuing authority as the State of Andhra. Which judgement fits the chronology?",
+          "options": [
+            "The label dates the record to a time before Andhra State existed",
+            "The label proves that the 1956 territorial transfers had already occurred",
+            "The only possible contemporary name was Andhra Pradesh",
+            "The label fits a date between formation of Andhra State and the 1956 change of name"
+          ],
+          "answer_index": 3,
+          "explanation": "December 1954 falls after 1 October 1953 and before 1 November 1956. Those dates support the use of Andhra State in the record. They say nothing by themselves about the record’s authenticity."
+        },
+        {
+          "id": "day-07-q04",
+          "topic": "Initiating an Article 3 bill",
+          "subject_id": "constitution",
+          "prompt": "A bill proposes to change the boundary between two existing Indian States. Whose recommendation is required for introduction under Article 3?",
+          "options": [
+            "The Chief Justice of India",
+            "The Speaker of the Lok Sabha",
+            "The President of India",
+            "Both State Governors acting jointly"
+          ],
+          "answer_index": 2,
+          "explanation": "Article 3 requires the President’s recommendation before the bill may be introduced in either House of Parliament. The recommendation and the opportunity for the affected State legislatures to express views are separate steps."
+        },
+        {
+          "id": "day-07-q05",
+          "topic": "State legislature’s role",
+          "subject_id": "constitution",
+          "prompt": "The President refers an Article 3 boundary proposal to the affected State legislatures for their views. The allowed period has expired. One legislature objects. What effect does that objection alone have?",
+          "options": [
+            "It automatically ends the bill",
+            "It expresses the legislature’s view and gives it no veto under Article 3",
+            "It requires a referendum before Parliament may act",
+            "It transfers the power to decide the bill to the Supreme Court"
+          ],
+          "answer_index": 1,
+          "explanation": "The Article 3 proviso gives an affected State legislature time to express its views. Its agreement is not a condition for Parliament to proceed once the constitutional steps have been satisfied."
+        },
+        {
+          "id": "day-07-q06",
+          "topic": "Consequences for the Schedules",
+          "subject_id": "constitution",
+          "prompt": "A law under Article 3 changes a State boundary. Which constitutional Schedules does Article 4(1) expressly allow the law to amend as necessary to give effect to the change?",
+          "options": [
+            "First and Fourth",
+            "Second and Third",
+            "Fifth and Sixth",
+            "Seventh and Eighth"
+          ],
+          "answer_index": 0,
+          "explanation": "The First Schedule lists the States and Union territories. The Fourth allocates seats in the Council of States. Article 4(1) expressly addresses the necessary amendments of these two Schedules."
+        },
+        {
+          "id": "day-07-q07",
+          "topic": "Comparing amendment procedures",
+          "subject_id": "constitution",
+          "prompt": "Parliament enacts a law of the kind described in Article 4 to give effect to a reorganisation under Article 3. How does Article 4(2) treat that law for the purposes of Article 368?",
+          "options": [
+            "It always requires ratification by every State",
+            "It becomes an amendment under Article 368 only if the change is temporary",
+            "It must be passed by a joint sitting under Article 368",
+            "It is not deemed a constitutional amendment for Article 368 purposes"
+          ],
+          "answer_index": 3,
+          "explanation": "Article 4(2) supplies this specific rule for laws covered by Article 4. An adjustment to the relevant Schedules through such a law does not trigger the Article 368 amendment procedure."
+        },
+        {
+          "id": "day-07-q08",
+          "topic": "Revenue deficit",
+          "subject_id": "economy",
+          "prompt": "In a simplified budget, revenue expenditure is ₹820 crore, capital expenditure is ₹230 crore and revenue receipts are ₹740 crore. What is the revenue deficit?",
+          "options": [
+            "₹310 crore",
+            "₹150 crore",
+            "₹80 crore",
+            "₹230 crore"
+          ],
+          "answer_index": 2,
+          "explanation": "Use the two revenue figures. ₹820 crore minus ₹740 crore gives ₹80 crore. Capital expenditure enters total expenditure for fiscal-deficit calculations."
+        },
+        {
+          "id": "day-07-q09",
+          "topic": "Fiscal deficit",
+          "subject_id": "economy",
+          "prompt": "A government plans expenditure of ₹1,200 crore. It expects ₹860 crore in revenue receipts and ₹90 crore in non-debt capital receipts. What fiscal deficit follows?",
+          "options": [
+            "₹340 crore",
+            "₹250 crore",
+            "₹950 crore",
+            "₹430 crore"
+          ],
+          "answer_index": 1,
+          "explanation": "Total receipts excluding debt are ₹860 crore + ₹90 crore = ₹950 crore. The gap between ₹1,200 crore of expenditure and ₹950 crore of non-debt receipts is ₹250 crore."
+        },
+        {
+          "id": "day-07-q10",
+          "topic": "Primary deficit",
+          "subject_id": "economy",
+          "prompt": "A practice budget shows a fiscal deficit of ₹190 crore, interest payments of ₹55 crore and principal repayments of ₹25 crore. What is the primary deficit?",
+          "options": [
+            "₹110 crore",
+            "₹245 crore",
+            "₹165 crore",
+            "₹135 crore"
+          ],
+          "answer_index": 3,
+          "explanation": "Primary deficit equals fiscal deficit minus interest payments. ₹190 crore − ₹55 crore = ₹135 crore. The separate principal-repayment figure is not part of this subtraction."
+        },
+        {
+          "id": "day-07-q11",
+          "topic": "Following a change through a budget",
+          "subject_id": "economy",
+          "prompt": "Suppose a government increases capital expenditure by ₹40 crore while revenue expenditure, all non-debt receipts and interest payments stay fixed. How do the fiscal and revenue deficits change?",
+          "options": [
+            "Fiscal deficit rises by ₹40 crore and revenue deficit stays the same",
+            "Both rise by ₹40 crore",
+            "Revenue deficit rises by ₹40 crore and fiscal deficit stays the same",
+            "Both stay the same"
+          ],
+          "answer_index": 0,
+          "explanation": "Capital expenditure increases total expenditure, so the fiscal gap rises by ₹40 crore. Neither revenue expenditure nor revenue receipts changed, so the revenue gap is unchanged."
+        },
+        {
+          "id": "day-07-q12",
+          "topic": "Reading a map distance",
+          "subject_id": "geography",
+          "prompt": "On a map at 1:50,000, a straight line between two villages measures 6.4 cm. What is their straight-line ground distance?",
+          "options": [
+            "32 km",
+            "0.32 km",
+            "3.2 km",
+            "12.8 km"
+          ],
+          "answer_index": 2,
+          "explanation": "6.4 × 50,000 = 320,000 cm. Since 100,000 cm equals 1 km, the ground distance is 3.2 km. A road route could be longer."
+        },
+        {
+          "id": "day-07-q13",
+          "topic": "Choosing a map scale",
+          "subject_id": "geography",
+          "prompt": "Two printed maps measure the same 6 km ground segment. Map A uses 1:25,000 and Map B uses 1:100,000. Which pair of drawn lengths is correct?",
+          "options": [
+            "A 6 cm, B 24 cm",
+            "A 24 cm, B 6 cm",
+            "A 2.4 cm, B 0.6 cm",
+            "A 15 cm, B 60 cm"
+          ],
+          "answer_index": 1,
+          "explanation": "Six kilometres is 600,000 cm. Dividing by 25,000 gives 24 cm on A, and dividing by 100,000 gives 6 cm on B. The smaller denominator gives the larger drawing."
+        },
+        {
+          "id": "day-07-q14",
+          "topic": "Inferring a representative fraction",
+          "subject_id": "geography",
+          "prompt": "The legend says a 3 cm segment on a printed map represents 12 km on the ground. Which representative fraction expresses that scale?",
+          "options": [
+            "1:4,000",
+            "1:40,000",
+            "1:3,600,000",
+            "1:400,000"
+          ],
+          "answer_index": 3,
+          "explanation": "12 km = 1,200,000 cm. Divide both sides of the ratio 3:1,200,000 by 3 to obtain 1:400,000."
+        },
+        {
+          "id": "day-07-q15",
+          "topic": "Checking a resized map",
+          "subject_id": "geography",
+          "prompt": "A map labelled 1:50,000 is printed at half its original linear dimensions without updating that printed label. Which numeric scale describes the new print?",
+          "options": [
+            "1:100,000",
+            "1:25,000",
+            "1:50,000",
+            "1:200,000"
+          ],
+          "answer_index": 0,
+          "explanation": "The same ground distance now occupies half the paper length. One centimetre on the smaller print covers twice as much ground, or 100,000 cm. A graphic scale resized with the map would still show the correct distance."
+        }
+      ],
+      "review": [
+        "Timed paper. Write the booklet code, series, finishing time and number attempted on the response sheet. Keep it with the booklet. In your next session, open ‘After the mock’ in Notes for the final key and a 60-minute marking and review plan.",
+        "Revision route. Use Check answers in Practice to reveal all 15 explanations. Keep the score and two retry questions in your notes. Complete the 15-minute English block to finish your two hours."
+      ],
+      "sources": [
+        {
+          "id": "day-07-booklet",
+          "title": "Attempt booklet • APPSC Group I 2024, Paper I, Series A • exam-day scan hosted by StudyIQ",
+          "url": "https://www.studyiq.com/articles/wp-content/uploads/2024/03/17142711/appsc-group-1-set-a-question-paper.pdf"
+        },
+        {
+          "id": "day-07-final",
+          "title": "After the mock • APPSC official final key for Paper I, Series A, Notification 12/2023",
+          "url": "https://psc.ap.gov.in/Documents/KEYS/122023/FinalKeys/Group-I%20Paper-I%20Final%20KEY_122023_13042024.pdf"
+        },
+        {
+          "id": "day-07-notif",
+          "title": "APPSC • Group I 07/2026, screening scheme and paragraphs 10.2 and 12.6",
+          "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Group_I_07_2026.pdf"
+        },
+        {
+          "id": "day-07-andhra",
+          "title": "Andhra State Act, 1953 • sections 2 and 3, Tripura High Court archive",
+          "url": "https://thc.nic.in/Central%20Governmental%20Acts/Andhra%20State%20Act%2C%201953.pdf"
+        },
+        {
+          "id": "day-07-states",
+          "title": "States Reorganisation Act, 1956 • sections 2 and 3, Gujarat government archive",
+          "url": "https://sje.gujarat.gov.in/assets/downloads/act13_09%2012%202025.pdf"
+        },
+        {
+          "id": "day-07-constitution",
+          "title": "Legislative Department • Constitution of India, Articles 3 and 4",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf"
+        },
+        {
+          "id": "day-07-budget",
+          "title": "Ministry of Finance • Budget at a Glance 2026–27, definitions of budget deficits",
+          "url": "https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf"
+        },
+        {
+          "id": "day-07-scale",
+          "title": "NCERT • Practical Work in Geography, Map Scale",
+          "url": "https://ncert.nic.in/textbook/pdf/kegy302.pdf"
+        },
+        {
+          "id": "day-07-historical-scheme",
+          "title": "APPSC • Group I 12/2023 detailed notification, historical marking rule on PDF page 11 and deleted items on page 12",
+          "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Details_for_Group_1_Notfn_2023_122023_27122023.pdf#page=11"
         }
       ]
     }
