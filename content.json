@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "content_version": "2026.11.11.084353",
-  "generated_at": "2026-11-11T08:43:53.167026+05:30",
+  "content_version": "2026.11.11.095009",
+  "generated_at": "2026-11-11T09:50:09.496624+05:30",
   "data_as_of": "2026-11-08",
   "app_title": "APPSC Study Desk",
   "disclaimer": "Independent study aid. Not affiliated with or endorsed by APPSC or the Government of Andhra Pradesh. Official notifications and current official sources prevail.",
@@ -2462,6 +2462,42 @@
       "source_url": null,
       "asset_path": null,
       "source_type": "local_authored"
+    },
+    {
+      "id": "lesson_day_06",
+      "title": "Day 6 — Panchayats, simple interest and financial accounting",
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "aptitude",
+        "official_updates",
+        "economy",
+        "accounting"
+      ],
+      "content_type": "lesson",
+      "stage": "preparation",
+      "notification": null,
+      "exam_year": null,
+      "official_url": null,
+      "pages": null,
+      "key_status": "original_practice_with_explanations",
+      "limitations": [
+        "Locally authored preparation guidance, not an APPSC publication.",
+        "The 15 questions are original practice, not official APPSC past-paper questions."
+      ],
+      "paired_resource_ids": [],
+      "practice_mode": "guided_lesson",
+      "is_plan": false,
+      "lesson_id": "day-06",
+      "source_url": null,
+      "asset_path": null,
+      "source_type": "local_authored"
     }
   ],
   "lessons": [
@@ -4395,6 +4431,381 @@
           "id": "day-05-previous",
           "title": "APPSC • Earlier IPO Paper II final key, Notification 11/2022, Q66 on PDF page 32",
           "url": "https://psc.ap.gov.in/Documents/KEYS/NonGazetted_11_2022/PC_07_112022/FinalKeys/Paper%20II%20Applied%20Science%20and%20Engineering.pdf#page=32"
+        }
+      ]
+    },
+    {
+      "id": "day-06",
+      "day_number": 6,
+      "title": "Day 6 — Panchayats, simple interest and financial accounting",
+      "status": "ready",
+      "prepared_date": "2026-11-11",
+      "duration_minutes": 120,
+      "post_ids": [
+        "group_i",
+        "welfare_officers",
+        "executive_officer",
+        "industrial_promotion_officer",
+        "assistant_director"
+      ],
+      "subject_ids": [
+        "constitution",
+        "aptitude",
+        "official_updates",
+        "economy",
+        "accounting"
+      ],
+      "intro": "Who belongs to a Gram Sabha, and who runs a Panchayat election? Use two village cases to work through Part IX. Then calculate simple interest, read one row of the Union Budget and follow four transactions from a journal into a trial balance. The specialist session is for Assistant Director Paper II.",
+      "schedule": [
+        {
+          "id": "day-06-block-1",
+          "title": "Panchayats and the Gram Sabha",
+          "minutes": 35,
+          "section_id": "day-06-s1"
+        },
+        {
+          "id": "day-06-block-2",
+          "title": "Simple interest and time periods",
+          "minutes": 15,
+          "section_id": "day-06-s2"
+        },
+        {
+          "id": "day-06-block-3",
+          "title": "Read one Union Budget table",
+          "minutes": 10,
+          "section_id": "day-06-s3"
+        },
+        {
+          "id": "day-06-block-4",
+          "title": "Assistant Director • From journal to trial balance",
+          "minutes": 30,
+          "section_id": "day-06-s4"
+        },
+        {
+          "id": "day-06-block-5",
+          "title": "Timed practice • 15 original questions",
+          "minutes": 15,
+          "section_id": null
+        },
+        {
+          "id": "day-06-block-6",
+          "title": "Review and retry",
+          "minutes": 15,
+          "section_id": null
+        }
+      ],
+      "sections": [
+        {
+          "id": "day-06-s1",
+          "title": "Who takes part in rural local government?",
+          "minutes": 35,
+          "paragraphs": [
+            "Minutes 0–7. Draw two boxes labelled Gram Sabha and village Panchayat. In a village to which Part IX applies, the Gram Sabha comprises the people registered on that village’s electoral roll. The Panchayat is the institution of rural self-government. Someone on the roll can therefore belong to the Gram Sabha without holding an elected seat. Write where you would look for the names in the first box. Article 243(b) gives the membership test. Article 243A lets State law specify the Sabha’s village-level functions.",
+            "Minutes 7–13. Under Article 243B, the usual levels are village, intermediate and district. Sketch all three. A State with a population of at most 20 lakh may omit the intermediate level. Apply that population test to two imaginary States where Part IX applies. At exactly 20 lakh the option is available. At 21 lakh this particular exception is unavailable. Circle the word State so that you remember which population goes in the comparison.",
+            "Minutes 13–22. Draw a five-year line. Article 243E starts the normal term on the date appointed for the Panchayat’s first meeting. Elections for a normal renewal must finish before the term expires. If a Panchayat is dissolved early, an election must normally be completed within six months of dissolution. A replacement elected after early dissolution serves the remainder of the original term. Try a dissolution with 18 months left. If the election takes three months, the replacement has about 15 months left.",
+            "Minutes 22–28. Change the last example so that only four months remain on dissolution. Article 243E(3) makes a replacement election unnecessary for that short remainder. Mark the threshold carefully. It is a remainder of less than six months. Now assign responsibility for the rolls and the conduct of Panchayat elections. Article 243K gives this responsibility to the State Election Commission. The Governor appoints the State Election Commissioner.",
+            "Minutes 28–35. Close the notes. Explain in one sentence each why a voter who has never contested an election belongs to the Gram Sabha, when a State can omit the intermediate tier, and why a newly elected replacement might serve only 15 months. Check each explanation against Part IX. Finish by saying who conducts the election and who appoints the Commissioner."
+          ],
+          "source_ids": [
+            "day-06-constitution"
+          ]
+        },
+        {
+          "id": "day-06-s2",
+          "title": "Simple interest from months, rates and amounts",
+          "minutes": 15,
+          "paragraphs": [
+            "Minutes 0–5. Make three labels on your page. P is the original principal in rupees, r is the annual percentage rate, and t is the period in years. With simple interest on a fixed principal, I = P × r × t ÷ 100. Each full year earns the same interest. For ₹12,000 at 8% for nine months, one year earns ₹960. Nine months earns 9/12 of that, or ₹720. The amount at the end is ₹12,720.",
+            "Minutes 5–10. Work backwards from an amount. ₹12,000 grows to ₹13,200 in 15 months at simple interest. First find the interest, ₹1,200. This is 10% of the principal for 15 months. To convert to an annual rate, multiply 10% by 12/15 to get 8% per year. Check by substituting 1.25 years and 8 into the formula.",
+            "Minutes 10–15. Cover the solutions. Two sums are lent at simple interest for one year, ₹5,000 at 6% and ₹3,000 at 10%. Find each interest and a single annual rate on the combined principal that earns the same total. Check against ₹300 + ₹300 = ₹600. The equivalent rate is 600 ÷ 8,000 × 100 = 7.5%. Write the time unit on each line."
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "day-06-s3",
+          "title": "Reading actuals, budget estimates and revised estimates",
+          "minutes": 10,
+          "paragraphs": [
+            "Minutes 0–3. Open Budget at a Glance 2026–27, PDF page 5. Find row 1, Revenue Receipts. Draw four columns and copy the headings and figures in ₹ crore. The 2024–25 actual is 30,36,619. The 2025–26 budget estimate (BE) is 34,20,409 and its revised estimate (RE) is 33,42,323. The 2026–27 BE is 35,33,150. The year and the status of the figure belong together.",
+            "Minutes 3–7. Look at the two columns for 2025–26. BE gives the original budget estimate for that year. RE gives the later estimate for the same year. Subtract 34,20,409 from 33,42,323. The revision reduced estimated revenue receipts by ₹78,086 crore. State that conclusion aloud and include the word estimated. Only the first column of this row reports actual receipts.",
+            "Minutes 7–10. Cover the column headings and label each value again. Which two columns answer a question about a revision within a single year? Which value answers a question about receipts actually recorded for 2024–25? Check against the second and third columns for the revision and ₹30,36,619 crore for the recorded amount."
+          ],
+          "source_ids": [
+            "day-06-budget"
+          ]
+        },
+        {
+          "id": "day-06-s4",
+          "title": "Assistant Director • Record four transactions and test the balances",
+          "minutes": 30,
+          "paragraphs": [
+            "Minutes 0–6. Set up a small service firm. Its assets equal its liabilities plus the owner’s equity. In a journal, increases in assets and expenses go on the debit side. Increases in liabilities, owner’s capital and revenue go on the credit side. A decrease goes on the opposite side. Each transaction’s debit and credit totals must agree. Draw a journal with columns for the account, debit and credit.",
+            "Minutes 6–13. Enter four transactions. (1) The owner puts ₹60,000 cash into the firm. Debit Cash and credit Capital ₹60,000. (2) The firm acquires equipment costing ₹24,000, paying ₹6,000 now and owing the supplier the rest. Debit Equipment ₹24,000, credit Cash ₹6,000 and credit Supplier Payable ₹18,000. (3) The firm pays ₹3,000 cash for this month’s rent. Debit Rent Expense and credit Cash ₹3,000. (4) It earns and receives ₹5,000 in cash for work completed. Debit Cash and credit Service Revenue ₹5,000.",
+            "Minutes 13–19. Post the four entries to a ledger, grouping the amounts by account. Cash has debits of ₹65,000 and credits of ₹9,000, giving a ₹56,000 debit balance. Draw a trial balance of the ending balances before closing entries. Debit Cash ₹56,000, Equipment ₹24,000 and Rent Expense ₹3,000. Credit Capital ₹60,000, Supplier Payable ₹18,000 and Service Revenue ₹5,000. Each column totals ₹83,000. Check the accounting equation separately. Assets of ₹80,000 equal the payable of ₹18,000 plus equity of ₹62,000, which includes the ₹2,000 profit.",
+            "Minutes 19–25. Test what those equal columns can tell you. APPSC’s 04/2019 Assistant Director Economics final key, Q101 on PDF page 8, describes an invoice of ₹560 recorded as ₹650. When ₹650 flows into both the customer debit and the sales credit, both are overstated by ₹90. The two trial-balance totals still agree at the keyed ₹21,240. Now try a different error in a fresh set of balanced books. Suppose only the posted sales credit is ₹90 too large and the customer’s debit is correct. Which trial-balance column exceeds the other? The credit total is ₹90 higher.",
+            "Minutes 25–30. On a fresh page, use straight-line depreciation to allocate the cost of an asset over its useful life. For equipment costing ₹24,000, estimated residual value ₹4,000 and a life of five years, the full-year charge is (24,000 − 4,000) ÷ 5 = ₹4,000. Using an accumulated depreciation account, debit Depreciation Expense and credit Accumulated Depreciation ₹4,000. After one full year the carrying amount is ₹20,000. Write the entries from memory and identify why no cash entry is made when this charge is recorded."
+          ],
+          "source_ids": [
+            "day-06-ad",
+            "day-06-record",
+            "day-06-trial",
+            "day-06-depreciation",
+            "day-06-previous"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "day-06-q01",
+          "topic": "Gram Sabha membership",
+          "subject_id": "constitution",
+          "prompt": "In a village where Part IX applies, Leela is on the village electoral roll and has never stood for election. Which status follows from that fact alone?",
+          "options": [
+            "Member of the elected village Panchayat",
+            "Chairperson of the Gram Sabha",
+            "Member of the Gram Sabha",
+            "Member of the district Panchayat"
+          ],
+          "answer_index": 2,
+          "explanation": "Article 243(b) ties Gram Sabha membership to registration on the village electoral roll. An elected seat requires a separate basis."
+        },
+        {
+          "id": "day-06-q02",
+          "topic": "Intermediate tier and population",
+          "subject_id": "constitution",
+          "prompt": "State X has exactly 20 lakh people and Part IX applies. Which option does Article 243B(2) give it?",
+          "options": [
+            "It may omit the intermediate Panchayat tier",
+            "It must omit its village Panchayats",
+            "It may replace the district tier with a municipality throughout the State",
+            "It must omit its intermediate tier"
+          ],
+          "answer_index": 0,
+          "explanation": "The threshold includes a State with exactly 20 lakh people. The provision allows that State to omit the intermediate level and leaves it the choice."
+        },
+        {
+          "id": "day-06-q03",
+          "topic": "Start of a Panchayat term",
+          "subject_id": "constitution",
+          "prompt": "A Panchayat election result was declared on 4 July. Members took their oath on 9 July and 12 July was the date appointed for its first meeting. From which event does the normal five-year term run?",
+          "options": [
+            "Publication of the election schedule",
+            "Declaration of the result on 4 July",
+            "The oath on 9 July",
+            "The date appointed for the first meeting, 12 July"
+          ],
+          "answer_index": 3,
+          "explanation": "Article 243E(1) starts the term on the date appointed for the first meeting. The date of the election result and the taking of the oath are separate events."
+        },
+        {
+          "id": "day-06-q04",
+          "topic": "Remainder after dissolution",
+          "subject_id": "constitution",
+          "prompt": "A Panchayat is dissolved with four months left in its original term. Under the proviso to Article 243E(3), which conclusion follows for that remainder?",
+          "options": [
+            "A new five-year term automatically begins on dissolution",
+            "A replacement election for those four months is unnecessary",
+            "The State must hold a replacement election within four weeks",
+            "The Governor must appoint a Panchayat for five years"
+          ],
+          "answer_index": 1,
+          "explanation": "Four months is less than six. Under the proviso, a replacement election to cover that short remainder is optional. The election for the succeeding regular term is a separate matter."
+        },
+        {
+          "id": "day-06-q05",
+          "topic": "Authority over local elections",
+          "subject_id": "constitution",
+          "prompt": "Who has constitutional responsibility for the preparation of electoral rolls and conduct of Panchayat elections under Article 243K?",
+          "options": [
+            "State Election Commission",
+            "Election Commission of India",
+            "State Finance Commission",
+            "District Planning Committee"
+          ],
+          "answer_index": 0,
+          "explanation": "Article 243K entrusts both functions to the State Election Commission. The Governor appoints the State Election Commissioner."
+        },
+        {
+          "id": "day-06-q06",
+          "topic": "Interest over part of a year",
+          "subject_id": "aptitude",
+          "prompt": "A fixed principal of ₹16,000 earns simple interest at 6% per year for eight months. What is the interest alone?",
+          "options": [
+            "₹960",
+            "₹16,640",
+            "₹800",
+            "₹640"
+          ],
+          "answer_index": 3,
+          "explanation": "A full year earns ₹16,000 × 0.06 = ₹960. Eight months gives 8/12 of ₹960, or ₹640. Adding the principal would give the amount due."
+        },
+        {
+          "id": "day-06-q07",
+          "topic": "Recovering the annual interest rate",
+          "subject_id": "aptitude",
+          "prompt": "₹15,000 grows to ₹16,350 after 18 months at simple interest. What annual percentage rate was used?",
+          "options": [
+            "9%",
+            "6%",
+            "4.5%",
+            "12%"
+          ],
+          "answer_index": 1,
+          "explanation": "Interest is ₹1,350 over 1.5 years, giving ₹900 in one year. ₹900 ÷ ₹15,000 × 100 = 6%."
+        },
+        {
+          "id": "day-06-q08",
+          "topic": "Combining two simple-interest sums",
+          "subject_id": "aptitude",
+          "prompt": "For one full year, ₹6,000 earns 5% simple interest and ₹4,000 earns 10%. What single annual simple-interest rate on ₹10,000 gives the same total?",
+          "options": [
+            "7.5%",
+            "8%",
+            "7%",
+            "6%"
+          ],
+          "answer_index": 2,
+          "explanation": "The two sums earn ₹300 and ₹400. Their combined ₹700 is 7% of ₹10,000. The larger principal earns the lower rate."
+        },
+        {
+          "id": "day-06-q09",
+          "topic": "Reading a budget estimate revision",
+          "subject_id": "official_updates",
+          "prompt": "An analyst wants to measure the revision to Union revenue receipts for 2025–26 in Budget at a Glance 2026–27. Which pair of columns belongs in the calculation?",
+          "options": [
+            "2024–25 actual and 2026–27 BE",
+            "2025–26 RE and 2026–27 BE",
+            "2024–25 actual and 2025–26 BE",
+            "2025–26 BE and 2025–26 RE"
+          ],
+          "answer_index": 3,
+          "explanation": "A within-year revision compares the original and revised estimates for the same financial year and the same budget row. Comparing different years answers a different question."
+        },
+        {
+          "id": "day-06-q10",
+          "topic": "Interpreting a change in an estimate",
+          "subject_id": "economy",
+          "prompt": "In a practice table, a department’s budget estimate for receipts is ₹860 crore and its revised estimate for the same year is ₹815 crore. What conclusion do these figures support?",
+          "options": [
+            "Actual receipts were exactly ₹815 crore",
+            "Estimated receipts were revised down by ₹45 crore",
+            "Actual receipts fell by ₹45 crore year on year",
+            "Estimated receipts were revised up by ₹45 crore"
+          ],
+          "answer_index": 1,
+          "explanation": "The change in the estimate is 815 − 860 = −45 crore. Both entries are estimates for the same year. An actuals figure would be needed to report the realised receipts."
+        },
+        {
+          "id": "day-06-q11",
+          "topic": "Journal for a part-credit purchase",
+          "subject_id": "accounting",
+          "prompt": "A firm buys office equipment for ₹18,000, paying ₹5,000 in cash immediately. Which entry records the purchase?",
+          "options": [
+            "Debit Equipment ₹18,000 and credit Cash ₹18,000",
+            "Debit Equipment ₹13,000 and credit Supplier Payable ₹13,000",
+            "Debit Equipment ₹18,000, credit Cash ₹5,000 and credit Supplier Payable ₹13,000",
+            "Debit Cash ₹5,000 and Supplier Payable ₹13,000, credit Equipment ₹18,000"
+          ],
+          "answer_index": 2,
+          "explanation": "The asset increases by the full price. Cash decreases by ₹5,000 and the outstanding liability is ₹18,000 − ₹5,000 = ₹13,000. The two credits add to the equipment debit."
+        },
+        {
+          "id": "day-06-q12",
+          "topic": "Posting to the cash ledger",
+          "subject_id": "accounting",
+          "prompt": "Cash opens with a ₹12,500 debit balance. The firm receives ₹4,800 in cash, pays a supplier ₹2,200 in cash and earns ₹3,000 on credit. What closing cash balance goes to the trial balance?",
+          "options": [
+            "₹15,100 debit",
+            "₹18,100 debit",
+            "₹10,300 credit",
+            "₹19,500 debit"
+          ],
+          "answer_index": 0,
+          "explanation": "Cash closes at 12,500 + 4,800 − 2,200 = ₹15,100 debit. The ₹3,000 earned on credit increases the amount receivable and does not enter the cash ledger."
+        },
+        {
+          "id": "day-06-q13",
+          "topic": "A one-sided posting error",
+          "subject_id": "accounting",
+          "prompt": "Books originally balance. A ₹750 cash rent payment is debited correctly to Rent Expense, but its credit to Cash is omitted. How will the trial-balance totals now compare?",
+          "options": [
+            "Debits exceed credits by ₹1,500",
+            "Credits exceed debits by ₹750",
+            "Debits exceed credits by ₹750",
+            "The totals still agree"
+          ],
+          "answer_index": 2,
+          "explanation": "Only the ₹750 debit enters the ledger. The missing credit leaves the debit total ₹750 higher. Posting the credit to Cash would restore equality."
+        },
+        {
+          "id": "day-06-q14",
+          "topic": "An error that survives a trial balance",
+          "subject_id": "accounting",
+          "prompt": "A credit sale of ₹4,600 is entered at ₹4,060 in both the customer’s debit and the sales credit. What will a trial balance show if all other entries are correct?",
+          "options": [
+            "Credits exceed debits by ₹540",
+            "Debits exceed credits by ₹540",
+            "Both accounts are overstated by ₹540 and totals agree",
+            "Totals agree although the receivable and sales are each understated by ₹540"
+          ],
+          "answer_index": 3,
+          "explanation": "Each side is short by 4,600 − 4,060 = ₹540. The equal error survives the equality check. Comparing the entries with the original invoice reveals the understatement."
+        },
+        {
+          "id": "day-06-q15",
+          "topic": "Straight-line depreciation",
+          "subject_id": "accounting",
+          "prompt": "A machine costs ₹70,000, has an estimated residual value of ₹10,000 and a useful life of six years. Under straight-line depreciation, what is its carrying amount after two complete years?",
+          "options": [
+            "₹50,000",
+            "₹60,000",
+            "₹46,667",
+            "₹20,000"
+          ],
+          "answer_index": 0,
+          "explanation": "Annual depreciation is (70,000 − 10,000) ÷ 6 = ₹10,000. Two years accumulate ₹20,000 of depreciation. The carrying amount is ₹70,000 − ₹20,000 = ₹50,000."
+        }
+      ],
+      "review": [
+        "Minutes 0–5. Check the 15 explanations. Mark each missed or guessed item with one cause, such as the wrong constitutional threshold, an annual rate applied to months, a missing budget heading or an entry posted to the wrong side.",
+        "Minutes 5–10. Hide the options on two marked questions and solve them again. For a Panchayat question, underline the fact that triggers the rule. For a numerical question, show the original quantities, period or ledger side before doing the arithmetic.",
+        "Minutes 10–15. Draw the trial balance from the four-transaction example from memory. Compare the two ₹83,000 totals. Write one sentence explaining why matching totals would still allow a sale to be entered at the wrong amount. Record your score and the two questions you want to retry."
+      ],
+      "sources": [
+        {
+          "id": "day-06-constitution",
+          "title": "Legislative Department • Constitution of India, Part IX, Articles 243–243K",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf#page=150"
+        },
+        {
+          "id": "day-06-budget",
+          "title": "Ministry of Finance • Budget at a Glance 2026–27, summary table, Revenue Receipts, PDF page 5",
+          "url": "https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf#page=5"
+        },
+        {
+          "id": "day-06-ad",
+          "title": "APPSC • Assistant Director 09/2026, Annexure II, Paper II, item 4, Financial Accounting",
+          "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Assistant_Director_092026.pdf#page=16"
+        },
+        {
+          "id": "day-06-record",
+          "title": "NCERT • Accountancy, Recording of Transactions – I",
+          "url": "https://ncert.nic.in/textbook/pdf/keac103.pdf"
+        },
+        {
+          "id": "day-06-trial",
+          "title": "NCERT • Accountancy, Trial Balance and Rectification of Errors",
+          "url": "https://ncert.nic.in/textbook/pdf/keac106.pdf"
+        },
+        {
+          "id": "day-06-depreciation",
+          "title": "NCERT • Accountancy, Depreciation, Provisions and Reserves",
+          "url": "https://ncert.nic.in/textbook/pdf/keac107.pdf"
+        },
+        {
+          "id": "day-06-previous",
+          "title": "APPSC • Assistant Director 04/2019, Economics final key, Q101, PDF page 8",
+          "url": "https://psc.ap.gov.in/Documents/KEYS/AEE_ACE_AD/Economics%20Final%20key.pdf#page=8"
         }
       ]
     }
